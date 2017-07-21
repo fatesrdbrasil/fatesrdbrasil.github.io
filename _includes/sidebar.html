@@ -1,54 +1,9 @@
 <div class="sidebar">
-
-<div class="social-networks">
-{% if site.author.email %}
-<a href="mailto:{{ site.author.email }}">
-<i class="fa fa-envelope"></i>
-</a>
-{% endif %}
-{% if site.author.facebook %}
-<a href="http://facebook.com/{{ site.author.facebook }}">
-<i class="fa fa-facebook-square"></i>
-</a>
-{% endif %}
-{% if site.author.twitter %}
-<a href="http://twitter.com/{{ site.author.twitter }}">
-<i class="fa fa-twitter-square"></i>
-</a>
-{% endif %}
-{% if site.author.googleplus %}
-<a href="http://plus.google.com/{{ site.author.googleplus }}">
-<i class="fa fa-google-plus-square"></i>
-</a>
-{% endif %}
-{% if site.author.linkedin %}
-<a href="http://linkedin.com/in/{{ site.author.linkedin }}">
-<i class="fa fa-linkedin-square"></i>
-</a>
-{% endif %}
-{% if site.author.youtube %}
-<a href="http://youtube.com/user/{{ site.author.youtube }}">
-<i class="fa fa-youtube-square"></i>
-</a>
-{% endif %}
-{% if site.author.instagram %}
-<a href="http://instagram.com/{{ site.author.instagram }}">
-<i class="fa fa-instagram"></i>
-</a>
-{% endif %}
-{% if site.author.telegram %}
-<a href="http://telegram.me/{{ site.author.telegram }}">
-<i class="fa fa-paper-plane fa-fw"></i>
-</a>
-{% endif %}
-<a href="/atom.xml"><i class="fa fa-rss-square"></i></a>
-  </div>
-  <div class="authors"><img src="{{ site.author.avatar }}" alt="{{ site.author.name }}"/></div>
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
         <a href="{{ site.baseurl }}">
-          {{ site.title | markdownify }}
+          {{ site.title }}
         </a>
       </h1>
       <p class="lead">{{ site.description }}</p>
@@ -70,13 +25,12 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-{% comment %}
+
       <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
-{% endcomment %}
   </div>
 </div>
