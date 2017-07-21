@@ -24,8 +24,8 @@ paginate:         3
 # Custom vars
 version:          2.1.0
 
-github:
-  repo:           https://github.com/poole/hyde
+#github:
+#  repo:           https://github.com/poole/hyde
 
 # collections:
 #   fate-srd:
