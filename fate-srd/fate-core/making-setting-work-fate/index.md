@@ -1,5 +1,6 @@
 ---
 title: "Making the Setting Work in Fate"
+layout: default
 ---
     
 Fate Core

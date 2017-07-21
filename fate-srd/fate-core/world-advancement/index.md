@@ -1,5 +1,6 @@
 ---
 title: "World Advancement"
+layout: default
 ---
     
 Fate Core

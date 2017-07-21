@@ -1,5 +1,6 @@
 ---
 title: "Monsters"
+layout: default
 ---
     
 Fate System Toolkit

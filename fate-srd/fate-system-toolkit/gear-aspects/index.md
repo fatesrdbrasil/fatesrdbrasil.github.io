@@ -1,5 +1,6 @@
 ---
 title: "Gear Aspects"
+layout: default
 ---
     
 Fate System Toolkit

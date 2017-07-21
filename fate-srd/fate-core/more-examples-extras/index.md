@@ -1,5 +1,6 @@
 ---
 title: "More Examples of Extras"
+layout: default
 ---
     
 Fate Core

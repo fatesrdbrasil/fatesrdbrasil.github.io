@@ -1,5 +1,6 @@
 ---
 title: "Lore"
+layout: default
 ---
     
 Fate Core

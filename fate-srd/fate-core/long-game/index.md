@@ -1,5 +1,6 @@
 ---
 title: "The Long Game"
+layout: default
 ---
     
 Fate Core

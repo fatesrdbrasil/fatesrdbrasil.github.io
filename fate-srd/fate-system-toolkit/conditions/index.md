@@ -1,5 +1,6 @@
 ---
 title: "Conditions"
+layout: default
 ---
     
 Fate System Toolkit

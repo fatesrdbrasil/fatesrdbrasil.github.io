@@ -1,5 +1,6 @@
 ---
 title: "Stormcallers"
+layout: default
 ---
     
 Fate System Toolkit

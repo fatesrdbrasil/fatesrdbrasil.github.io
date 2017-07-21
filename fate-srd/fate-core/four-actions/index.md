@@ -1,5 +1,6 @@
 ---
 title: "Four Actions"
+layout: default
 ---
     
 Fate Core

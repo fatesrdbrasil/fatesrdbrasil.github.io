@@ -1,5 +1,6 @@
 ---
 title: "The Big Game"
+layout: default
 ---
     
 Fate System Toolkit

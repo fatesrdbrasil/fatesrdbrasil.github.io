@@ -1,5 +1,6 @@
 ---
 title: "Aspect Events"
+layout: default
 ---
     
 Fate System Toolkit

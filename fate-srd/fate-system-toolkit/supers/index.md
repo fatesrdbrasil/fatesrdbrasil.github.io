@@ -1,5 +1,6 @@
 ---
 title: "Supers"
+layout: default
 ---
     
 Fate System Toolkit

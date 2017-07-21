@@ -1,5 +1,6 @@
 ---
 title: "Rules vs. Rulings"
+layout: default
 ---
     
 Fate System Toolkit

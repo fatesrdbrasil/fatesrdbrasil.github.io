@@ -1,5 +1,6 @@
 ---
 title: "Fate Point Economy"
+layout: default
 ---
     
 Fate Core

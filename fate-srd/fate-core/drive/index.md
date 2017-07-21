@@ -1,5 +1,6 @@
 ---
 title: "Drive"
+layout: default
 ---
     
 Fate Core

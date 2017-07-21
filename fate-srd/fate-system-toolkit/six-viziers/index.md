@@ -1,5 +1,6 @@
 ---
 title: "The Six Viziers"
+layout: default
 ---
     
 Fate System Toolkit

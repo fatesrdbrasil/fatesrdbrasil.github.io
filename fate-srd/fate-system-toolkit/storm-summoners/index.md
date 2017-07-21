@@ -1,5 +1,6 @@
 ---
 title: "Storm Summoners"
+layout: default
 ---
     
 Fate System Toolkit

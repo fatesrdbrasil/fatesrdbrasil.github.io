@@ -1,5 +1,6 @@
 ---
 title: "Four Outcomes"
+layout: default
 ---
     
 Fate Core

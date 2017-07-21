@@ -1,5 +1,6 @@
 ---
 title: "Modifying the Setting: Making Big Changes"
+layout: default
 ---
     
 Fate System Toolkit

@@ -1,5 +1,6 @@
 ---
 title: "The Subtle Art"
+layout: default
 ---
     
 Fate System Toolkit

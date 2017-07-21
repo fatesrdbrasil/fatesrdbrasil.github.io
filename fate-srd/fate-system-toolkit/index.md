@@ -1,5 +1,6 @@
 ---
 title: Fate System Toolkit
+layout: default
 ---
 # Fate System Toolkit
 

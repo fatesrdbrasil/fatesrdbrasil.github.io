@@ -1,5 +1,6 @@
 ---
 title: "Athletics"
+layout: default
 ---
     
 Fate Core

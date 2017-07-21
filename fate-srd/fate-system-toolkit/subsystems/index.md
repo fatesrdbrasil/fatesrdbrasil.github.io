@@ -1,5 +1,6 @@
 ---
 title: "Subsystems"
+layout: default
 ---
     
 Fate System Toolkit

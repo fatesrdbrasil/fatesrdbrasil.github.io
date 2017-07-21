@@ -1,5 +1,6 @@
 ---
 title: "Provoke"
+layout: default
 ---
     
 Fate Core

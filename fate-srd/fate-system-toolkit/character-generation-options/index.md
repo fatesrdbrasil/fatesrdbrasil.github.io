@@ -1,5 +1,6 @@
 ---
 title: "Character Generation Options"
+layout: default
 ---
     
 Fate System Toolkit

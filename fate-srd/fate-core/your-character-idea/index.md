@@ -1,5 +1,6 @@
 ---
 title: "Your Character Idea"
+layout: default
 ---
     
 Fate Core

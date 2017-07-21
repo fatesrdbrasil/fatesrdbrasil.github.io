@@ -1,5 +1,6 @@
 ---
 title: "Other Dice"
+layout: default
 ---
     
 Fate System Toolkit

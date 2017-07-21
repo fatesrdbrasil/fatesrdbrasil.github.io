@@ -1,5 +1,6 @@
 ---
 title: "Notice"
+layout: default
 ---
     
 Fate Core

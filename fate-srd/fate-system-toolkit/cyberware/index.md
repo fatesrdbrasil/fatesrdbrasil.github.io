@@ -1,5 +1,6 @@
 ---
 title: "Cyberware"
+layout: default
 ---
     
 Fate System Toolkit

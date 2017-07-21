@@ -1,5 +1,6 @@
 ---
 title: "Set Up The First Scene"
+layout: default
 ---
     
 Fate Core

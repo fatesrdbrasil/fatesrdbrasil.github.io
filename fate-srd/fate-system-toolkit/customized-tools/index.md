@@ -1,5 +1,6 @@
 ---
 title: "Customized Tools"
+layout: default
 ---
     
 Fate System Toolkit

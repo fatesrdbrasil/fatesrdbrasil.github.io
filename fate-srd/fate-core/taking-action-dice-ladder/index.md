@@ -1,5 +1,6 @@
 ---
 title: "Taking Action, Dice, &amp; The Ladder"
+layout: default
 ---
     
 Fate Core

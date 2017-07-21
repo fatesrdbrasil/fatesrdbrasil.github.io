@@ -1,5 +1,6 @@
 ---
 title: "Running the Game"
+layout: default
 ---
     
 Fate Core

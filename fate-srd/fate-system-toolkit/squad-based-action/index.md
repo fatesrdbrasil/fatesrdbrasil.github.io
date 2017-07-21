@@ -1,5 +1,6 @@
 ---
 title: "Squad-Based Action"
+layout: default
 ---
     
 Fate System Toolkit

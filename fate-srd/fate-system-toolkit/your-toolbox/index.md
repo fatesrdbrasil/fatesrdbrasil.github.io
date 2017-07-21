@@ -1,5 +1,6 @@
 ---
 title: "Your Toolbox"
+layout: default
 ---
     
 Fate System Toolkit

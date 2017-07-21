@@ -1,5 +1,6 @@
 ---
 title: "You’re All Set!"
+layout: default
 ---
     
 Fate Core

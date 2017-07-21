@@ -1,5 +1,6 @@
 ---
 title: "The Character Sheet"
+layout: default
 ---
     
 Fate Core

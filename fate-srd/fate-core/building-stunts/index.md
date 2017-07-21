@@ -1,5 +1,6 @@
 ---
 title: "Building Stunts"
+layout: default
 ---
     
 Fate Core

@@ -1,5 +1,6 @@
 ---
 title: "Actions &amp; Outcomes"
+layout: default
 ---
     
 Fate Core

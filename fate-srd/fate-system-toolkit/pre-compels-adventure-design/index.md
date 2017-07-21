@@ -1,5 +1,6 @@
 ---
 title: "Pre-Compels as Adventure Design"
+layout: default
 ---
     
 Fate System Toolkit

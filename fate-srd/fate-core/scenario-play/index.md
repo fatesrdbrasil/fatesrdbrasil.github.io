@@ -1,5 +1,6 @@
 ---
 title: "The Scenario In Play"
+layout: default
 ---
     
 Fate Core

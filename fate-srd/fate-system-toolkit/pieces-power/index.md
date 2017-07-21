@@ -1,5 +1,6 @@
 ---
 title: "Pieces of Power"
+layout: default
 ---
     
 Fate System Toolkit

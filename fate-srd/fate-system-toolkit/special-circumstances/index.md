@@ -1,5 +1,6 @@
 ---
 title: "Special Circumstances"
+layout: default
 ---
     
 Fate System Toolkit

@@ -1,5 +1,6 @@
 ---
 title: "Types of Aspects"
+layout: default
 ---
     
 Fate Core

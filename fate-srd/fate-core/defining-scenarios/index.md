@@ -1,5 +1,6 @@
 ---
 title: "Defining Scenarios"
+layout: default
 ---
     
 Fate Core

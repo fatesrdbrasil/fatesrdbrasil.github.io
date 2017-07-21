@@ -1,5 +1,6 @@
 ---
 title: "Aspects &amp; Fate Points"
+layout: default
 ---
     
 Fate Core

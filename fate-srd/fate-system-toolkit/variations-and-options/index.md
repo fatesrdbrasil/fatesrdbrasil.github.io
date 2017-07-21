@@ -1,5 +1,6 @@
 ---
 title: "Variations and Options"
+layout: default
 ---
     
 Fate System Toolkit

@@ -1,5 +1,6 @@
 ---
 title: "Stunt Costs"
+layout: default
 ---
     
 Fate System Toolkit

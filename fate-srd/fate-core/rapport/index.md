@@ -1,5 +1,6 @@
 ---
 title: "Rapport"
+layout: default
 ---
     
 Fate Core

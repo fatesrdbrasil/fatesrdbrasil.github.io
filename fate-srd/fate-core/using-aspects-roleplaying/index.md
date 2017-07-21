@@ -1,5 +1,6 @@
 ---
 title: "Using Aspects For Roleplaying"
+layout: default
 ---
     
 Fate Core

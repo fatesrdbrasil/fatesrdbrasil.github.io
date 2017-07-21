@@ -1,5 +1,6 @@
 ---
 title: "Other Solutions"
+layout: default
 ---
     
 Fate System Toolkit

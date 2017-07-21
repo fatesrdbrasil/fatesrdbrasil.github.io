@@ -1,5 +1,6 @@
 ---
 title: "The Horror Paradox"
+layout: default
 ---
     
 Fate System Toolkit

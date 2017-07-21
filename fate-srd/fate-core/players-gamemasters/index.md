@@ -1,5 +1,6 @@
 ---
 title: "Players &amp; Gamemasters"
+layout: default
 ---
     
 Fate Core

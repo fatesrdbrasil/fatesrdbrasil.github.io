@@ -1,5 +1,6 @@
 ---
 title: "Challenges, Contests, &amp; Conflicts"
+layout: default
 ---
     
 Fate Core

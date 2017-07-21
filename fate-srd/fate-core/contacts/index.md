@@ -1,5 +1,6 @@
 ---
 title: "Contacts"
+layout: default
 ---
     
 Fate Core

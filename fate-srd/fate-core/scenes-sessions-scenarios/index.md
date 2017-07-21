@@ -1,5 +1,6 @@
 ---
 title: "Scenes, Sessions, &amp; Scenarios"
+layout: default
 ---
     
 Fate Core

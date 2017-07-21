@@ -1,5 +1,6 @@
 ---
 title: "Crafts"
+layout: default
 ---
     
 Fate Core

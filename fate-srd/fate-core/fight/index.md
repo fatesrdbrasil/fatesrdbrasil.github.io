@@ -1,5 +1,6 @@
 ---
 title: "Fight"
+layout: default
 ---
     
 Fate Core

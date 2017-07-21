@@ -1,5 +1,6 @@
 ---
 title: "Defining Scenes"
+layout: default
 ---
     
 Fate Core

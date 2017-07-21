@@ -1,5 +1,6 @@
 ---
 title: "Ask Story Questions"
+layout: default
 ---
     
 Fate Core

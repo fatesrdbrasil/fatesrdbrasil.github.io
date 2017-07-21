@@ -1,5 +1,6 @@
 ---
 title: "Making Your Own"
+layout: default
 ---
     
 Fate System Toolkit

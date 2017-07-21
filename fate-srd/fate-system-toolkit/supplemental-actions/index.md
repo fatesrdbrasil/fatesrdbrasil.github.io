@@ -1,5 +1,6 @@
 ---
 title: "Supplemental Actions"
+layout: default
 ---
     
 Fate System Toolkit

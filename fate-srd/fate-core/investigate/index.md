@@ -1,5 +1,6 @@
 ---
 title: "Investigate"
+layout: default
 ---
     
 Fate Core

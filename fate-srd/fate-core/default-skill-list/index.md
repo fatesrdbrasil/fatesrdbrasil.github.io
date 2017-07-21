@@ -1,5 +1,6 @@
 ---
 title: "Default Skill List"
+layout: default
 ---
     
 Fate Core

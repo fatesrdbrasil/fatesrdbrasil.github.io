@@ -1,5 +1,6 @@
 ---
 title: "Advancement &amp; Change"
+layout: default
 ---
     
 Fate Core

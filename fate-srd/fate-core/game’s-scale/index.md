@@ -1,5 +1,6 @@
 ---
 title: "A Game’s Scale"
+layout: default
 ---
     
 Fate Core

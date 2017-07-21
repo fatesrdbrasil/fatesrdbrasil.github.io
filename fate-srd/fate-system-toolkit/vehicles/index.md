@@ -1,5 +1,6 @@
 ---
 title: "Vehicles"
+layout: default
 ---
     
 Fate System Toolkit

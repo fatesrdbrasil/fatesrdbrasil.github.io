@@ -1,5 +1,6 @@
 ---
 title: "Creating An Extra"
+layout: default
 ---
     
 Fate Core

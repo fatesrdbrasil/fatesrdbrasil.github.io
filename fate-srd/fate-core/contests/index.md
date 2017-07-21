@@ -1,5 +1,6 @@
 ---
 title: "Contests"
+layout: default
 ---
     
 Fate Core

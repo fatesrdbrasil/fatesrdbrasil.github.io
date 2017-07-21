@@ -1,5 +1,6 @@
 ---
 title: "Wealth"
+layout: default
 ---
     
 Fate System Toolkit

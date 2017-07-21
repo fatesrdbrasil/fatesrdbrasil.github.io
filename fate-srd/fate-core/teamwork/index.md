@@ -1,5 +1,6 @@
 ---
 title: "Teamwork"
+layout: default
 ---
     
 Fate Core

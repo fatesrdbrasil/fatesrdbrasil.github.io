@@ -1,5 +1,6 @@
 ---
 title: "Kung Fu"
+layout: default
 ---
     
 Fate System Toolkit

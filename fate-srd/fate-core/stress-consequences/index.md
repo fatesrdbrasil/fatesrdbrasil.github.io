@@ -1,5 +1,6 @@
 ---
 title: "Stress &amp; Consequences"
+layout: default
 ---
     
 Fate Core

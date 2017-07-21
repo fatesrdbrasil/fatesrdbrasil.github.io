@@ -1,5 +1,6 @@
 ---
 title: "Empathy"
+layout: default
 ---
     
 Fate Core

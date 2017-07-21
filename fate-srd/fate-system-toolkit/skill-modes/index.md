@@ -1,5 +1,6 @@
 ---
 title: "Skill Modes"
+layout: default
 ---
     
 Fate System Toolkit

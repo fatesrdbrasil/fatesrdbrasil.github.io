@@ -1,5 +1,6 @@
 ---
 title: "Building An Arc"
+layout: default
 ---
     
 Fate Core

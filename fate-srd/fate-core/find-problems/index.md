@@ -1,5 +1,6 @@
 ---
 title: "Find Problems"
+layout: default
 ---
     
 Fate Core

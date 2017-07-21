@@ -1,5 +1,6 @@
 ---
 title: "Building A Campaign"
+layout: default
 ---
     
 Fate Core

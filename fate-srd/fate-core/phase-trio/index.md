@@ -1,5 +1,6 @@
 ---
 title: "The Phase Trio"
+layout: default
 ---
     
 Fate Core

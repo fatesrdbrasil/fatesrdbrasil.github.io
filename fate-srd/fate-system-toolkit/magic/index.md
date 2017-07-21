@@ -1,5 +1,6 @@
 ---
 title: "Magic"
+layout: default
 ---
     
 Fate System Toolkit

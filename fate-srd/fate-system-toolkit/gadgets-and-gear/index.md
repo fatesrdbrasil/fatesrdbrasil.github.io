@@ -1,5 +1,6 @@
 ---
 title: "Gadgets and Gear"
+layout: default
 ---
     
 Fate System Toolkit

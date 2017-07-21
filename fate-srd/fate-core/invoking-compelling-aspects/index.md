@@ -1,5 +1,6 @@
 ---
 title: "Invoking &amp; Compelling Aspects"
+layout: default
 ---
     
 Fate Core

@@ -1,5 +1,6 @@
 ---
 title: "Swashbuckling Duels"
+layout: default
 ---
     
 Fate System Toolkit

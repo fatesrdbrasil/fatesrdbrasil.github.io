@@ -1,5 +1,6 @@
 ---
 title: "Physique"
+layout: default
 ---
     
 Fate Core

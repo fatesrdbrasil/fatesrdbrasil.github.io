@@ -1,5 +1,6 @@
 ---
 title: "Basics"
+layout: default
 ---
     
 Fate Core

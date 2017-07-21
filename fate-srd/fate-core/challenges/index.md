@@ -1,5 +1,6 @@
 ---
 title: "Challenges"
+layout: default
 ---
     
 Fate Core

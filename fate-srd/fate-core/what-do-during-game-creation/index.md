@@ -1,5 +1,6 @@
 ---
 title: "What To Do During Game Creation"
+layout: default
 ---
     
 Fate Core

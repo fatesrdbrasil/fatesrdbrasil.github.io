@@ -1,5 +1,6 @@
 ---
 title: "Establish the Opposition"
+layout: default
 ---
     
 Fate Core

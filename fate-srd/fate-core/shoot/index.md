@@ -1,5 +1,6 @@
 ---
 title: "Shoot"
+layout: default
 ---
     
 Fate Core

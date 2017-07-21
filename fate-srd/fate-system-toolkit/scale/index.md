@@ -1,5 +1,6 @@
 ---
 title: "Scale"
+layout: default
 ---
     
 Fate System Toolkit

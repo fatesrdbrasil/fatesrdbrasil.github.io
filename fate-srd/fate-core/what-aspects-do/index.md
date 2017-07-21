@@ -1,5 +1,6 @@
 ---
 title: "What Aspects Do"
+layout: default
 ---
     
 Fate Core

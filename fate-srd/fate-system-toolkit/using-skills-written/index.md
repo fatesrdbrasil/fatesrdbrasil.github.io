@@ -1,5 +1,6 @@
 ---
 title: "Using Skills as Written"
+layout: default
 ---
     
 Fate System Toolkit

@@ -1,5 +1,6 @@
 ---
 title: "Burglary"
+layout: default
 ---
     
 Fate Core

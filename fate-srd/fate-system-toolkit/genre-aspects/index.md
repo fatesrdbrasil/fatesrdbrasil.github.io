@@ -1,5 +1,6 @@
 ---
 title: "Genre Aspects"
+layout: default
 ---
     
 Fate System Toolkit

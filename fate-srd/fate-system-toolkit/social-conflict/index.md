@@ -1,5 +1,6 @@
 ---
 title: "Social Conflict"
+layout: default
 ---
     
 Fate System Toolkit

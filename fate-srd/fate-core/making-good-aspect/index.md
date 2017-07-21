@@ -1,5 +1,6 @@
 ---
 title: "Making A Good Aspect"
+layout: default
 ---
     
 Fate Core

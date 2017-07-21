@@ -1,5 +1,6 @@
 ---
 title: "Conflicts"
+layout: default
 ---
     
 Fate Core

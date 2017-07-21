@@ -1,5 +1,6 @@
 ---
 title: "Other Skill Functions"
+layout: default
 ---
     
 Fate System Toolkit

@@ -1,5 +1,6 @@
 ---
 title: "Creating and Playing the Opposition (NPCs)"
+layout: default
 ---
     
 Fate Core

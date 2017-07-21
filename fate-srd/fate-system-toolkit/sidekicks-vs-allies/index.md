@@ -1,5 +1,6 @@
 ---
 title: "Sidekicks vs. Allies"
+layout: default
 ---
     
 Fate System Toolkit

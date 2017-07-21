@@ -1,5 +1,6 @@
 ---
 title: "Power Level"
+layout: default
 ---
     
 Fate System Toolkit

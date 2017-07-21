@@ -1,5 +1,6 @@
 ---
 title: "Make Characters"
+layout: default
 ---
     
 Fate Core

@@ -1,5 +1,6 @@
 ---
 title: "The Bronze Rule"
+layout: default
 ---
     
 Fate System Toolkit

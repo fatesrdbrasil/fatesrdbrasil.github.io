@@ -1,5 +1,6 @@
 ---
 title: "Skills &amp; Stunts"
+layout: default
 ---
     
 Fate Core

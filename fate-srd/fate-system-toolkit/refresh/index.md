@@ -1,5 +1,6 @@
 ---
 title: "Refresh"
+layout: default
 ---
     
 Fate System Toolkit

@@ -1,5 +1,6 @@
 ---
 title: "Start Playing"
+layout: default
 ---
     
 Fate Core

@@ -1,5 +1,6 @@
 ---
 title: "Feedback Heroes"
+layout: default
 ---
     
 Fate Core

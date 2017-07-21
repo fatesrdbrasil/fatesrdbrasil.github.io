@@ -1,5 +1,6 @@
 ---
 title: "Faces &amp; Places"
+layout: default
 ---
     
 Fate Core

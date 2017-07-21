@@ -1,5 +1,6 @@
 ---
 title: "Stunts"
+layout: default
 ---
     
 Fate System Toolkit

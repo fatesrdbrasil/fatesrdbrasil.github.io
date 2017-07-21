@@ -1,5 +1,6 @@
 ---
 title: "Structural Changes"
+layout: default
 ---
     
 Fate System Toolkit

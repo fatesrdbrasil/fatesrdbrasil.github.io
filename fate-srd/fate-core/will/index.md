@@ -1,5 +1,6 @@
 ---
 title: "Will"
+layout: default
 ---
     
 Fate Core

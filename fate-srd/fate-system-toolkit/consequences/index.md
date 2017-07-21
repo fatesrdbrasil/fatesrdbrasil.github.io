@@ -1,5 +1,6 @@
 ---
 title: "Consequences"
+layout: default
 ---
     
 Fate System Toolkit

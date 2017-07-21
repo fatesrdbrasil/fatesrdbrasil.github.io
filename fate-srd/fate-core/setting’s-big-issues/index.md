@@ -1,5 +1,6 @@
 ---
 title: "The Setting’s Big Issues"
+layout: default
 ---
     
 Fate Core

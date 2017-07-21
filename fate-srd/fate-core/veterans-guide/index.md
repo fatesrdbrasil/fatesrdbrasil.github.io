@@ -1,5 +1,6 @@
 ---
 title: "Veteran's Guide"
+layout: default
 ---
     
 Fate Core

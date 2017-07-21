@@ -1,5 +1,6 @@
 ---
 title: "What To Do During Play"
+layout: default
 ---
     
 Fate Core

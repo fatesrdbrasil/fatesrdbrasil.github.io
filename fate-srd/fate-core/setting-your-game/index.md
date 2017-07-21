@@ -1,5 +1,6 @@
 ---
 title: "Setting Up Your Game"
+layout: default
 ---
     
 Fate Core

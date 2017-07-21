@@ -1,5 +1,6 @@
 ---
 title: "What You Need To Play"
+layout: default
 ---
     
 Fate Core

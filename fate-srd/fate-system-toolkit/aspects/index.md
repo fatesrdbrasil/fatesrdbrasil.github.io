@@ -1,5 +1,6 @@
 ---
 title: "Aspects"
+layout: default
 ---
     
 Fate System Toolkit

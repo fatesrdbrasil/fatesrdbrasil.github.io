@@ -1,5 +1,6 @@
 ---
 title: "Voidcallers"
+layout: default
 ---
     
 Fate System Toolkit

@@ -1,5 +1,6 @@
 ---
 title: "Zones"
+layout: default
 ---
     
 Fate System Toolkit

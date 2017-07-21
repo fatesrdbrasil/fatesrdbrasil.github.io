@@ -1,5 +1,6 @@
 ---
 title: "This Means War: Mass Combat"
+layout: default
 ---
     
 Fate System Toolkit

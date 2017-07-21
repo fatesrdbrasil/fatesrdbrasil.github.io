@@ -1,5 +1,6 @@
 ---
 title: "Stealth"
+layout: default
 ---
     
 Fate Core

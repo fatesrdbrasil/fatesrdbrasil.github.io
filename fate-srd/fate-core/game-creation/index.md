@@ -1,5 +1,6 @@
 ---
 title: "Game Creation"
+layout: default
 ---
     
 Fate Core

@@ -1,5 +1,6 @@
 ---
 title: "Weapons and Armor Alternatives"
+layout: default
 ---
     
 Fate System Toolkit

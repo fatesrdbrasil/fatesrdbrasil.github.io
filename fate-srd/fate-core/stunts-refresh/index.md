@@ -1,5 +1,6 @@
 ---
 title: "Stunts &amp; Refresh"
+layout: default
 ---
     
 Fate Core

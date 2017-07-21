@@ -1,5 +1,6 @@
 ---
 title: "Deceive"
+layout: default
 ---
     
 Fate Core
