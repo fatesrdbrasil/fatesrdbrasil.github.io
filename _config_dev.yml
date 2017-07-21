@@ -1,0 +1,9 @@
+# For local mode
+#
+# Use this command to fire jekyll
+#  
+# jekyll serve --config _config.yml,_config_dev.yml
+
+#gems: []
+url: "http://localhost:4000"
+baseurl: /

@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+<div class="page">
+    <h1 class="page-title">{{ page.title | markdownify }}</h1>
+    <h2 class="page-subtitle">{% if page.subtitle %}{{ page.subtitle | markdownify }}{% elsif page.subheadline %}{{ page.subheadline | markdownify }}{% endif %}</h2>
+
+    <blockquote>
+        <ul>
+            <li>
+{% if page.language contains "en" %}
+                <b>
+                    GM: {{ page.gm }}                  
+                </b>
+            </li>
+            {% if page.pcs %}
+            <li>
+                <b>
+                    Players:
+                </b>
+            </li>
+            <ul>
+                {% for player_data in page.pcs %}
+                <li>{% if player_data.link %}<a href="{{ player_data.link }}">{% endif %}<b>{{ player_data.player }}</b> as <i>{{ player_data.name}}</i> {% if player_data.kind %}(<b>Type:</b> {{player_data.kind}}){% endif %};{% if player_data.link %}</a>{% endif %}</li>
+                    {% endfor %}
+                    {% endif %}
+{% else %}
+                    <b>
+                        Narrador: {{ page.gm }}
+                    </b>
+                    {% if page.pcs %}
+                    <li><b>Jogadores:</b></li>
+                    <ul>
+                        {% for player_data in page.pcs %}
+                        <li>{% if player_data.link %}<a href="{{ player_data.link }}">{% endif %}<b>{{ player_data.player }}</b> como <i>{{ player_data.name}}</i> {% if player_data.link %}(<b>Tipo:</b> {{player_data.kind}}){% endif %};{% if player_data.link %}</a>{% endif %}</li>
+                            {% endfor %}
+    </b>
+    {% endif %}
+    {% endif %}
+                    </ul></li>
+            </ul>
+    </blockquote>
+
+    {{ content }}
+
+
+</div>
+
+{% if player_data.link %}{% endif %}

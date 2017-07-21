@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+{% if page.language == "en" %}
+
+{% include reviews.en.html %}
+
+{% else if page.language == "br" %}
+
+{% include reviews.br.html %}
+
+{% endif %}

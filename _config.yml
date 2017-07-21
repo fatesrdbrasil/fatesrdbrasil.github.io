@@ -1,0 +1,44 @@
+# Dependencies
+markdown:         kramdown
+#highlighter:      pygments
+gems:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Permalinks
+permalink:        /:categories/:title/
+#permalink:        pretty
+#relative_permalinks: true
+encoding: utf-8
+
+# Setup
+title:            Fate SRD Brasil
+tagline:          'As regras básicas do Fate para quem quiser aproveitar ele bem'
+description:      ''
+url:              http://fatesrdbrasil.github.io/
+baseurl:          '/'
+
+author:
+  name:           'Fate SRD Brasil'
+  avatar:         /assets/img/fate-srd.png
+
+
+paginate:         3
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
+
+# collections:
+#   fate-srd:
+#     output: true
+#     permalink: /:collection/:path
+#   fate-srd-brasil:
+#     output: true
+#     permalink: /:collection/:path
+
+#excerpt_separator: "\n---\n"
+excerpt_separator: <!-- excerpt -->
