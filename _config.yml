@@ -1,15 +1,11 @@
 # Dependencies
-markdown:         kramdown
-#highlighter:      pygments
-gems:
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-sitemap
+markdown:         redcarpet
+highlighter:      pygments
 
 # Permalinks
-permalink:        /:categories/:title/
-#permalink:        pretty
-#relative_permalinks: true
+#permalink:        /:categories/:title/
+permalink:        pretty
+relative_permalinks: true
 encoding: utf-8
 
 # Setup
@@ -21,7 +17,6 @@ baseurl:          /
 
 author:
   name:           'Fate SRD Brasil'
-  avatar:         /assets/img/fate-srd.png
 
 
 paginate:         3
