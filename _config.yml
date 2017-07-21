@@ -13,7 +13,7 @@ title:            Fate SRD Brasil
 tagline:          'As regras básicas do Fate para quem quiser aproveitar ele bem'
 description:      ''
 url:              http://fatesrdbrasil.github.io/
-baseurl:          /
+baseurl:          '/'
 
 author:
   name:           'Fate SRD Brasil'
