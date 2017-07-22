@@ -2,8 +2,6 @@
 title: "Provoke"
 layout: default
 ---
-    
-Fate Core
 
 #  Provoke
 
@@ -45,8 +43,8 @@ make you better at avoiding it yourself. You need Will for that.
   * **Provoke Violence**. When you create an advantage on an opponent using Provoke, you can use your free invocation to become the target of that character’s next relevant action, drawing their attention away from another target.
   * **Okay, Fine!** You can use Provoke in place of Empathy to learn a target’s aspects, by bullying them until they reveal one to you. The target defends against this with Will. (If the GM thinks the aspect is particularly vulnerable to your hostile approach, you get a +2 bonus.)
 
-  * [« Physique](/fate-core/physique)
-  * [Rapport »](/fate-core/rapport)
+  * [« Physique](/fate-srd/fate-core/physique)
+  * [Rapport »](/fate-srd/fate-core/rapport)
 
   *[GM]: Game Master
   *[NPC]: Non-Player Character

@@ -2,8 +2,6 @@
 title: "Running the Game"
 layout: default
 ---
-    
-Fate Core
 
 #  Running the Game
 
@@ -165,8 +163,8 @@ and what they’ll have to go through in order to win the day.
 This job gets a whole section all on its own. See [Scenes, Sessions, and
 Scenarios](../../fate-core/scenes-sessions-scenarios).
 
-  * [« Teamwork](/fate-core/teamwork)
-  * [What To Do During Game Creation »](/fate-core/what-do-during-game-creation)
+  * [« Teamwork](/fate-srd/fate-core/teamwork)
+  * [What To Do During Game Creation »](/fate-srd/fate-core/what-do-during-game-creation)
 
   *[GM]: Game Master
   *[NPC]: Non-Player Character

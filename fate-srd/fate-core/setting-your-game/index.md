@@ -22,6 +22,6 @@ First, we’ll start by talking about your setting. We’ll handle the specifics
 on the protagonists later, in [Character Creation](../../fate-core
 /character-creation "Character Creation" ).
 
-  * [« Game Creation](/fate-core/game-creation)
-  * [Making the Setting Work in Fate »](/fate-core/making-setting-work-fate)
+  * [« Game Creation](/fate-srd/fate-core/game-creation)
+  * [Making the Setting Work in Fate »](/fate-srd/fate-core/making-setting-work-fate)
 

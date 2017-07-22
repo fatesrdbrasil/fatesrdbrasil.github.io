@@ -3,7 +3,6 @@ title: "Game Creation"
 layout: default
 ---
     
-Fate Core
 
 #  Game Creation
 
@@ -86,8 +85,8 @@ is_.
   * **Skills and Stunts:** Decide what sorts of things characters in the setting are likely to want to do.
   * **Character Creation:** Make the PCs.
 
-  * [« Start Playing](/fate-core/start-playing)
-  * [Setting Up Your Game »](/fate-core/setting-your-game)
+  * [« Start Playing](/fate-srd/fate-core/start-playing)
+  * [Setting Up Your Game »](/fate-srd/fate-core/setting-your-game)
 
   *[NPC]: Non-Player Character
   *[PC]: Player Character

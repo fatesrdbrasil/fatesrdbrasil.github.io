@@ -2,8 +2,6 @@
 title: "Making A Good Aspect"
 layout: default
 ---
-    
-Fate Core
 
 #  Making A Good Aspect
 
@@ -263,8 +261,8 @@ jumpstart your own train of thought. If everyone has a bit of input on
 everyone else’s characters, the game will benefit from that sense of mutual
 investment.
 
-  * [« What Aspects Do](/fate-core/what-aspects-do)
-  * [Invoking &amp; Compelling »](/fate-core/invoking-compelling-aspects)
+  * [« What Aspects Do](/fate-srd/fate-core/what-aspects-do)
+  * [Invoking &amp; Compelling »](/fate-srd/fate-core/invoking-compelling-aspects)
 
   *[GM]: Game Master
   *[NPC]: Non-Player Character

@@ -2,8 +2,6 @@
 title: "Will"
 layout: default
 ---
-    
-Fate Core
 
 #  Will
 
@@ -45,6 +43,6 @@ reactions.
   * **Hard Boiled**. You can choose to ignore a mild or moderate consequence for the duration of the scene. It can’t be compelled against you or invoked by your enemies. At the end of the scene it comes back worse, though; if it was a mild consequence it becomes a moderate consequence, and if it was already moderate, it becomes severe.
   * **Indomitable**. +2 to defend against Provoke attacks specifically related to intimidation and fear.
 
-  * [« Stealth](/fate-core/stealth)
-  * [Actions &amp; Outcomes »](/fate-core/actions-outcomes)
+  * [« Stealth](/fate-srd/fate-core/stealth)
+  * [Actions &amp; Outcomes »](/fate-srd/fate-core/actions-outcomes)
 

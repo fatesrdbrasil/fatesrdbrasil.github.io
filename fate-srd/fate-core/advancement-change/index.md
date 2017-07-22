@@ -2,8 +2,6 @@
 title: "Advancement &amp; Change"
 layout: default
 ---
-    
-Fate Core
 
 #  Advancement &amp; Change
 
@@ -335,8 +333,8 @@ everyone’s still on the same page about the game. And GMs, remember—the more
 you give the players a chance to actively invest in the game world, the more
 it’ll pay off for you when you’re running the game.
 
-  * [« Building A Campaign](/fate-core/building-campaign)
-  * [World Advancement »](/fate-core/world-advancement)
+  * [« Building A Campaign](/fate-srd/fate-core/building-campaign)
+  * [World Advancement »](/fate-srd/fate-core/world-advancement)
 
   *[GM]: Game Master
   *[NPC]: Non-Player Character

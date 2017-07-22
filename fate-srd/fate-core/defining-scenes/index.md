@@ -2,8 +2,6 @@
 title: "Defining Scenes"
 layout: default
 ---
-    
-Fate Core
 
 #  Defining Scenes
 
@@ -230,8 +228,8 @@ trial for crimes against creation? How about we start with your mom, ugly!”
 
 > Amanda tosses Lily a fate point. “Nice.”
 
-  * [« Set Up The First Scene](/fate-core/set-first-scene)
-  * [The Scenario In Play »](/fate-core/scenario-play)
+  * [« Set Up The First Scene](/fate-srd/fate-core/set-first-scene)
+  * [The Scenario In Play »](/fate-srd/fate-core/scenario-play)
 
   *[GM]: Game Master
   *[PC]: Player Character

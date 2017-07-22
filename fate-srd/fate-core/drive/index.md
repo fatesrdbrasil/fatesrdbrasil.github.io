@@ -3,8 +3,6 @@ title: "Drive"
 layout: default
 ---
     
-Fate Core
-
 #  Drive
 
 The Drive skill is all about operating vehicles and things that go fast.
@@ -58,6 +56,6 @@ someone trying to move past you in a vehicle.
   * **Pedal to the Metal**. You can coax more speed out of your vehicle than seems possible. Whenever you’re engaged in any contest where speed is the primary factor (such as a chase or race of some kind) and you tie with your Drive roll, it’s considered a success.
   * **Ramming Speed!** When ramming another vehicle, you ignore two shifts of damage. So if you ram and hit for four shifts, you only take two yourself.
 
-  * [« Deceive](/fate-core/deceive)
-  * [Empathy »](/fate-core/empathy)
+  * [« Deceive](/fate-srd/fate-core/deceive)
+  * [Empathy »](/fate-srd/fate-core/empathy)
 

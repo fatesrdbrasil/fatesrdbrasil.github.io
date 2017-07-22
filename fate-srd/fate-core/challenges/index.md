@@ -2,8 +2,6 @@
 title: "Challenges"
 layout: default
 ---
-    
-Fate Core
 
 #  Challenges
 
@@ -159,8 +157,8 @@ Because you’re always up against passive opposition in a challenge, you’ll
 never use the attack action. If you’re in a situation where it seems
 reasonable to roll an attack, you should start setting up for a conflict.
 
-  * [« Challenges, Contests, &amp; Conflicts](/fate-core/challenges-contests-conflicts)
-  * [Contests »](/fate-core/contests)
+  * [« Challenges, Contests, &amp; Conflicts](/fate-srd/fate-core/challenges-contests-conflicts)
+  * [Contests »](/fate-srd/fate-core/contests)
 
   *[GM]: Game Master
 

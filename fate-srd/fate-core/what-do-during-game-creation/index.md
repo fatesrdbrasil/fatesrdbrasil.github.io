@@ -2,8 +2,6 @@
 title: "What To Do During Game Creation"
 layout: default
 ---
-    
-Fate Core
 
 #  What To Do During Game Creation
 
@@ -115,8 +113,8 @@ you’re going to want to figure that out now, before play begins. See the
 [Extras](../../fate-core/extras "Extras" ) section for more on what
 extras are and how you can make use of them in your game.
 
-  * [« Running the Game](/fate-core/running-game)
-  * [What To Do During Play »](/fate-core/what-do-during-play)
+  * [« Running the Game](/fate-srd/fate-core/running-game)
+  * [What To Do During Play »](/fate-srd/fate-core/what-do-during-play)
 
   *[GM]: Game Master
   *[NPC]: Non-Player Character

@@ -2,8 +2,6 @@
 title: "Quick Character Creation"
 layout: default
 ---
-    
-Fate Core
 
 #  Quick Character Creation
 
@@ -88,6 +86,6 @@ actually have it until you gain a fate point and spend it.
 You’ll also need to reduce your refresh by one for the next session for each
 extra stunt you take.
 
-  * [« You’re All Set!](/fate-core/you%E2%80%99re-all-set)
-  * [Aspects &amp; Fate Points »](/fate-core/aspects-fate-points)
+  * [« You’re All Set!](/fate-srd/fate-core/you%E2%80%99re-all-set)
+  * [Aspects &amp; Fate Points »](/fate-srd/fate-core/aspects-fate-points)
 

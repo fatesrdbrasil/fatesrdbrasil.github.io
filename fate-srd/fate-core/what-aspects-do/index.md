@@ -2,8 +2,6 @@
 title: "What Aspects Do"
 layout: default
 ---
-    
-Fate Core
 
 #  What Aspects Do
 
@@ -63,8 +61,8 @@ up to make your character more awesome by invoking, go for it! When you see an
 opportunity to influence the story by suggesting a compel for your character,
 do it! The game will be much richer for it as a whole.
 
-  * [« Types of Aspects](/fate-core/types-aspects)
-  * [Making A Good Aspect »](/fate-core/making-good-aspect)
+  * [« Types of Aspects](/fate-srd/fate-core/types-aspects)
+  * [Making A Good Aspect »](/fate-srd/fate-core/making-good-aspect)
 
   *[GM]: Game Master
   *[PC]: Player Character

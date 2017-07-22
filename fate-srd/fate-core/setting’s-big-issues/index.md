@@ -2,8 +2,6 @@
 title: "The Setting’s Big Issues"
 layout: default
 ---
-    
-Fate Core
 
 #  The Setting’s Big Issues
 
@@ -123,6 +121,6 @@ of the cult have different ideas of what the doom is going to be.
 
 Issue—Two Conflicting Prophecies
 
-  * [« A Game’s Scale](/fate-core/game%E2%80%99s-scale)
-  * [Faces &amp; Places »](/fate-core/faces-places)
+  * [« A Game’s Scale](/fate-srd/fate-core/game%E2%80%99s-scale)
+  * [Faces &amp; Places »](/fate-srd/fate-core/faces-places)
 

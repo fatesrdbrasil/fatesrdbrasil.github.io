@@ -2,8 +2,6 @@
 title: "Conflicts"
 layout: default
 ---
-    
-Fate Core
 
 #  Conflicts
 
@@ -963,8 +961,8 @@ Amanda just starts setting up for the chase.
 > Even though the PCs have some consequences and are due some fate points,
 they won’t get them until after they get away, or if they get caught.
 
-  * [« Contests](/fate-core/contests)
-  * [Teamwork »](/fate-core/teamwork)
+  * [« Contests](/fate-srd/fate-core/contests)
+  * [Teamwork »](/fate-srd/fate-core/teamwork)
 
   *[GM]: Game Master
   *[NPC]: Non-Player Character

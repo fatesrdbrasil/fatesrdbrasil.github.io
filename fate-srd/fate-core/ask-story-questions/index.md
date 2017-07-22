@@ -2,8 +2,6 @@
 title: "Ask Story Questions"
 layout: default
 ---
-    
-Fate Core
 
 #  Ask Story Questions
 
@@ -130,8 +128,8 @@ In fact, that’s exactly how you make [strong arcs](../../fate-core
 /building-arc "Building An Arc" )—you have a pile of related story questions,
 and you take two or three scenarios to answer them all.
 
-  * [« Find Problems](/fate-core/find-problems)
-  * [Establish the Opposition »](/fate-core/establish-opposition)
+  * [« Find Problems](/fate-srd/fate-core/find-problems)
+  * [Establish the Opposition »](/fate-srd/fate-core/establish-opposition)
 
   *[PC]: Player Character
 

@@ -2,8 +2,6 @@
 title: "You’re All Set!"
 layout: default
 ---
-    
-Fate Core
 
 #  You’re All Set!
 
@@ -28,8 +26,8 @@ jump straight to [Actions and Outcomes](../../fate-core/actions-
 outcomes "Actions & Outcomes" ) to learn more about how to use your skills to
 do stuff.
 
-  * [« Stress &amp; Consequences](/fate-core/stress-consequences)
-  * [Quick Character Creation »](/fate-core/quick-character-creation)
+  * [« Stress &amp; Consequences](/fate-srd/fate-core/stress-consequences)
+  * [Quick Character Creation »](/fate-srd/fate-core/quick-character-creation)
 
   *[GM]: Game Master
   *[PC]: Player Character

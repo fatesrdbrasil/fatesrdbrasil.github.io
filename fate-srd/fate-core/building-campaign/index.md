@@ -2,8 +2,6 @@
 title: "Building A Campaign"
 layout: default
 ---
-    
-Fate Core
 
 #  Building A Campaign
 
@@ -34,8 +32,8 @@ They’ll also need to make sure that none of their personal enemies or The Scar
 Triad can interfere with whatever they need to do in order to stop the doom.
 That gives her a good idea of what arcs are going to make up the campaign.
 
-  * [« Building an Arc](/fate-core/building-arc)
-  * [Advancement &amp; Change »](/fate-core/advancement-change)
+  * [« Building an Arc](/fate-srd/fate-core/building-arc)
+  * [Advancement &amp; Change »](/fate-srd/fate-core/advancement-change)
 
   *[PC]: Player Character
 

@@ -2,8 +2,6 @@
 title: "Skills"
 layout: default
 ---
-    
-Fate Core
 
 #  Skills
 
@@ -74,8 +72,8 @@ separated. That ends up being Fight, Resources, Contacts, and Notice.
 
 **Note:** a few skills have special benefits, notably those skills that affect the number of [stress boxes and consequences](../../fate-core/stress-consequences "Stress & Consequences" ) you have available. If you know you want a certain number of those, put those skills on the pyramid first.
 
-  * [« The Phase Trio](/fate-core/phase-trio)
-  * [Stunts &amp; Refresh »](/fate-core/stunts-refresh)
+  * [« The Phase Trio](/fate-srd/fate-core/phase-trio)
+  * [Stunts &amp; Refresh »](/fate-srd/fate-core/stunts-refresh)
 
   *[PC]: Player Character
 

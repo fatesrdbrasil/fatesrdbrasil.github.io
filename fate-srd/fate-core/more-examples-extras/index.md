@@ -2,8 +2,6 @@
 title: "More Examples of Extras"
 layout: default
 ---
-    
-Fate Core
 
 #  More Examples of Extras
 
@@ -538,8 +536,8 @@ discover what you need to know through magic. If someone is suffering a deep,
 dark depression that no normal care can address, create an advantage with
 Change to alter their mood.
 
-  * [« Creating An Extra](/fate-core/creating-extra)
-  * [Feedback Heroes »](/fate-core/feedback-heroes)
+  * [« Creating An Extra](/fate-srd/fate-core/creating-extra)
+  * [Feedback Heroes »](/fate-srd/fate-core/feedback-heroes)
 
   *[GM]: Game Master
   *[NPC]: Non-Player Character

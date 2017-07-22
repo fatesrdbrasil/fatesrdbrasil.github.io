@@ -3,7 +3,6 @@ title: "What You Need To Play"
 layout: default
 ---
     
-Fate Core
 
 #  What You Need To Play
 
@@ -27,6 +26,6 @@ sided dice will work. If you’re using regular dice, you read 5 or 6 as
   * **Tokens to represent [fate points](../../fate-core/fate-points "Fate Points" )**. Poker chips, glass beads, or anything similar will work. You’ll want to have at least thirty or more of these on hand, just to make sure you have enough for any given game. You can use pencil marks on your character sheet in lieu of tokens, but physical tokens add a little more fun.
   * **Index cards.** These are optional, but they’re very handy for recording [aspects](../../fate-core/types-aspects "Aspects" ) during play.
 
-  * [« Basics](/fate-core/basics)
-  * [Players &amp; Gamemasters »](/fate-core/players-gamemasters)
+  * [« Basics](/fate-srd/fate-core/basics)
+  * [Players &amp; Gamemasters »](/fate-srd/fate-core/players-gamemasters)
 

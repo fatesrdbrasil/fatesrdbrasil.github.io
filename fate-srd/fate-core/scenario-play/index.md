@@ -2,8 +2,6 @@
 title: "The Scenario In Play"
 layout: default
 ---
-    
-Fate Core
 
 #  The Scenario In Play
 
@@ -125,8 +123,8 @@ with the players.
 The end of a scenario usually triggers a significant milestone. When this
 happens, you should also see if the game [world needs advancing](../../fate-core/world-advancement "World Advancement" ) too.
 
-  * [« Defining Scenes](/fate-core/defining-scenes)
-  * [The Long Game »](/fate-core/long-game)
+  * [« Defining Scenes](/fate-srd/fate-core/defining-scenes)
+  * [The Long Game »](/fate-srd/fate-core/long-game)
 
   *[NPC]: Non-Player Character
   *[PC]: Player Character

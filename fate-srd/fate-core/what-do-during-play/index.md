@@ -2,8 +2,6 @@
 title: "What To Do During Play"
 layout: default
 ---
-    
-Fate Core
 
 #  What To Do During Play
 
@@ -1108,8 +1106,8 @@ to say it does?”
 Your main goal should be to enlist the players as partners in bringing the
 drama, rather than being the sole provider.
 
-  * [« What To Do During Game Creation](/fate-core/what-do-during-game-creation)
-  * [Creating and Playing the Opposition (NPCs) »](/fate-core/creating-and-playing-opposition)
+  * [« What To Do During Game Creation](/fate-srd/fate-core/what-do-during-game-creation)
+  * [Creating and Playing the Opposition (NPCs) »](/fate-srd/fate-core/creating-and-playing-opposition)
 
   *[GM]: Game Master
   *[NPC]: Non-Player Character

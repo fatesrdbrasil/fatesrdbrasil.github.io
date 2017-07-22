@@ -2,8 +2,6 @@
 title: "Types of Aspects"
 layout: default
 ---
-    
-Fate Core
 
 #  Types of Aspects
 
@@ -169,8 +167,8 @@ they’re often given names mislead you.
 “Fate Boosts Revisited” from [ryanmacklin.com](http://ryanmacklin.com/2014/01
 /fate-boosts-revisited/) © 2014 Leonard Balsera and Ryan Macklin.
 
-  * [« Aspects &amp; Fate Points](/fate-core/aspects-fate-points)
-  * [What Aspects Do »](/fate-core/what-aspects-do)
+  * [« Aspects &amp; Fate Points](/fate-srd/fate-core/aspects-fate-points)
+  * [What Aspects Do »](/fate-srd/fate-core/what-aspects-do)
 
   *[GM]: Game Master
   *[NPC]: Non-Player Character

@@ -2,8 +2,6 @@
 title: "Deceive"
 layout: default
 ---
-    
-Fate Core
 
 #  Deceive
 
@@ -70,8 +68,8 @@ his rage, or you embarrass him by making a spectacle around him in public.
 As long as you get your advantage, you’re fine. Use it as an opportunity to
 create story with other people, instead of shutting them down.
 
-  * [« Crafts](/fate-core/crafts)
-  * [Drive »](/fate-core/drive)
+  * [« Crafts](/fate-srd/fate-core/crafts)
+  * [Drive »](/fate-srd/fate-core/drive)
 
   *[NPC]: Non-Player Character
   *[PC]: Player Character

@@ -2,8 +2,6 @@
 title: "Crafts"
 layout: default
 ---
-    
-Fate Core
 
 #  Crafts
 
@@ -70,8 +68,8 @@ If building constructs and creating items is a big part of your game, check
 out [Extras](../../fate-core/extras) for a discussion of what might
 result from the use of Crafts.
 
-  * [« Contacts](/fate-core/contacts)
-  * [Deceive »](/fate-core/deceive)
+  * [« Contacts](/fate-srd/fate-core/contacts)
+  * [Deceive »](/fate-srd/fate-core/deceive)
 
   *[GM]: Game Master
 

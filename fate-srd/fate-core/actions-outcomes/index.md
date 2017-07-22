@@ -2,8 +2,6 @@
 title: "Actions &amp; Outcomes"
 layout: default
 ---
-    
-Fate Core
 
 #  Actions &amp; Outcomes
 
@@ -99,8 +97,8 @@ can’t provide proactive resistance (like if they’re unaware of what the PC i
 doing). Follow your gut—use the type of opposition that fits the circumstances
 or makes the scene more interesting.
 
-  * [« Will](/fate-core/will)
-  * [Four Outcomes »](/fate-core/four-outcomes)
+  * [« Will](/fate-srd/fate-core/will)
+  * [Four Outcomes »](/fate-srd/fate-core/four-outcomes)
 
   *[GM]: Game Master
   *[NPC]: Non-Player Character

@@ -2,8 +2,6 @@
 title: "Veteran's Guide"
 layout: default
 ---
-    
-Fate Core
 
 #  Veteran's Guide
 
@@ -47,5 +45,5 @@ Game_.
 
   * **These exist.** Whereas each previous Fate game had a specific way of dealing with powers and gadgets and stuff, now there are a variety of options for you to choose from (as befits the toolkit nature of the system).
 
-  * [« Feedback Heroes](/fate-core/feedback-heroes)
+  * [« Feedback Heroes](/fate-srd/fate-core/feedback-heroes)
 

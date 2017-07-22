@@ -2,8 +2,6 @@
 title: "Set Up The First Scene"
 layout: default
 ---
-    
-Fate Core
 
 #  Set Up The First Scene
 
@@ -123,8 +121,8 @@ know no one’s going to believe how you came by them.” (2 fate points for
 <span class="aspect">Infamous Girl with Sword</span> and <span class="aspect">Tempted by Shiny
 Things</span>.)
 
-  * [« Establish the Opposition](/fate-core/establish-opposition)
-  * [Defining Scenes »](/fate-core/defining-scenes)
+  * [« Establish the Opposition](/fate-srd/fate-core/establish-opposition)
+  * [Defining Scenes »](/fate-srd/fate-core/defining-scenes)
 
   *[GM]: Game Master
   *[PC]: Player Character

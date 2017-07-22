@@ -2,8 +2,6 @@
 title: "Stealth"
 layout: default
 ---
-    
-Fate Core
 
 #  Stealth
 
@@ -35,6 +33,6 @@ an Investigate attempt from someone trying to track you.
   * **Ninja Vanish**. Once per scene, you can vanish while in plain sight by spending a fate point, using a smoke pellet or other mysterious technique. This places the <span class="aspect">Vanished</span> boost on you. While you’re vanished, no one can attack or create an advantage on you until after they’ve succeeded at an overcome roll with Notice to suss out where you went (basically meaning they have to give up an exchange to try). This aspect goes away as soon as you invoke it, or someone makes that overcome roll.
   * **Slippery Target**. Provided you’re in darkness or shadow, you can use Stealth to defend against Shoot attacks from enemies that are at least one zone away.
 
-  * [« Shoot](/fate-core/shoot)
-  * [Will »](/fate-core/will)
+  * [« Shoot](/fate-srd/fate-core/shoot)
+  * [Will »](/fate-srd/fate-core/will)
 

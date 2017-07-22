@@ -3,8 +3,6 @@ title: "Find Problems"
 layout: default
 ---
     
-Fate Core
-
 #  Find Problems
 
 Creating a scenario begins with finding a problem for the PCs to deal with. A
@@ -230,8 +228,8 @@ vengeance. Therefore, an attack on his hometown by Cult agents on the prowl
 for more indoctrinated servants as preparation for the End Times would
 probably be a big problem for him.
 
-  * [« Defining Scenarios](/fate-core/defining-scenarios)
-  * [Ask Story Questions »](/fate-core/ask-story-questions)
+  * [« Defining Scenarios](/fate-srd/fate-core/defining-scenarios)
+  * [Ask Story Questions »](/fate-srd/fate-core/ask-story-questions)
 
   *[NPC]: Non-Player Character
   *[PC]: Player Character

@@ -2,8 +2,6 @@
 title: "Rapport"
 layout: default
 ---
-    
-Fate Core
 
 #  Rapport
 
@@ -38,8 +36,8 @@ That requires [Will](../../fate-core/will).
   * **Demagogue**. +2 to Rapport when you’re delivering an inspiring speech in front of a crowd. (If there are named NPCs or PCs in the scene, you may target them all simultaneously with one roll rather than dividing up your shifts.)
   * **Popular**. If you’re in an area where you’re popular and well-liked, you can use Rapport in place of Contacts. You may be able to establish your popularity by spending a fate point to declare a story detail, or because of prior justification.
 
-  * [« Provoke](/fate-core/provoke)
-  * [Resources »](/fate-core/resources)
+  * [« Provoke](/fate-srd/fate-core/provoke)
+  * [Resources »](/fate-srd/fate-core/resources)
 
   *[NPC]: Non-Player Character
   *[PC]: Player Character

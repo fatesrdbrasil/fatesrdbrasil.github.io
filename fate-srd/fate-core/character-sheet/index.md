@@ -3,7 +3,6 @@ title: "The Character Sheet"
 layout: default
 ---
     
-Fate Core
 
 #  The Character Sheet
 
@@ -106,8 +105,8 @@ points you get at the start of every game session to spend for your character.
 Your total resets to this number unless you had more fate points at the end of
 the last session.
 
-  * [« Players &amp; Gamemasters](/fate-core/players-gamemasters)
-  * [Taking Action, Dice, &amp; the Ladder »](/fate-core/taking-action-dice-ladder)
+  * [« Players &amp; Gamemasters](/fate-srd/fate-core/players-gamemasters)
+  * [Taking Action, Dice, &amp; the Ladder »](/fate-srd/fate-core/taking-action-dice-ladder)
 
   *[PC]: Player Character
 

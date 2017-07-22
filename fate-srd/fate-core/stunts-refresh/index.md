@@ -2,8 +2,6 @@
 title: "Stunts &amp; Refresh"
 layout: default
 ---
-    
-Fate Core
 
 #  Stunts &amp; Refresh
 
@@ -48,8 +46,8 @@ refresh means they’ll need to take several early in every session in order to
 have a decent supply (think _Die Hard_). Also, the higher your refresh, the
 more likely it is that players will buy stunts.
 
-  * [« Skills](/fate-core/skills)
-  * [Stress &amp; Consequences »](/fate-core/stress-consequences)
+  * [« Skills](/fate-srd/fate-core/skills)
+  * [Stress &amp; Consequences »](/fate-srd/fate-core/stress-consequences)
 
   *[PC]: Player Character
 

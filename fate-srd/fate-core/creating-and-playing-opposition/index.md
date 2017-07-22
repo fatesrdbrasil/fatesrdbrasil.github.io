@@ -2,8 +2,6 @@
 title: "Creating and Playing the Opposition (NPCs)"
 layout: default
 ---
-    
-Fate Core
 
 #  Creating and Playing the Opposition (NPCs)
 
@@ -389,8 +387,8 @@ assault on his mind. Zird, on the other hand, is best threatened by the
 biggest, nastiest bruiser possible, someone who can strike at him before he
 has a chance to bring his magic to bear.
 
-  * [« What To Do During Play](/fate-core/what-do-during-play)
-  * [Scenes, Sessions, &amp; Scenarios »](/fate-core/scenes-sessions-scenarios)
+  * [« What To Do During Play](/fate-srd/fate-core/what-do-during-play)
+  * [Scenes, Sessions, &amp; Scenarios »](/fate-srd/fate-core/scenes-sessions-scenarios)
 
   *[GM]: Game Master
   *[NPC]: Non-Player Character

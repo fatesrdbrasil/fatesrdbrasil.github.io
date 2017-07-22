@@ -2,8 +2,6 @@
 title: "Scenes, Sessions, &amp; Scenarios"
 layout: default
 ---
-    
-Fate Core
 
 #  Scenes, Sessions, &amp; Scenarios
 
@@ -25,8 +23,8 @@ scenarios.
   * [Defining Scenes](../../fate-core/defining-scenes)
   * [The Scenario In Play](../../fate-core/defining-scenes)
 
-  * [« Creating and Playing the Opposition (NPCs)](/fate-core/creating-and-playing-opposition)
-  * [Defining Scenarios »](/fate-core/defining-scenarios)
+  * [« Creating and Playing the Opposition (NPCs)](/fate-srd/fate-core/creating-and-playing-opposition)
+  * [Defining Scenarios »](/fate-srd/fate-core/defining-scenarios)
 
   *[NPC]: Non-Player Character
   *[PC]: Player Character

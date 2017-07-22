@@ -2,8 +2,6 @@
 title: "Creating An Extra"
 layout: default
 ---
-    
-Fate Core
 
 #  Creating An Extra
 
@@ -237,8 +235,8 @@ Of course many extras use more than one element. It is recommended that you
 allow the players in your game to develop the separate pieces of such an extra
 at different milestones, in order to minimize confusion during play.
 
-  * [« Extras](/fate-core/extras)
-  * [More Examples of Extras »](/fate-core/more-examples-extras)
+  * [« Extras](/fate-srd/fate-core/extras)
+  * [More Examples of Extras »](/fate-srd/fate-core/more-examples-extras)
 
   *[GM]: Game Master
   *[PC]: Player Character

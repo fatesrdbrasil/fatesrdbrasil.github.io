@@ -3,8 +3,6 @@ title: "Basics"
 layout: default
 ---
     
-Fate Core
-
 #  Basics
 
 ## Welcome to Fate!
@@ -44,7 +42,7 @@ the system. You’ll recognize some of what’s in here, but some rules have
 changed as have some terminology. You can find a [guide to all the changes
 ](../../fate-core/veterans-guide) that have been made.
 
-  * [What You Need To Play »](/fate-core/what-you-need-play)
+  * [What You Need To Play »](/fate-srd/fate-core/what-you-need-play)
 
   *[GM]: Game Master
 

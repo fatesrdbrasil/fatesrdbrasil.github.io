@@ -3,7 +3,6 @@ title: "Fate Points"
 layout: default
 ---
     
-Fate Core
 
 #  Fate Points
 
@@ -165,8 +164,8 @@ Ictherya, outlander.”
 
 > Lenny shakes his head. Amanda grins the grin of the devil.
 
-  * [« Taking Action, Dice, &amp; the Ladder](/fate-core/taking-action-dice-ladder)
-  * [Start Playing »](/fate-core/start-playing)
+  * [« Taking Action, Dice, &amp; the Ladder](/fate-srd/fate-core/taking-action-dice-ladder)
+  * [Start Playing »](/fate-srd/fate-core/start-playing)
 
   *[GM]: Game Master
   *[NPC]: Non-Player Character

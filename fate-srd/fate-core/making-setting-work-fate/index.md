@@ -3,7 +3,6 @@ title: "Making the Setting Work in Fate"
 layout: default
 ---
     
-Fate Core
 
 #  Making the Setting Work in Fate
 
@@ -43,6 +42,6 @@ there’s a difference between the two guys. Also, because he wants to play
 someone who is more bookish (for contrast). Everyone’s on board with this, and
 they move on.
 
-  * [« Setting Up Your Game](/fate-core/setting-your-game)
-  * [A Game’s Scale »](/fate-core/game%E2%80%99s-scale)
+  * [« Setting Up Your Game](/fate-srd/fate-core/setting-your-game)
+  * [A Game’s Scale »](/fate-srd/fate-core/game%E2%80%99s-scale)
 

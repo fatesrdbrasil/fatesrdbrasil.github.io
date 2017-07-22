@@ -2,8 +2,6 @@
 title: "Fate Point Economy"
 layout: default
 ---
-    
-Fate Core
 
 #  Fate Point Economy
 
@@ -123,8 +121,8 @@ her skin intact. She has taken two consequences in the conflict, meaning that
 she gets three fate points for conceding. Those three fate points carry over
 to the next scene.
 
-  * [« Using Aspects For Roleplaying](/fate-core/using-aspects-roleplaying)
-  * [Skills &amp; Stunts »](/fate-core/skills-stunts)
+  * [« Using Aspects For Roleplaying](/fate-srd/fate-core/using-aspects-roleplaying)
+  * [Skills &amp; Stunts »](/fate-srd/fate-core/skills-stunts)
 
   *[GM]: Game Master
   *[NPC]: Non-Player Character

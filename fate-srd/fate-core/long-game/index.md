@@ -2,8 +2,6 @@
 title: "The Long Game"
 layout: default
 ---
-    
-Fate Core
 
 #  The Long Game
 
@@ -45,6 +43,6 @@ Planning the second arc of a campaign based on the events of the first arc,
 how it turned out, and what your players did, though...well, that can make for
 very satisfying play.
 
-  * [« The Scenario In Play](/fate-core/scenario-play)
-  * [Building an Arc »](/fate-core/building-arc)
+  * [« The Scenario In Play](/fate-srd/fate-core/scenario-play)
+  * [Building an Arc »](/fate-srd/fate-core/building-arc)
 

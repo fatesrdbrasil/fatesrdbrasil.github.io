@@ -2,8 +2,6 @@
 title: "Feedback Heroes"
 layout: default
 ---
-    
-Fate Core
 
 #  Feedback Heroes
 
@@ -62,6 +60,6 @@ Zimmerman](http://ramblingsofjacobanddelos.wordpress.com), zombiecalypse
 If your name is on the list above and you'd like to have it linked to you,
 just tell us via the [Contact Us form](../../contact-us).
 
-  * [« More Examples of Extras](/fate-core/more-examples-extras)
-  * [Veteran's Guide »](/fate-core/veterans-guide)
+  * [« More Examples of Extras](/fate-srd/fate-core/more-examples-extras)
+  * [Veteran's Guide »](/fate-srd/fate-core/veterans-guide)
 

@@ -2,8 +2,6 @@
 title: "Challenges, Contests, &amp; Conflicts"
 layout: default
 ---
-    
-Fate Core
 
 #  Challenges, Contests, &amp; Conflicts
 
@@ -31,6 +29,6 @@ We have three ways for you to zoom in on the action in Fate:
   * [Contests](../../fate-core/contests), when two or more characters are competing for a goal
   * [Conflicts](../../fate-core/conflicts), when two or more characters are trying to directly harm each other
 
-  * [« Four Actions](/fate-core/four-actions)
-  * [Challenges »](/fate-core/challenges)
+  * [« Four Actions](/fate-srd/fate-core/four-actions)
+  * [Challenges »](/fate-srd/fate-core/challenges)
 

@@ -3,7 +3,6 @@ title: "Taking Action, Dice, &amp; The Ladder"
 layout: default
 ---
     
-Fate Core
 
 #  Taking Action, Dice, &amp; The Ladder
 
@@ -151,8 +150,8 @@ though—you’ll still have to deal with it on your way out.”
 > Lenny replies, “Just another day at the office,” and Landon continues his
 trek through the catacombs.
 
-  * [« The Character Sheet](/fate-core/character-sheet)
-  * [Fate Points »](/fate-core/fate-points)
+  * [« The Character Sheet](/fate-srd/fate-core/character-sheet)
+  * [Fate Points »](/fate-srd/fate-core/fate-points)
 
   *[GM]: Game Master
   *[NPC]: Non-Player Character

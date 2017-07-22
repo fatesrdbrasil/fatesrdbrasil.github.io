@@ -2,8 +2,6 @@
 title: "Default Skill List"
 layout: default
 ---
-    
-Fate Core
 
 #  Default Skill List
 
@@ -61,6 +59,6 @@ to use it, and that the effectiveness of those tools is built into the skill
 result. If you want to make gear special, you’ll want to look at the [Extras
 ](../../fate-core/extras) section.
 
-  * [« Building Stunts](/fate-core/building-stunts)
-  * [Athletics »](/fate-core/athletics)
+  * [« Building Stunts](/fate-srd/fate-core/building-stunts)
+  * [Athletics »](/fate-srd/fate-core/athletics)
 

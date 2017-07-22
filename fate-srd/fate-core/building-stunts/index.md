@@ -2,8 +2,7 @@
 title: "Building Stunts"
 layout: default
 ---
-    
-Fate Core
+
 
 #  Building Stunts
 
@@ -280,8 +279,8 @@ Here are some potential options for branching off of that stunt:
 Every one of those stunts thematically relates to very quick, spontaneous uses
 of Deceive, but they each have a different flavor of awesome.
 
-  * [« Skills &amp; Stunts](/fate-core/skills-stunts)
-  * [Default Skill List »](/fate-core/default-skill-list)
+  * [« Skills &amp; Stunts](/fate-srd/fate-core/skills-stunts)
+  * [Default Skill List »](/fate-srd/fate-core/default-skill-list)
 
   *[GM]: Game Master
 
