@@ -48,6 +48,6 @@ be represented by creating an advantage (<span class="aspect">Covering Fire</spa
   * **Quick on the Draw**. You can use Shoot instead of Notice to determine turn order in any physical conflict where shooting quickly would be useful.
   * **Uncanny Accuracy**. Once per conflict, stack an additional free invoke on an advantage you’ve created to represent the time you take to aim or line up a shot (like In My Sights).
 
-  * [« Resources](/fate-core/resources)
-  * [Stealth »](/fate-core/stealth)
+  * [« Resources](/fate-srd/fate-core/resources)
+  * [Stealth »](/fate-srd/fate-core/stealth)
 
