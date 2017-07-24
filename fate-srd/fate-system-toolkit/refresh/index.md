@@ -22,6 +22,6 @@ keep things exciting or to replace the start-of-session refresh completely.
 Feel free to use one type exclusively, or open up all of them to your players
 to use.
 
-  * [« Zones](/fate-system-toolkit/zones)
-  * [Modifying the Setting: Making Big Changes »](/fate-system-toolkit/modifying-setting-making-big-changes)
+  * [« Zones](/fate-srd/fate-system-toolkit/zones)
+  * [Modifying the Setting: Making Big Changes »](/fate-srd/fate-system-toolkit/modifying-setting-making-big-changes)
 

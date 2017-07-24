@@ -134,6 +134,6 @@ two only have one—an aspect.
 > _Skill Extra_| _Skill Extra_| Physique| Notice  
 > _Aspect Extra_| _Aspect Extra_| _Aspect Extra_| _Aspect Extra_  
   
-  * [« Other Skill Functions](/fate-system-toolkit/other-skill-functions)
-  * [Stunts »](/fate-system-toolkit/stunts)
+  * [« Other Skill Functions](/fate-srd/fate-system-toolkit/other-skill-functions)
+  * [Stunts »](/fate-srd/fate-system-toolkit/stunts)
 

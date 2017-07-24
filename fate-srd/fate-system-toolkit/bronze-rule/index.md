@@ -36,6 +36,6 @@ If you're looking for a little more guidance with the Bronze Rule, check out
 ["The Limitations of the Bronze Rule"](http://ryanmacklin.com/2014/07
 /limitations-of-the-bronze-rule/) by Ryan Macklin.
 
-  * [« Rules vs. Rulings](/fate-system-toolkit/rules-vs-rulings)
-  * [Aspects »](/fate-system-toolkit/aspects)
+  * [« Rules vs. Rulings](/fate-srd/fate-system-toolkit/rules-vs-rulings)
+  * [Aspects »](/fate-srd/fate-system-toolkit/aspects)
 

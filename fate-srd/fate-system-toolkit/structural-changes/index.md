@@ -59,6 +59,6 @@ and <span class="aspect">Renegade Knight of the Stars</span> covers even more. A
 so often the case, the most interesting characters will be the most
 mechanically potent.
 
-  * [« Other Solutions](/fate-system-toolkit/other-solutions)
-  * [Other Skill Functions »](/fate-system-toolkit/other-skill-functions)
+  * [« Other Solutions](/fate-srd/fate-system-toolkit/other-solutions)
+  * [Other Skill Functions »](/fate-srd/fate-system-toolkit/other-skill-functions)
 

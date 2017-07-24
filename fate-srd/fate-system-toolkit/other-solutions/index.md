@@ -77,6 +77,6 @@ completeness to that. It’s far from mandatory, but sometimes it just feels
 like the right choice. It’s also possible to use aspects to forgo skills
 entirely, but that’s a bit more fiddly, and we’ll get to that further along.
 
-  * [« Using Skills as Written](/fate-system-toolkit/using-skills-written)
-  * [Structural Changes »](/fate-system-toolkit/structural-changes)
+  * [« Using Skills as Written](/fate-srd/fate-system-toolkit/using-skills-written)
+  * [Structural Changes »](/fate-srd/fate-system-toolkit/structural-changes)
 

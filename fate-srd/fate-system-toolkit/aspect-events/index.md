@@ -49,6 +49,6 @@ Here’s an example:
   * <span class="aspect">Three Hours to Detonation</span>
   * <span class="aspect">Smoking Crater</span>
 
-  * [« Pre-Compels as Adventure Design](/fate-system-toolkit/pre-compels-adventure-design)
-  * [Power Level »](/fate-system-toolkit/power-level)
+  * [« Pre-Compels as Adventure Design](/fate-srd/fate-system-toolkit/pre-compels-adventure-design)
+  * [Power Level »](/fate-srd/fate-system-toolkit/power-level)
 

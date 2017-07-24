@@ -102,6 +102,6 @@ determines that might be. Doing so is a compel on the cyborg’s aspect, which
 means that a player you put in such a situation can refuse your compel or take
 a fate point for the trouble you put her in.
 
-  * [« Kung Fu](/fate-system-toolkit/kung-fu)
-  * [Gadgets and Gear »](/fate-system-toolkit/gadgets-and-gear)
+  * [« Kung Fu](/fate-srd/fate-system-toolkit/kung-fu)
+  * [Gadgets and Gear »](/fate-srd/fate-system-toolkit/gadgets-and-gear)
 

@@ -54,6 +54,6 @@ using Contacts or Resources. Of course, permanent allies should be much more
 powerful, with more stress boxes, additional aspects, and additional stunts,
 than temporary allies who are little better than a weak nameless mob.
 
-  * [« Scale](/fate-system-toolkit/scale)
-  * [Wealth »](/fate-system-toolkit/wealth)
+  * [« Scale](/fate-srd/fate-system-toolkit/scale)
+  * [Wealth »](/fate-srd/fate-system-toolkit/wealth)
 

@@ -243,6 +243,6 @@ Everyone on the winning side gets a fate point. Every player who defeated an
 enemy leader—whether in battle, by persuading them to surrender or switch
 sides, or whatever—gets a fate point for each leader they defeated.
 
-  * [« Squad-Based Action](/fate-system-toolkit/squad-based-action)
-  * [Swashbuckling Duels »](/fate-system-toolkit/swashbuckling-duels)
+  * [« Squad-Based Action](/fate-srd/fate-system-toolkit/squad-based-action)
+  * [Swashbuckling Duels »](/fate-srd/fate-system-toolkit/swashbuckling-duels)
 

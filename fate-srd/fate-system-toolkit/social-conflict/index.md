@@ -120,6 +120,6 @@ convinces him that working with the police is the best way to fulfill his
 Motivation. Michael gains an additional boost <span class="aspect">Led by the
 Guards</span> for succeeding with style.
 
-  * [« Special Circumstances](/fate-system-toolkit/special-circumstances)
-  * [Customized Tools »](/fate-system-toolkit/customized-tools)
+  * [« Special Circumstances](/fate-srd/fate-system-toolkit/special-circumstances)
+  * [Customized Tools »](/fate-srd/fate-system-toolkit/customized-tools)
 

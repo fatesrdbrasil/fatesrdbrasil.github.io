@@ -44,6 +44,6 @@ the scale is _unequal_.
 
 **Scale as an Extra**: Most things in your setting will have a scale rating just based on what they are as a matter of common sense—all small gangs are Local, for example—but you can give players the chance to alter the scale of their characters, possessions, or holdings as an extra they can take, if it fits with their high concept.
 
-  * [« Other Dice](/fate-system-toolkit/other-dice)
-  * [Sidekicks vs. Allies »](/fate-system-toolkit/sidekicks-vs-allies)
+  * [« Other Dice](/fate-srd/fate-system-toolkit/other-dice)
+  * [Sidekicks vs. Allies »](/fate-srd/fate-system-toolkit/sidekicks-vs-allies)
 

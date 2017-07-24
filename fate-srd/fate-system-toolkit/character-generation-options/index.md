@@ -203,6 +203,6 @@ longer than fifteen or twenty minutes before you move on to the next origin
 story. The idea is to play through an origin story for each player at the
 table during a single session.
 
-  * [« The Big Game](/fate-system-toolkit/big-game)
-  * [Pre-Compels as Adventure Design »](/fate-system-toolkit/pre-compels-adventure-design)
+  * [« The Big Game](/fate-srd/fate-system-toolkit/big-game)
+  * [Pre-Compels as Adventure Design »](/fate-srd/fate-system-toolkit/pre-compels-adventure-design)
 

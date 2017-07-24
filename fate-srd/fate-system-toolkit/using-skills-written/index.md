@@ -60,6 +60,6 @@ expand Fight into multiple skills, perhaps Armed, Hard Styles, and Soft
 Styles. The advantage of this approach is that the general guidelines for the
 skills are still in effect—you’re just adjusting the level of focus.
 
-  * [« Skills](/fate-system-toolkit/skills)
-  * [Other Solutions »](/fate-system-toolkit/other-solutions)
+  * [« Skills](/fate-srd/fate-system-toolkit/skills)
+  * [Other Solutions »](/fate-srd/fate-system-toolkit/other-solutions)
 

@@ -46,6 +46,6 @@ This one’s the least work, but maybe not the most intuitive: roll four six-
 sided dice and treat 1s and 2s as <span class="fate_font">-</span>, 3s and 4s as
 <span class="fate_font">0</span>, and 5s and 6s as <span class="fate_font">+</span>.
 
-  * [« Modifying the Setting: Making Big Changes](/fate-system-toolkit/modifying-setting-making-big-changes)
-  * [Scale »](/fate-system-toolkit/scale)
+  * [« Modifying the Setting: Making Big Changes](/fate-srd/fate-system-toolkit/modifying-setting-making-big-changes)
+  * [Scale »](/fate-srd/fate-system-toolkit/scale)
 

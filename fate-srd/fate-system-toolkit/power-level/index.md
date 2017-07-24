@@ -136,6 +136,6 @@ This is a competence dial. It measures not only how well a PC can take on a
 specific kind task, but how many different kinds of tasks a given PC can excel
 at.
 
-  * [« Aspect Events](/fate-system-toolkit/aspect-events)
-  * [Special Circumstances »](/fate-system-toolkit/special-circumstances)
+  * [« Aspect Events](/fate-srd/fate-system-toolkit/aspect-events)
+  * [Special Circumstances »](/fate-srd/fate-system-toolkit/special-circumstances)
 

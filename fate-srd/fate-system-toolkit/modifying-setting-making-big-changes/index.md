@@ -75,6 +75,6 @@ to try to solve multiple problems. In this style of making big changes,
 narrate the group’s success like a movie montage, pausing only long enough at
 each roll to see the group succeed or fail to improve the situation.
 
-  * [« Refresh](/fate-system-toolkit/refresh)
-  * [Other Dice »](/fate-system-toolkit/other-dice)
+  * [« Refresh](/fate-srd/fate-system-toolkit/refresh)
+  * [Other Dice »](/fate-srd/fate-system-toolkit/other-dice)
 

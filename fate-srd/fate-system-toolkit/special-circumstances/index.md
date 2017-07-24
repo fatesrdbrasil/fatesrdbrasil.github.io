@@ -96,6 +96,6 @@ descriptions, going into detail about each move and its results. When one side
 or the other has either eliminated or filled the stress track, the chase is
 over. Someone has either been caught or escaped.
 
-  * [« Power Level](/fate-system-toolkit/power-level)
-  * [Social Conflict »](/fate-system-toolkit/social-conflict)
+  * [« Power Level](/fate-srd/fate-system-toolkit/power-level)
+  * [Social Conflict »](/fate-srd/fate-system-toolkit/social-conflict)
 

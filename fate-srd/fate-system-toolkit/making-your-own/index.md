@@ -118,6 +118,6 @@ that power is sucking attention away from non-powered players. This can be
 addressed through thoughtful GMing, but better if it’s not a problem in the
 first place.
 
-  * [« Voidcallers](/fate-system-toolkit/voidcallers)
-  * [Your Toolbox »](/fate-system-toolkit/your-toolbox)
+  * [« Voidcallers](/fate-srd/fate-system-toolkit/voidcallers)
+  * [Your Toolbox »](/fate-srd/fate-system-toolkit/your-toolbox)
 

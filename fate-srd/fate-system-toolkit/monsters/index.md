@@ -110,6 +110,6 @@ player’s familiar a stunt with a weakness that human NPCs could attempt to
 discover, or map out a spirit guardian the players summon across multiple
 zones.
 
-  * [« Gadgets and Gear](/fate-system-toolkit/gadgets-and-gear)
-  * [Squad-Based Action »](/fate-system-toolkit/squad-based-action)
+  * [« Gadgets and Gear](/fate-srd/fate-system-toolkit/gadgets-and-gear)
+  * [Squad-Based Action »](/fate-srd/fate-system-toolkit/squad-based-action)
 

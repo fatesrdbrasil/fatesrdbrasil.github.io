@@ -2,8 +2,6 @@
 title: "Conditions"
 layout: default
 ---
-    
-Fate System Toolkit
 
 #  Conditions
 
@@ -89,8 +87,7 @@ Lasting
   * 4 <span class="fate_font">1</span> <span class="fate_font">1</span> Injured
   * 4 <span class="fate_font">1</span> <span class="fate_font">1</span> Broken
 
-### Clarification—Why Do Conditions Absorb 14 Stress When Core only Absorbs
-12?
+### Clarification—Why Do Conditions Absorb 14 Stress When Core only Absorbs 12?
 
 From [Brian Engard's comment on this
 thread](https://plus.google.com/+RichardBellinghamSkimble/posts/e3BrVDrytuw),
@@ -98,6 +95,6 @@ thread](https://plus.google.com/+RichardBellinghamSkimble/posts/e3BrVDrytuw),
 a high skill doesn't give you any additional conditions the way a high
 Physique or Will would give you extra consequences.﻿"
 
-  * [« Gear Aspects](/fate-system-toolkit/gear-aspects)
-  * [Skills »](/fate-system-toolkit/skills)
+  * [« Gear Aspects](/fate-srd/fate-system-toolkit/gear-aspects)
+  * [Skills »](/fate-srd/fate-system-toolkit/skills)
 

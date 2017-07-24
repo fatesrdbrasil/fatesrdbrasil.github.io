@@ -310,6 +310,6 @@ an Average skill level, no stress, no consequences, and no upgrades—except in
 a purely cosmetic sense. This remains true no matter how many advances the
 wisp has earned.
 
-  * [« Systems](/fate-system-toolkit/systems)
-  * [Stormcallers »](/fate-system-toolkit/stormcallers)
+  * [« Systems](/fate-srd/fate-system-toolkit/systems)
+  * [Stormcallers »](/fate-srd/fate-system-toolkit/stormcallers)
 

@@ -3,8 +3,6 @@ title: "Aspects"
 layout: default
 ---
     
-Fate System Toolkit
-
 #  Aspects
 
 Aspects are what make Fate _go_. They’re the clearest, most interesting method
@@ -141,6 +139,6 @@ destructive, like <span class="aspect">The Building Is on Fire!</span> or
 always make things more tenuous for _everyone_, and should always be an
 imminent threat.
 
-  * [« The Bronze Rule](/fate-system-toolkit/bronze-rule)
-  * [Genre Aspects »](/fate-system-toolkit/genre-aspects)
+  * [« The Bronze Rule](/fate-srd/fate-system-toolkit/bronze-rule)
+  * [Genre Aspects »](/fate-srd/fate-system-toolkit/genre-aspects)
 

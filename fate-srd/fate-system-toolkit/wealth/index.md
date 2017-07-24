@@ -54,6 +54,6 @@ fourth, if you’re lucky enough to have one.
 The only way to _add _stress boxes is at a milestone, by swapping out an
 existing aspect for a wealth-oriented one.
 
-  * [« Sidekicks vs. Allies](/fate-system-toolkit/sidekicks-vs-allies)
-  * [Weapons and Armor Alternatives »](/fate-system-toolkit/weapons-and-armor-alternatives)
+  * [« Sidekicks vs. Allies](/fate-srd/fate-system-toolkit/sidekicks-vs-allies)
+  * [Weapons and Armor Alternatives »](/fate-srd/fate-system-toolkit/weapons-and-armor-alternatives)
 

@@ -3,8 +3,6 @@ title: "Rules vs. Rulings"
 layout: default
 ---
     
-Fate System Toolkit
-
 #  Rules vs. Rulings
 
 **Sure, you _can_ hack Fate, but should you?** Sometimes the answer is yes. If you’re playing a supers game, you’ll need to add some super powers. If you’re playing a game about street racing, it might be good to have a few rules regarding vehicles.
@@ -32,6 +30,6 @@ you’re changing them all the time.
 
 **Here’s the secret—rulings can _become_ rules.** If you make a ruling about sniper shots on boats, and you find that situation comes up again and again, turn it into a rule. If you’ve made a ruling multiple times, your players will probably remember it, so there’s less chance of a rule that just gets forgotten.
 
-  * [« Introduction](/fate-system-toolkit/introduction)
-  * [The Bronze Rule »](/fate-system-toolkit/bronze-rule)
+  * [« Introduction](/fate-srd/fate-system-toolkit/introduction)
+  * [The Bronze Rule »](/fate-srd/fate-system-toolkit/bronze-rule)
 

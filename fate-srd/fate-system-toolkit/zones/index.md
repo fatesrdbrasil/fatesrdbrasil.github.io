@@ -56,6 +56,6 @@ can gain access to the more popular students. In essence, these mental and
 social zones serve to constrain the players, directing them toward conflicts
 by limiting their movement.
 
-  * [« Consequences](/fate-system-toolkit/consequences)
-  * [Refresh »](/fate-system-toolkit/refresh)
+  * [« Consequences](/fate-srd/fate-system-toolkit/consequences)
+  * [Refresh »](/fate-srd/fate-system-toolkit/refresh)
 
