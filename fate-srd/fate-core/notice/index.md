@@ -2,8 +2,6 @@
 title: "Notice"
 layout: default
 ---
-    
-Fate Core
 
 #  Notice
 
@@ -50,8 +48,8 @@ you’re being observed.
   * **Body Language Reader**. You can use Notice in place of Empathy to learn the aspects of a target through observation.
   * **Reactive Shot**. You can use Notice instead of Shoot to make quick, reactive shots that don’t involve a lot of aiming. However, because you’re having a knee-jerk reaction, you’re not allowed to concretely identify your target before using this stunt. So, for example, you might be able to shoot at someone you see moving in the bushes with this stunt, but you won’t be able to tell if it’s friend or foe before you pull the trigger. Choose carefully!
 
-  * [« Lore](/fate-core/lore)
-  * [Physique »](/fate-core/physique)
+  * [« Lore](/fate-srd/fate-core/lore)
+  * [Physique »](/fate-srd/fate-core/physique)
 
   *[GM]: Game Master
 

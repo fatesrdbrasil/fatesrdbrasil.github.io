@@ -2,8 +2,6 @@
 title: "Defining Scenarios"
 layout: default
 ---
-    
-Fate Core
 
 #  Defining Scenarios
 
@@ -42,8 +40,8 @@ relate directly to the previous scenario or present a whole new problem.
   * [Establish the Opposition](../../fate-core/establish-opposition)
   * [Set the First Scene](../../fate-core/set-first-scene)
 
-  * [« Scenes, Sessions, &amp; Scenarios](/fate-core/scenes-sessions-scenarios)
-  * [Find Problems »](/fate-core/find-problems)
+  * [« Scenes, Sessions, &amp; Scenarios](/fate-srd/fate-core/scenes-sessions-scenarios)
+  * [Find Problems »](/fate-srd/fate-core/find-problems)
 
   *[GM]: Game Master
   *[NPC]: Non-Player Character

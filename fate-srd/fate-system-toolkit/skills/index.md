@@ -2,8 +2,6 @@
 title: "Skills"
 layout: default
 ---
-    
-Fate System Toolkit
 
 #  Skills
 
@@ -18,6 +16,6 @@ have to add a skill or two, take one out, or rename a few. If you’re looking
 to make more extensive modifications to the skill list—or even the system
 itself—then this chapter is for you.
 
-  * [« Conditions](/fate-system-toolkit/conditions)
-  * [Using Skills as Written »](/fate-system-toolkit/using-skills-written)
+  * [« Conditions](/fate-srd/fate-system-toolkit/conditions)
+  * [Using Skills as Written »](/fate-srd/fate-system-toolkit/using-skills-written)
 

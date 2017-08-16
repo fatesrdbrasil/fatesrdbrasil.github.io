@@ -63,6 +63,6 @@ situation arises where you think you would be able to use your skill in an
 unusual way, give it a shot! Fate is more interesting when the unexpected
 arises and players use an unexpected method to overcome the situation at hand.
 
-  * [« Structural Changes](/fate-system-toolkit/structural-changes)
-  * [Skill Modes »](/fate-system-toolkit/skill-modes)
+  * [« Structural Changes](/fate-srd/fate-system-toolkit/structural-changes)
+  * [Skill Modes »](/fate-srd/fate-system-toolkit/skill-modes)
 

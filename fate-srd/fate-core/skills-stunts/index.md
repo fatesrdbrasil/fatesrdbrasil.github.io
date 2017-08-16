@@ -2,8 +2,6 @@
 title: "Skills &amp; Stunts"
 layout: default
 ---
-    
-Fate Core
 
 #  Skills &amp; Stunts
 
@@ -103,8 +101,8 @@ rate by one.
 If you're having trouble coming up with a stunt, give the [Stuntmaker](../../stunt-maker/) a go. It will generate random stunts to inspire you!
 (Just be sure to vet them with the table before using them.)
 
-  * [« Fate Point Economy](/fate-core/fate-point-economy)
-  * [Building Stunts »](/fate-core/building-stunts)
+  * [« Fate Point Economy](/fate-srd/fate-core/fate-point-economy)
+  * [Building Stunts »](/fate-srd/fate-core/building-stunts)
 
   *[PC]: Player Character
 

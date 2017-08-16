@@ -3,7 +3,6 @@ title: "Players &amp; Gamemasters"
 layout: default
 ---
     
-Fate Core
 
 #  Players &amp; Gamemasters
 
@@ -32,8 +31,8 @@ Check out [Game Creation](../../fate-core/game-creation) to see how
 this game came about. There are character sheets for the example PCs for you
 to check out. (Currently no example character sheets. -Site Editor)
 
-  * [« What You Need To Play](/fate-core/what-you-need-play)
-  * [The Character Sheet »](/fate-core/character-sheet)
+  * [« What You Need To Play](/fate-srd/fate-core/what-you-need-play)
+  * [The Character Sheet »](/fate-srd/fate-core/character-sheet)
 
   *[GM]: Game Master
   *[NPC]: Non-Player Character

@@ -3,7 +3,6 @@ title: "Introduction"
 layout: default
 ---
     
-Fate System Toolkit
 
 #  Introduction
 
@@ -30,5 +29,5 @@ The Fate System Toolkit is about how to hack Fate, what happens when you do,
 and what you can do when you start monkeying with the way stuff works. If that
 sounds like your kind of thing, then this toolkit is for you.
 
-  * [Rules vs. Rulings »](/fate-system-toolkit/rules-vs-rulings)
+  * [Rules vs. Rulings »](/fate-srd/fate-system-toolkit/rules-vs-rulings)
 

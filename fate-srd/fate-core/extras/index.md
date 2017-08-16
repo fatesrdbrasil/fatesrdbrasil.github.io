@@ -2,8 +2,6 @@
 title: "Extras"
 layout: default
 ---
-    
-Fate Core
 
 #  Extras
 
@@ -54,8 +52,8 @@ If you're looking for a little more guidance with the Bronze Rule, check out
 ["The Limitations of the Bronze Rule"](http://ryanmacklin.com/2014/07
 /limitations-of-the-bronze-rule/) by Ryan Macklin.
 
-  * [« World Advancement](/fate-core/world-advancement)
-  * [Creating An Extra »](/fate-core/creating-extra)
+  * [« World Advancement](/fate-srd/fate-core/world-advancement)
+  * [Creating An Extra »](/fate-srd/fate-core/creating-extra)
 
   *[GM]: Game Master
   *[NPC]: Non-Player Character

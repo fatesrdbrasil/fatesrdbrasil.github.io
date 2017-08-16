@@ -518,6 +518,6 @@ good secret war. The need to control and destroy information while still
 staying aware of it and capable of responding is almost paradoxically hard.
 From such things, great stories are born.
 
-  * [« The Subtle Art](/fate-system-toolkit/subtle-art)
-  * [Making Your Own »](/fate-system-toolkit/making-your-own)
+  * [« The Subtle Art](/fate-srd/fate-system-toolkit/subtle-art)
+  * [Making Your Own »](/fate-srd/fate-system-toolkit/making-your-own)
 

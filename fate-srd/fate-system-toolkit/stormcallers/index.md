@@ -289,6 +289,6 @@ strikes. If you gain a boost on your attack, you generate an extra boost of
 
 <span class="fate_font">D</span> **Defend**: No special rules.
 
-  * [« Storm Summoners](/fate-system-toolkit/storm-summoners)
-  * [Variations and Options »](/fate-system-toolkit/variations-and-options)
+  * [« Storm Summoners](/fate-srd/fate-system-toolkit/storm-summoners)
+  * [Variations and Options »](/fate-srd/fate-system-toolkit/variations-and-options)
 

@@ -222,6 +222,6 @@ but they might involve a flashier exchange of energies or other effect. In
 such a case, if the greater power loses, the result is rarely fatal, but the
 being may carry a consequence forward.
 
-  * [« The Six Viziers](/fate-system-toolkit/six-viziers)
-  * [Voidcallers »](/fate-system-toolkit/voidcallers)
+  * [« The Six Viziers](/fate-srd/fate-system-toolkit/six-viziers)
+  * [Voidcallers »](/fate-srd/fate-system-toolkit/voidcallers)
 

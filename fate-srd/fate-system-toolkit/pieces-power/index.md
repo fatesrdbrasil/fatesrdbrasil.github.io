@@ -354,6 +354,6 @@ magic system. If you make sure that each new extra makes sense in the context
 of existing ones, you will find that the logic of your magic system can emerge
 quite organically.
 
-  * [« Your Toolbox](/fate-system-toolkit/your-toolbox)
-  * [Subsystems »](/fate-system-toolkit/subsystems)
+  * [« Your Toolbox](/fate-srd/fate-system-toolkit/your-toolbox)
+  * [Subsystems »](/fate-srd/fate-system-toolkit/subsystems)
 

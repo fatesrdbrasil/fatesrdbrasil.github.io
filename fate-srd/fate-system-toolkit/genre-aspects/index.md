@@ -2,8 +2,6 @@
 title: "Genre Aspects"
 layout: default
 ---
-    
-Fate System Toolkit
 
 #  Genre Aspects
 
@@ -54,6 +52,6 @@ If the PCs resolve a quest aspect, it’s a milestone. The scope of the
 milestone depends on the difficulty and length of the quest. [Learn more about
 milestones](../../fate-core/advancement-change).
 
-  * [« Aspects](/fate-system-toolkit/aspects)
-  * [Gear Aspects »](/fate-system-toolkit/gear-aspects)
+  * [« Aspects](/fate-srd/fate-system-toolkit/aspects)
+  * [Gear Aspects »](/fate-srd/fate-system-toolkit/gear-aspects)
 

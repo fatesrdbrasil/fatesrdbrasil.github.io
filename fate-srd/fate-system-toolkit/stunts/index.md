@@ -90,6 +90,6 @@ whack quickly, though. Consider limiting access to such “super-stunts,” eith
 in quantity—_e.g._, “everyone only gets one double-stunt”—or in selection and
 permission—“only these stunts are available to werewolves.”
 
-  * [« Skill Modes](/fate-system-toolkit/skill-modes)
-  * [Stunt Costs »](/fate-system-toolkit/stunt-costs)
+  * [« Skill Modes](/fate-srd/fate-system-toolkit/skill-modes)
+  * [Stunt Costs »](/fate-srd/fate-system-toolkit/stunt-costs)
 

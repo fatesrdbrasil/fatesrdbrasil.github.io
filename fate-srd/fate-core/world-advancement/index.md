@@ -2,8 +2,6 @@
 title: "World Advancement"
 layout: default
 ---
-    
-Fate Core
 
 #  World Advancement
 
@@ -173,8 +171,8 @@ didn’t advance as they did so the PCs quickly outclassed him. The last time
 they had a run-in with Sir Hanley, they spanked him pretty hard and sent him
 running off to lick his wounds.
 
-  * [« Advancement &amp; Change](/fate-core/advancement-change)
-  * [Extras »](/fate-core/extras)
+  * [« Advancement &amp; Change](/fate-srd/fate-core/advancement-change)
+  * [Extras »](/fate-srd/fate-core/extras)
 
   *[GM]: Game Master
   *[NPC]: Non-Player Character

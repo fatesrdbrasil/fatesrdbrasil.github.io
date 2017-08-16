@@ -434,6 +434,6 @@ that nature. These Dark Viziers may have their own agendas and champions, and
 best of all, there’s no guarantee that those bearing the mark are even aware
 of any difference.
 
-  * [« Variations and Options](/fate-system-toolkit/variations-and-options)
-  * [The Subtle Art »](/fate-system-toolkit/subtle-art)
+  * [« Variations and Options](/fate-srd/fate-system-toolkit/variations-and-options)
+  * [The Subtle Art »](/fate-srd/fate-system-toolkit/subtle-art)
 

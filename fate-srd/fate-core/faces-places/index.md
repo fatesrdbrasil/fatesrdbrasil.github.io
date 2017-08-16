@@ -2,8 +2,6 @@
 title: "Faces &amp; Places"
 layout: default
 ---
-    
-Fate Core
 
 #  Faces &amp; Places
 
@@ -79,8 +77,8 @@ Shop owner in Riverton.
 
 <span class="aspect">Stubborn because I'm right.</span>
 
-  * [« The Setting’s Big Issues](/fate-core/setting%E2%80%99s-big-issues)
-  * [Make Characters »](/fate-core/make-characters)
+  * [« The Setting’s Big Issues](/fate-srd/fate-core/setting%E2%80%99s-big-issues)
+  * [Make Characters »](/fate-srd/fate-core/make-characters)
 
   *[GM]: Game Master
   *[NPC]: Non-Player Character

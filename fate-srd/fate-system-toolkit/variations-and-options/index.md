@@ -59,6 +59,6 @@ monsters that would like nothing more than to consume the Storms, and with
 them, our world. See the [Voidcallers](../../fate-system-
 toolkit/voidcallers) section for more ideas on this.
 
-  * [« Stormcallers](/fate-system-toolkit/stormcallers)
-  * [The Six Viziers »](/fate-system-toolkit/six-viziers)
+  * [« Stormcallers](/fate-srd/fate-system-toolkit/stormcallers)
+  * [The Six Viziers »](/fate-srd/fate-system-toolkit/six-viziers)
 

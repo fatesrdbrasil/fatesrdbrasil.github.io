@@ -2,8 +2,6 @@
 title: "The Phase Trio"
 layout: default
 ---
-    
-Fate Core
 
 #  The Phase Trio
 
@@ -262,8 +260,8 @@ only two, consider the following ideas:
 If you only have one player, skip phases two and three, leaving the aspects
 blank to be filled in during play.
 
-  * [« Your Character Idea](/fate-core/your-character-idea)
-  * [Skills »](/fate-core/skills)
+  * [« Your Character Idea](/fate-srd/fate-core/your-character-idea)
+  * [Skills »](/fate-srd/fate-core/skills)
 
   *[GM]: Game Master
   *[NPC]: Non-Player Character

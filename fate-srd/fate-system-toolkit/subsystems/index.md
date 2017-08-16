@@ -21,6 +21,6 @@ options for you!
   * [Supers](../../fate-system-toolkit/supers)
   * [The Horror Paradox](../../fate-system-toolkit/horror-paradox)
 
-  * [« Pieces of Power](/fate-system-toolkit/pieces-power)
-  * [Kung Fu »](/fate-system-toolkit/kung-fu)
+  * [« Pieces of Power](/fate-srd/fate-system-toolkit/pieces-power)
+  * [Kung Fu »](/fate-srd/fate-system-toolkit/kung-fu)
 

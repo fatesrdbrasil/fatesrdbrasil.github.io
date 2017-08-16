@@ -2,8 +2,6 @@
 title: "Gear Aspects"
 layout: default
 ---
-    
-Fate System Toolkit
 
 #  Gear Aspects
 
@@ -69,6 +67,6 @@ even one signature piece of gear is perfectly fine.
 Finally, in a game focused on gear rather than PC relationships or previous
 adventures, gear aspects might replace the [“phase trio” aspects](../../fate-core/phase-trio).
 
-  * [« Genre Aspects](/fate-system-toolkit/genre-aspects)
-  * [Conditions »](/fate-system-toolkit/conditions)
+  * [« Genre Aspects](/fate-srd/fate-system-toolkit/genre-aspects)
+  * [Conditions »](/fate-srd/fate-system-toolkit/conditions)
 

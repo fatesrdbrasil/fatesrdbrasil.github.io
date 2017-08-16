@@ -2,8 +2,6 @@
 title: "Invoking &amp; Compelling Aspects"
 layout: default
 ---
-    
-Fate Core
 
 #  Invoking &amp; Compelling Aspects
 
@@ -396,8 +394,8 @@ Dust</span> everywhere, so it makes sense that, unfortunately, while he might
 be able to find the information he’s looking for, the bounty hunter pursuing
 him will know that he was here. Damn his luck.
 
-  * [« Making A Good Aspect](/fate-core/making-good-aspect)
-  * [Using Aspects For Roleplaying »](/fate-core/using-aspects-roleplaying)
+  * [« Making A Good Aspect](/fate-srd/fate-core/making-good-aspect)
+  * [Using Aspects For Roleplaying »](/fate-srd/fate-core/using-aspects-roleplaying)
 
   *[GM]: Game Master
   *[NPC]: Non-Player Character

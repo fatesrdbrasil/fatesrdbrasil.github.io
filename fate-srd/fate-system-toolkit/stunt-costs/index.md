@@ -98,6 +98,6 @@ Most solutions will require adjusting multiple dials to find the sweet spot
 for a particular group. That’s totally fine. This is your game, and it’s up to
 you and your group to determine what works for you.
 
-  * [« Stunts](/fate-system-toolkit/stunts)
-  * [The Big Game »](/fate-system-toolkit/big-game)
+  * [« Stunts](/fate-srd/fate-system-toolkit/stunts)
+  * [The Big Game »](/fate-srd/fate-system-toolkit/big-game)
 

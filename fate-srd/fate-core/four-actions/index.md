@@ -2,8 +2,6 @@
 title: "Four Actions"
 layout: default
 ---
-    
-Fate Core
 
 #  Four Actions
 
@@ -327,8 +325,8 @@ tying at Great (+4). Zird doesn’t have to deal with taking a hit, but he does
 grant Skortch a boost, which Amanda decides to call <span class="aspect">Momentarily
 Tripped Up</span>.
 
-  * [« Four Outcomes](/fate-core/four-outcomes)
-  * [Challenges, Contests, &amp; Conflicts »](/fate-core/challenges-contests-conflicts)
+  * [« Four Outcomes](/fate-srd/fate-core/four-outcomes)
+  * [Challenges, Contests, &amp; Conflicts »](/fate-srd/fate-core/challenges-contests-conflicts)
 
   *[GM]: Game Master
   *[NPC]: Non-Player Character

@@ -2,8 +2,6 @@
 title: "Lore"
 layout: default
 ---
-    
-Fate Core
 
 #  Lore
 
@@ -51,6 +49,6 @@ section for more details about ways to do magic and powers.)
   * **Shield of Reason**. You can use Lore as a defense against Provoke attempts, provided you can justify your ability to overcome your fear through rational thought and reason.
   * **Specialist**. Choose a field of specialization, such as herbology, criminology, or zoology. You get a +2 to all Lore rolls relating to that field of specialization.
 
-  * [« Investigate](/fate-core/investigate)
-  * [Notice »](/fate-core/notice)
+  * [« Investigate](/fate-srd/fate-core/investigate)
+  * [Notice »](/fate-srd/fate-core/notice)
 

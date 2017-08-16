@@ -41,6 +41,6 @@ nefarious machinations to fruition.
 
 **Collateral Consequences**: In addition to their usual complement of consequences, the players can also make use of three communal consequences, one of each degree of severity. These represent damage to the environment or new complications in the story, such as <span class="aspect">Injured Bystanders</span> or <span class="aspect">Anti-Mutant Hysteria</span>. Players can effectively use them to offload harm from themselves onto the world around them. A **collateral consequence** can be cleared just like a regular one, using an overcome action with whatever skill seems most appropriate, with two exceptions. One, it must be done during the scene in which the consequence is incurred. Two, there’s no delay—with a good enough skill roll it clears immediately. This option is best suited for genres, such as supers, in which the PCs are likely to care a great deal about the world around them.
 
-  * [« Customized Tools](/fate-system-toolkit/customized-tools)
-  * [Zones »](/fate-system-toolkit/zones)
+  * [« Customized Tools](/fate-srd/fate-system-toolkit/customized-tools)
+  * [Zones »](/fate-srd/fate-system-toolkit/zones)
 

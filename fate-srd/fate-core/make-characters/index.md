@@ -2,8 +2,6 @@
 title: "Make Characters"
 layout: default
 ---
-    
-Fate Core
 
 #  Make Characters
 
@@ -36,6 +34,6 @@ there’s a skill you need to add.
 Adding a skill is covered in more detail in the [Extras](../../fate-
 core/extras) section.
 
-  * [« Faces &amp; Places](/fate-core/faces-places)
-  * [Character Creation »](/fate-core/character-creation)
+  * [« Faces &amp; Places](/fate-srd/fate-core/faces-places)
+  * [Character Creation »](/fate-srd/fate-core/character-creation)
 

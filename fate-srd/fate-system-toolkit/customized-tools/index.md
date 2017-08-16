@@ -24,6 +24,6 @@ hardly the only way to go. Here are some other options.
 
 **Stress-Free**: Characters have no stress boxes and don’t receive bonus boxes from skills. Instead, those skills grant one bonus mild consequence (physical or mental) at Good (+3) or two at Great (+4). This is the most dangerous and dynamic option—every hit results in a consequence and has narrative impact—but can potentially mean an unmanageable number of aspects in play.
 
-  * [« Social Conflict](/fate-system-toolkit/social-conflict)
-  * [Consequences »](/fate-system-toolkit/consequences)
+  * [« Social Conflict](/fate-srd/fate-system-toolkit/social-conflict)
+  * [Consequences »](/fate-srd/fate-system-toolkit/consequences)
 

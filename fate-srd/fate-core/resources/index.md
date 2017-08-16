@@ -2,8 +2,6 @@
 title: "Resources"
 layout: default
 ---
-    
-Fate Core
 
 #  Resources
 
@@ -60,6 +58,6 @@ The Resources skill is a one that some folks may want to tweak or modify. Ryan
 Macklin has posted an article with this thoughts at[ One Rethinking of the
 Resources Skill](http://ryanmacklin.com/2014/02/one-rethinking-resources/).
 
-  * [« Rapport](/fate-core/rapport)
-  * [Shoot »](/fate-core/shoot)
+  * [« Rapport](/fate-srd/fate-core/rapport)
+  * [Shoot »](/fate-srd/fate-core/shoot)
 

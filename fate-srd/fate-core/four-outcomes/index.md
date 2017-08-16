@@ -2,8 +2,6 @@
 title: "Four Outcomes"
 layout: default
 ---
-    
-Fate Core
 
 #  Four Outcomes
 
@@ -104,8 +102,8 @@ It’s in the middle of a PC’s range of skills, so it provides a decent
 challenge for every skill level except Great (+4), and you want to give PCs a
 chance to show off their peak skill anyway.
 
-  * [« Actions &amp; Outcomes](/fate-core/actions-outcomes)
-  * [Four Actions »](/fate-core/four-actions)
+  * [« Actions &amp; Outcomes](/fate-srd/fate-core/actions-outcomes)
+  * [Four Actions »](/fate-srd/fate-core/four-actions)
 
   *[GM]: Game Master
   *[NPC]: Non-Player Character

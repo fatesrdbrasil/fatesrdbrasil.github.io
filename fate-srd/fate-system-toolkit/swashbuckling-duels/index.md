@@ -106,6 +106,6 @@ trading a couple more fate points, Dekka comes out ahead by a single shift.
 Since they’re using the Stress-Free variant, that means a mild consequence for
 Xoren—<span class="aspect">Faltering Confidence</span>.
 
-  * [« This Means War: Mass Combat](/fate-system-toolkit/means-war-mass-combat)
-  * [Vehicles »](/fate-system-toolkit/vehicles)
+  * [« This Means War: Mass Combat](/fate-srd/fate-system-toolkit/means-war-mass-combat)
+  * [Vehicles »](/fate-srd/fate-system-toolkit/vehicles)
 

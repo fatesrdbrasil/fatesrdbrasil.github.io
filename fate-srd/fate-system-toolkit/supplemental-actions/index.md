@@ -37,6 +37,6 @@ which point it goes away, like a normal boost. Also, the GM may compel you
 with it once for free—meaning that she doesn’t have to offer you a fate point,
 but you may still pay one to resist the compel—at which point it disappears.
 
-  * [« Weapons and Armor Alternatives](/fate-system-toolkit/weapons-and-armor-alternatives)
-  * [Magic »](/fate-system-toolkit/magic)
+  * [« Weapons and Armor Alternatives](/fate-srd/fate-system-toolkit/weapons-and-armor-alternatives)
+  * [Magic »](/fate-srd/fate-system-toolkit/magic)
 

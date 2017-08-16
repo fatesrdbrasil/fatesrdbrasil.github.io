@@ -3,7 +3,6 @@ title: "A Game’s Scale"
 layout: default
 ---
     
-Fate Core
 
 #  A Game’s Scale
 
@@ -24,6 +23,6 @@ as a small-scale game, where they might travel from town to town, but the
 problems they have to deal with are local—like a thieves’ guild or the
 regent’s vile machinations.
 
-  * [« Making the Setting Work in Fate](/fate-core/making-setting-work-fate)
-  * [The Setting’s Big Issues »](/fate-core/setting%E2%80%99s-big-issues)
+  * [« Making the Setting Work in Fate](/fate-srd/fate-core/making-setting-work-fate)
+  * [The Setting’s Big Issues »](/fate-srd/fate-core/setting%E2%80%99s-big-issues)
 

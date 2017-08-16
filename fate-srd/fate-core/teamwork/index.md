@@ -2,8 +2,6 @@
 title: "Teamwork"
 layout: default
 ---
-    
-Fate Core
 
 #  Teamwork
 
@@ -68,8 +66,8 @@ In his article [Revising Teamwork in Fate](http://ryanmacklin.com/2015/08
 /revising-teamwork-in-fate/) he offers up some seasoned thinking on Teamwork
 Rules.
 
-  * [« Conflicts](/fate-core/conflicts)
-  * [Running the Game »](/fate-core/running-game)
+  * [« Conflicts](/fate-srd/fate-core/conflicts)
+  * [Running the Game »](/fate-srd/fate-core/running-game)
 
   *[PC]: Player Character
 

@@ -2,8 +2,6 @@
 title: "Your Character Idea"
 layout: default
 ---
-    
-Fate Core
 
 #  Your Character Idea
 
@@ -283,8 +281,8 @@ appropriately ridiculous wizardly name. Then he pauses for a moment before
 adding “…the Arcane,” because he sees Zird as the sort of guy who would demand
 to be known as “Zird the Arcane.”
 
-  * [« Character Creation](/fate-core/character-creation)
-  * [The Phase Trio »](/fate-core/phase-trio)
+  * [« Character Creation](/fate-srd/fate-core/character-creation)
+  * [The Phase Trio »](/fate-srd/fate-core/phase-trio)
 
   *[GM]: Game Master
   *[NPC]: Non-Player Character

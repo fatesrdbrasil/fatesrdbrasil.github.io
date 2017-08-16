@@ -2,8 +2,6 @@
 title: "Establish the Opposition"
 layout: default
 ---
-    
-Fate Core
 
 #  Establish the Opposition
 
@@ -112,8 +110,8 @@ everything set in stone when you get to the table—whatever you don’t know, y
 can always establish by letting the advantages the players create become the
 NPCs’ aspects.
 
-  * [« Ask Story Questions](/fate-core/ask-story-questions)
-  * [Set Up The First Scene »](/fate-core/set-first-scene)
+  * [« Ask Story Questions](/fate-srd/fate-core/ask-story-questions)
+  * [Set Up The First Scene »](/fate-srd/fate-core/set-first-scene)
 
   *[NPC]: Non-Player Character
   *[PC]: Player Character

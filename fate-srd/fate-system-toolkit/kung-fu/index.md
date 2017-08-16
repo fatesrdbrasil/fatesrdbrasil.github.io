@@ -124,6 +124,6 @@ fu.
 
 **Steady the Drunkard**: (Requires Drunkard Swings Wide) You stagger and seem about to fall, so you reach out and grab your opponent’s arm to steady yourself. This seemingly unintentional grip blocks chi and paralyzes your opponent. You may place a <span class="aspect">Chi Blocked</span> situation aspect with a free invocation on your opponent. Your opponent may not use any kung fu stunts until they remove this aspect.
 
-  * [« Subsystems](/fate-system-toolkit/subsystems)
-  * [Cyberware »](/fate-system-toolkit/cyberware)
+  * [« Subsystems](/fate-srd/fate-system-toolkit/subsystems)
+  * [Cyberware »](/fate-srd/fate-system-toolkit/cyberware)
 

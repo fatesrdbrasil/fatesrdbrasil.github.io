@@ -3,7 +3,6 @@ title: "Start Playing"
 layout: default
 ---
     
-Fate Core
 
 #  Start Playing
 
@@ -17,8 +16,8 @@ how to get your game off the ground.
   * Players, you’ll eventually want to read [Actions and Outcomes](../../fate-core/actions-outcomes) and [The Long Game](../../fate-core/long-game), to help you get a better handle on the nuts and bolts of doing stuff and developing your character during play.
   * GMs, you’re going to want to familiarize yourselves with the whole book, but [Running the Game](../../fate-core/running-game) and [Scenes, Sessions, and Scenarios](../../fate-core/scenes-sessions-scenarios) are of particular importance to you.
 
-  * [« Fate Points](/fate-core/fate-points)
-  * [Game Creation »](/fate-core/game-creation)
+  * [« Fate Points](/fate-srd/fate-core/fate-points)
+  * [Game Creation »](/fate-srd/fate-core/game-creation)
 
   *[GM]: Game Master
 

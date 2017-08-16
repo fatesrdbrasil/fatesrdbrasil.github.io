@@ -2,8 +2,6 @@
 title: "Physique"
 layout: default
 ---
-    
-Fate Core
 
 #  Physique
 
@@ -49,6 +47,6 @@ heavy and brace it to stop someone from getting through.
   * **Take the Blow**. You can use Physique to defend against Fight attacks made with fists or blunt instruments, though you always take 1 shift of stress on a tie.
   * **Tough as Nails**. Once per session, at the cost of a fate point, you can reduce the severity of a moderate consequence that’s physical in nature to a mild consequence (if your mild consequence slot is free), or erase a mild consequence altogether.
 
-  * [« Notice](/fate-core/notice)
-  * [Provoke »](/fate-core/provoke)
+  * [« Notice](/fate-srd/fate-core/notice)
+  * [Provoke »](/fate-srd/fate-core/provoke)
 

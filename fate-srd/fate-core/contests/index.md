@@ -2,8 +2,6 @@
 title: "Contests"
 layout: default
 ---
-    
-Fate Core
 
 #  Contests
 
@@ -157,8 +155,8 @@ it ceases to be a contest. You should immediately stop what you’re doing and
 start setting up for a [conflict](../../fate-core/conflicts
 "Conflicts" ) instead.
 
-  * [« Challenges](/fate-core/challenges)
-  * [Conflicts »](/fate-core/conflicts)
+  * [« Challenges](/fate-srd/fate-core/challenges)
+  * [Conflicts »](/fate-srd/fate-core/conflicts)
 
   *[GM]: Game Master
 

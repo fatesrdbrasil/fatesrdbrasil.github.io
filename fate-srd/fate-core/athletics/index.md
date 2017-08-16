@@ -2,8 +2,6 @@
 title: "Athletics"
 layout: default
 ---
-    
-Fate Core
 
 #  Athletics
 
@@ -49,6 +47,6 @@ against them.
   * **Hardcore Parkour**. +2 to overcome actions with Athletics if you are in a chase across rooftops or a similarly precarious environment.
   * **Dazing Counter**. When you succeed with style on a defend action against an opponent’s Fight roll, you automatically counter with some sort of nerve punch or stunning blow. You get to attach the Dazed situation aspect to your opponent with a free invoke, instead of just a boost.
 
-  * [« Default Skill List](/fate-core/default-skill-list)
-  * [Burglary »](/fate-core/burglary)
+  * [« Default Skill List](/fate-srd/fate-core/default-skill-list)
+  * [Burglary »](/fate-srd/fate-core/burglary)
 

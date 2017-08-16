@@ -2,8 +2,6 @@
 title: "Fight"
 layout: default
 ---
-    
-Fate Core
 
 #  Fight
 
@@ -61,6 +59,6 @@ etc.), but again, we recommend you not go too crazy with this unless it’s
 really important to your setting. Specialized weapon use can also be modeled
 by using [extras](../../fate-core/extras).
 
-  * [« Empathy](/fate-core/empathy)
-  * [Investigate »](/fate-core/investigate)
+  * [« Empathy](/fate-srd/fate-core/empathy)
+  * [Investigate »](/fate-srd/fate-core/investigate)
 

@@ -2,8 +2,6 @@
 title: "Aspects &amp; Fate Points"
 layout: default
 ---
-    
-Fate Core
 
 #  Aspects &amp; Fate Points
 
@@ -27,8 +25,8 @@ Economy" ) to spend in every scene.
 
 When your aspects come into play, you will usually spend or gain a fate point.
 
-  * [« Quick Character Creation](/fate-core/quick-character-creation)
-  * [Types of Aspects »](/fate-core/types-aspects)
+  * [« Quick Character Creation](/fate-srd/fate-core/quick-character-creation)
+  * [Types of Aspects »](/fate-srd/fate-core/types-aspects)
 
   *[GM]: Game Master
 

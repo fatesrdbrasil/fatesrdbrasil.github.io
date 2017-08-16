@@ -84,5 +84,5 @@ opposite ends of the house.
 Your players will hate you for it. And if they came to all this to really
 revel in the horror—they’ll love you for it, too, screaming all the way.
 
-  * [« Supers](/fate-system-toolkit/supers)
+  * [« Supers](/fate-srd/fate-system-toolkit/supers)
 

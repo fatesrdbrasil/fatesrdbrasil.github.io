@@ -34,6 +34,6 @@ Once you’ve got a good starting point, start playing! Now you’ve got a
 starting situation with a lot of player buy-in, and the players have some
 extra fate points so that they can be extra-awesome from the start!
 
-  * [« Character Generation Options](/fate-system-toolkit/character-generation-options)
-  * [Aspect Events »](/fate-system-toolkit/aspect-events)
+  * [« Character Generation Options](/fate-srd/fate-system-toolkit/character-generation-options)
+  * [Aspect Events »](/fate-srd/fate-system-toolkit/aspect-events)
 

@@ -2,8 +2,6 @@
 title: "Investigate"
 layout: default
 ---
-    
-Fate Core
 
 #  Investigate
 
@@ -42,6 +40,6 @@ of information, conducting surveillance, and researching a cover story.
   * **Eavesdropper**. On a successful Investigate roll to create an advantage by eavesdropping on a conversation, you can discover or create one additional aspect (though this doesn’t give you an extra free invocation).
   * **The Power of Deduction**. Once per scene you can spend a fate point (and a few minutes of observation) to make a special Investigate roll representing your potent deductive faculties. For each shift you make on this roll you discover or create an aspect, on either the scene or the target of your observations, though you may only invoke one of them for free.
 
-  * [« Fight](/fate-core/fight)
-  * [Lore »](/fate-core/lore)
+  * [« Fight](/fate-srd/fate-core/fight)
+  * [Lore »](/fate-srd/fate-core/lore)
 

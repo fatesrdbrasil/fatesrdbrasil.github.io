@@ -204,6 +204,6 @@ get them is best not discussed.
 
 **Terror**: By spending an additional 1 MP (2 MP total), the character can increase the intensity of his aura of fear. He now inflicts mental damage equal to any physical damage he inflicts when he attacks.
 
-  * [« Making Your Own](/fate-system-toolkit/making-your-own)
-  * [Pieces of Power »](/fate-system-toolkit/pieces-power)
+  * [« Making Your Own](/fate-srd/fate-system-toolkit/making-your-own)
+  * [Pieces of Power »](/fate-srd/fate-system-toolkit/pieces-power)
 

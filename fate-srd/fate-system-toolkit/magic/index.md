@@ -251,6 +251,6 @@ Extras are basically their own magic system as written. A magic system may
 provide explanations and justifications for specific extras, but the system
 itself is robust and easily used for any number of effects.
 
-  * [« Supplemental Actions](/fate-system-toolkit/supplemental-actions)
-  * [Systems »](/fate-system-toolkit/systems)
+  * [« Supplemental Actions](/fate-srd/fate-system-toolkit/supplemental-actions)
+  * [Systems »](/fate-srd/fate-system-toolkit/systems)
 

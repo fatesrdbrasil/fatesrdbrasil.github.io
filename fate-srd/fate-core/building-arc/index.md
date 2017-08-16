@@ -2,8 +2,6 @@
 title: "Building An Arc"
 layout: default
 ---
-    
-Fate Core
 
 #  Building An Arc
 
@@ -61,8 +59,8 @@ Then go through the same process of picking opposing NPCs, keeping in mind
 that their influence is supposed to be more far-reaching in an arc than in a
 single scenario.
 
-  * [« The Long Game](/fate-core/long-game)
-  * [Building A Campaign »](/fate-core/building-campaign)
+  * [« The Long Game](/fate-srd/fate-core/long-game)
+  * [Building A Campaign »](/fate-srd/fate-core/building-campaign)
 
   *[GM]: Game Master
   *[NPC]: Non-Player Character

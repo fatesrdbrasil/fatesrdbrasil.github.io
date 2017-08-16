@@ -2,8 +2,6 @@
 title: "Character Creation"
 layout: default
 ---
-    
-Fate Core
 
 #  Character Creation
 
@@ -44,8 +42,8 @@ stunts. Then you’re ready to play!
   * **Refresh:** Determine how many fate points you start play with.
   * **Stress and Consequences:** Determine how much of a beating your character can take.
 
-  * [« Make Characters](/fate-core/make-characters)
-  * [Your Character Idea »](/fate-core/your-character-idea)
+  * [« Make Characters](/fate-srd/fate-core/make-characters)
+  * [Your Character Idea »](/fate-srd/fate-core/your-character-idea)
 
   *[GM]: Game Master
 

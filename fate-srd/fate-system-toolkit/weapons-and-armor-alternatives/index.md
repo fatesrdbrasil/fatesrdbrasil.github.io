@@ -118,6 +118,6 @@ big nasty spikes or an electrostatic force field. You could also have stunts
 that let you swap Blue dice for Red when you defend—for example, a fencing
 master with a killer riposte, or a magical flaming shield.
 
-  * [« Wealth](/fate-system-toolkit/wealth)
-  * [Supplemental Actions »](/fate-system-toolkit/supplemental-actions)
+  * [« Wealth](/fate-srd/fate-system-toolkit/wealth)
+  * [Supplemental Actions »](/fate-srd/fate-system-toolkit/supplemental-actions)
 

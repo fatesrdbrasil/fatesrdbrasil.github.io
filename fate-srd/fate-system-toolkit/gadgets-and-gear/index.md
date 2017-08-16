@@ -81,6 +81,6 @@ and Unwieldy</span>.
 > The Ring of Truth could have an additional flaw of <span class="aspect">Hunted by
 the Servants of Ssask, God of Lies</span>.
 
-  * [« Cyberware](/fate-system-toolkit/cyberware)
-  * [Monsters »](/fate-system-toolkit/monsters)
+  * [« Cyberware](/fate-srd/fate-system-toolkit/cyberware)
+  * [Monsters »](/fate-srd/fate-system-toolkit/monsters)
 

@@ -2,8 +2,6 @@
 title: "Stress &amp; Consequences"
 layout: default
 ---
-    
-Fate Core
 
 #  Stress &amp; Consequences
 
@@ -82,8 +80,8 @@ Will, though, is good for one bonus mental stress box.
 or above, each has the default number of consequences: one mild, one moderate,
 and one severe.
 
-  * [« Stunts &amp; Refresh](/fate-core/stunts-refresh)
-  * [You’re All Set! »](/fate-core/you%E2%80%99re-all-set)
+  * [« Stunts &amp; Refresh](/fate-srd/fate-core/stunts-refresh)
+  * [You’re All Set! »](/fate-srd/fate-core/you%E2%80%99re-all-set)
 
   *[PC]: Player Character
 

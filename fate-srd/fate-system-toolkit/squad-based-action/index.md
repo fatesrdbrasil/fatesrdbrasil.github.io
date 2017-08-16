@@ -168,6 +168,6 @@ War</span> to get another +2 for a total of Fantastic (+6). For her first
 shift, she narrates that they charge the line successfully, and for her
 second, she states that her character gets close enough to kill the queen.
 
-  * [« Monsters](/fate-system-toolkit/monsters)
-  * [This Means War: Mass Combat »](/fate-system-toolkit/means-war-mass-combat)
+  * [« Monsters](/fate-srd/fate-system-toolkit/monsters)
+  * [This Means War: Mass Combat »](/fate-srd/fate-system-toolkit/means-war-mass-combat)
 

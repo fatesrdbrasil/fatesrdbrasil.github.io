@@ -125,6 +125,6 @@ Heroes can also pick up sidekicks (see [Sidekicks vs. Allies](../..
 /fate-system-toolkit/sidekicks-vs-allies)) and minions of their own as your
 story goes on, purchasing them as extras when they achieve milestones.
 
-  * [« Vehicles](/fate-system-toolkit/vehicles)
-  * [The Horror Paradox »](/fate-system-toolkit/horror-paradox)
+  * [« Vehicles](/fate-srd/fate-system-toolkit/vehicles)
+  * [The Horror Paradox »](/fate-srd/fate-system-toolkit/horror-paradox)
 

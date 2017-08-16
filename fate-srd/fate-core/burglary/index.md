@@ -2,8 +2,6 @@
 title: "Burglary"
 layout: default
 ---
-    
-Fate Core
 
 #  Burglary
 
@@ -37,6 +35,6 @@ skill, so there’s not a lot of opportunity to use it to defend
   * **Security Specialist**. You don’t have to be present to provide active opposition to someone trying to overcome security measures you put in place or worked on. (Normally, a character would roll against passive opposition for that.)
   * **Talk the Talk**. You can use Burglary in place of Contacts whenever you’re dealing specifically with other thieves and burglars.
 
-  * [« Athletics](/fate-core/athletics)
-  * [Contacts »](/fate-core/contacts)
+  * [« Athletics](/fate-srd/fate-core/athletics)
+  * [Contacts »](/fate-srd/fate-core/contacts)
 

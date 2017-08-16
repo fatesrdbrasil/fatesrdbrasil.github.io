@@ -2,8 +2,6 @@
 title: "Using Aspects For Roleplaying"
 layout: default
 ---
-    
-Fate Core
 
 #  Using Aspects For Roleplaying
 
@@ -180,8 +178,8 @@ Within Wheels</span>. If the PCs discover a couple of these, or see them on
 the table, they might start to suspect the NPC, but it’s not going to ruin the
 mystery of the scenario right away.
 
-  * [« Invoking &amp; Compelling](/fate-core/invoking-compelling-aspects)
-  * [Fate Point Economy »](/fate-core/fate-point-economy)
+  * [« Invoking &amp; Compelling](/fate-srd/fate-core/invoking-compelling-aspects)
+  * [Fate Point Economy »](/fate-srd/fate-core/fate-point-economy)
 
   *[GM]: Game Master
   *[NPC]: Non-Player Character

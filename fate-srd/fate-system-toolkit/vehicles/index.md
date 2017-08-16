@@ -133,6 +133,6 @@ may be able to take one severe consequence.
 
 **Car Thief**: When stealing a car, use Drive in lieu of Burglary.
 
-  * [« Swashbuckling Duels](/fate-system-toolkit/swashbuckling-duels)
-  * [Supers »](/fate-system-toolkit/supers)
+  * [« Swashbuckling Duels](/fate-srd/fate-system-toolkit/swashbuckling-duels)
+  * [Supers »](/fate-srd/fate-system-toolkit/supers)
 
