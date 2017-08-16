@@ -10,7 +10,7 @@ layout: default
 
 Este é o Documento de Referência do Sistema (*System Reference Document*) em Português do Brasil para uso com licença Creative Commons. A seguinte atribuição deve ser fornecida em seu texto, onde você indica seus créditos (*copyright*), em tamanho equivalente ao seu texto de créditos (*copyright)*:
 
-Esta obra é baseada em Fate Acelerado, encontrado em <http://www.solarentretenimento.com.br>, traduzido, adaptado e editado por Alain Valchera, Fábio Silva, Fernando del Angeles, Luís Henrique Fonseca e Matheus Funfas e licenciado para uso sob licença Creative Commons Atribuição 4.0 Internacional (http://creativecommons.org/licenses/by/4.0/). Documento de Referência do Sistema produzido por Fábio Emílio Costa, Fábio Silva e Jaime Rangel de S. Junior.
+Esta obra é baseada em Fate Acelerado, encontrado em <http://www.solarentretenimento.com.br>, traduzido, adaptado e editado por Alain Valchera, Fábio Silva, Fernando del Angeles, Luís Henrique Fonseca e Matheus Funfas e licenciado para uso sob licença [Creative Commons Atribuição 4.0 Internacional](http://creativecommons.org/licenses/by/4.0/). Documento de Referência do Sistema produzido por Fábio Emílio Costa, Fábio Silva e Jaime Rangel de S. Junior.
 
 - [Começando!](comecando/)
 - [Contando Histórias Juntos](contando-historias-juntos/)
