@@ -10,38 +10,20 @@
     {% if page.title == "Home" %}
       {{ site.title }} &middot; {{ site.tagline }}
     {% else %}
-      {{ page.title | markdownify | strip_html }} &middot; {{ site.title }}
+      {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
 
   <!-- CSS -->
-  <link rel="stylesheet" href="{{ site.baseurl }}assets/css/poole.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}assets/css/syntax.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}assets/css/hyde.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}public/css/poole.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}public/css/syntax.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}public/css/hyde.css">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
-  <link rel="stylesheet" href="https://fontlibrary.org/face/carlito">
-  <link rel="stylesheet" href="{{ site.baseurl }}assets/css/font-awesome/css/font-awesome.min.css">  
-  <link rel="stylesheet" href="{{ site.baseurl }}assets/css/font-awesome/css/font-awesome.min.css">  
 
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}public/apple-touch-icon-144-precomposed.png">
+                                 <link rel="shortcut icon" href="{{ site.baseurl }}public/favicon.ico">
 
-<!-- Icons -->
-<link rel="apple-touch-icon" sizes="57x57" href="{{ site.baseurl }}assets/favicons/apple-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="60x60" href="{{ site.baseurl }}assets/favicons/apple-icon-60x60.png">
-<link rel="apple-touch-icon" sizes="72x72" href="{{ site.baseurl }}assets/favicons/apple-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="76x76" href="{{ site.baseurl }}assets/favicons/apple-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="114x114" href="{{ site.baseurl }}assets/favicons/apple-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="120x120" href="{{ site.baseurl }}assets/favicons/apple-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="144x144" href="{{ site.baseurl }}assets/favicons/apple-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="152x152" href="{{ site.baseurl }}assets/favicons/apple-icon-152x152.png">
-<link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}assets/favicons/apple-icon-180x180.png">
-<link rel="icon" type="image/png" sizes="192x192"  href="{{ site.baseurl }}assets/favicons/android-icon-192x192.png">
-<link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}assets/favicons/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="96x96" href="{{ site.baseurl }}assets/favicons/favicon-96x96.png">
-<link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}assets/favicons/favicon-16x16.png">
-<link rel="manifest" href="{{ site.baseurl }}assets/favicons/manifest.json">
-<meta name="msapplication-TileColor" content="#ffffff">
-<meta name="msapplication-TileImage" content="{{ site.baseurl }}assets/favicons/ms-icon-144x144.png">
-<meta name="theme-color" content="#ffffff">
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 </head>

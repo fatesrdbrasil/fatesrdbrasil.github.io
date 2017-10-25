@@ -1,14 +1,10 @@
 # Dependencies
-markdown:         kramdown
-#highlighter:      pygments
-gems:
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-sitemap
+markdown:         redcarpet
+highlighter:      pygments
 
 # Permalinks
-permalink:        /:categories/:title/
-#permalink:        pretty
+#permalink:        /:categories/:title/
+permalink:        pretty
 #relative_permalinks: true
 encoding: utf-8
 
@@ -21,7 +17,6 @@ baseurl:          '/'
 
 author:
   name:           'Fate SRD Brasil'
-  avatar:         /assets/img/fate-srd.png
 
 
 paginate:         3
@@ -29,8 +24,8 @@ paginate:         3
 # Custom vars
 version:          2.1.0
 
-github:
-  repo:           https://github.com/poole/hyde
+#github:
+#  repo:           https://github.com/poole/hyde
 
 # collections:
 #   fate-srd:
