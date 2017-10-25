@@ -3090,27 +3090,27 @@ A maneira mais fácil de fazer isso é criar uma vantagem na cena, ao invés de 
 > 
 > Léo não hesita. Ele escreve uma consequência mental suave chamada *Esse Cara é Maior do Que Eu Pensava...*
 > 
-> “Legal. Eles olham para você e então para Shagas. Ele balança a mão com desdém e grunhe, “Vão encontrar outro para matar, esse é meu”.
+> “Legal. Eles olham para você e então para Shagas. Ele balança a mão com desdém e grunhe, 'Vão encontrar outro para matar, esse é meu'".
 
 As coisas podem ficar complicadas quando alguém quer filtrar alvos específicos, ao invés de afetar uma zona ou cena inteira. Quando isso acontecer, divida o seu resultado total contra todos os alvos, que se defenderão normalmente. Quem falhar na defesa ou recebe estresse ou ganha um aspecto, dependendo do que estava tentando fazer (nota: ao criar vantagem para colocar um aspecto mais de um alvo, você ganha uma invocação grátis para cada um).
 
-Fräkeline está preparando seu chicote de energia, pois sente que os três inimigos a sua frente a escolheram como alvo – provavelmente por culpa de Esopo e seu talento para entrar em brigas.
-
-Fräk usa sua perícia Lutar, e se sai extremamente bem, obtendo um resultado Épico (+7).
-
-Ela sabe que quer atingir um deles em cheio, então opta por dividir seu ataque em Excepcional (+5), Regular (+1) e Regular (+1). Isso dá um total de +7 que é o valor de sua rolagem. Agora Amanda tem que defender pelos três PdNs.
-
-O primeiro se defende com um resultado Medíocre (+0) e recebe 5 de estresse. Esse é um PdN sem importância (veja abaixo), então Amanda decide que ele saí da luta e o descreve gritando enquanto é golpeado em cheio pelo chicote.
-
-O segundo se defende com um resultado Razoável (+2), acima da rolagem do ataque. Ele continua adiante, destemido.
-
-O terceiro consegue uma rolagem Medíocre (+0), recebendo apenas um ponto de estresse. Amanda marca sua única caixa de estresse e o descreve sacrificando seu escudo de aço no processo.
+> Fräkeline está preparando seu chicote de energia, pois sente que os três inimigos a sua frente a escolheram como alvo – provavelmente por culpa de Esopo e seu talento para entrar em brigas.
+> 
+> Fräk usa sua perícia Lutar, e se sai extremamente bem, obtendo um resultado Épico (+7).
+> 
+> Ela sabe que quer atingir um deles em cheio, então opta por dividir seu ataque em Excepcional (+5), Regular (+1) e Regular (+1). Isso dá um total de +7 que é o valor de sua rolagem. Agora Amanda tem que defender pelos três PdNs.
+> 
+> O primeiro se defende com um resultado Medíocre (+0) e recebe 5 de estresse. Esse é um PdN sem importância (veja abaixo), então Amanda decide que ele saí da luta e o descreve gritando enquanto é golpeado em cheio pelo chicote.
+> 
+> O segundo se defende com um resultado Razoável (+2), acima da rolagem do ataque. Ele continua adiante, destemido.
+> 
+> O terceiro consegue uma rolagem Medíocre (+0), recebendo apenas um ponto de estresse. Amanda marca sua única caixa de estresse e o descreve sacrificando seu escudo de aço no processo.
 
 Atacar uma zona inteira ou todos em uma única cena é algo que precisa ser analisado de acordo com as circunstâncias, como qualquer outro uso imprevisto de perícias (veja a página 202). Dependendo das circunstâncias do cenário, isso pode ser algo totalmente normal de ser feito (por exemplo, porque todos usam granadas e explosivos), mas pode ser impossível o requerer uma façanha. Não são necessárias regras especiais, desde que isso seja justificável – você rola os dados para atacar e todos na zona defendem normalmente. Dependendo das circunstâncias, é até possível que você precise se defender de sua própria rolagem, se estiver na mesma zona do ataque!
 
-**FORÇANDO MÚLTIPLOS ALVOS**
-
-Uma nota rápida: jogadores que queiram forçar para vencer um conﬂito não podem simplesmente afetar quantos alvos quiserem, seja por um aspecto ou vários que justifiquem a tentativa. Um jogador deve gastar um ponto de destino para cada alvo que queiram forçar. Um ponto de destino força um indivíduo, ponto final.
+> **Forçando Múltiplos Alvos**
+> 
+> Uma nota rápida: jogadores que queiram forçar para vencer um conﬂito não podem simplesmente afetar quantos alvos quiserem, seja por um aspecto ou vários que justifiquem a tentativa. Um jogador deve gastar um ponto de destino para cada alvo que queiram forçar. Um ponto de destino força um indivíduo, ponto final.
 
 ##### Riscos Ambientais
 
@@ -3121,30 +3121,26 @@ Então o que acontece quando os PJs vão de encontro a algo que não é um perso
 Simples: trate-o como um personagem (esta é a Regra de Bronze do Fate: v*ocê pode tratar tudo como um personagem*. Abordaremos diversas formas de trabalhar isso no capítulo *Extras*, mas vamos manter a conversa no tópico por enquanto).
 
 +  Esse risco é algo que pode ferir os PJs? Dê uma perícia a ele e ataque como um oponente normal.
-
 +  É mais uma distração ou inconveniência do que uma ameaça real? Deixe que crie aspectos.
-
 +  Será que ele possui formas de descobrir os aspectos dos personagens? Dê-lhe uma perícia para isso.
 
 Em contrapartida, deixe que os PJs usem suas perícias contra a ameaça como se fosse um oponente. Um sistema de segurança automatizado pode ser vulnerável a “ataques” com a perícia Roubo de um personagem ou uma armadilha pode ser evitada vencendo uma disputa de Atletismo. Se fizer sentido que o risco precise de muito esforço para ser superado, crie caixas de estresse para ele e deixe que receba uma ou duas consequências suaves.
 
 Em outras palavras, use qualquer recurso que faça sentido na narração – se o fogo for grande demais para os PJs apagarem, a cena deve ser focada em evitar ou escapar do problema, funcionando como um desafio.
 
-Fräkeline, Esopo e Bandu, seguindo as pistas obtidas por Fräk a respeito dos Bruxos de Moondor, viajam até as profundezas de Dignidade, um planeta esquecido nos confins do universo, “onde nada digno habita”. O local é uma grande fortaleza, aparentemente abandonada, mas cheia de armadilhas e seres perigosos.
-
-Eles descem ao último piso do sistema de galerias e o encontram cheio de fletes de escuridão que se contorcem como serpentes, absorvendo a luz por onde passam. Bandu faz uma rolagem de sabedoria e Amanda lhe diz que são espíritos mágicos famintos — não entidades separadas, mas manifestações puras da fome, prontas para devorar qualquer coisa com o que entram em contato. Ele joga uma pedra no corredor e observa enquanto os pequenos tentáculos reduzem-na a cinzas.
-
-“Acho que falo por todos quando digo ‘ai’”, diz Michel.
-
-Ele pergunta sobre a possibilidade de banir o monstro.
-
-Amanda balança a cabeça. “Você está no lugar de origem dessas coisas, elas estão por todo canto. Mesmo com centenas de anos sem alimento, eles continuam ali. Você pode, no entanto, usar seus poderes mentais para tentar afastá-los enquanto atravessam.”
-
-Maira diz, “Estou disposto a encará-los. Vamos lá”.
-
-Amanda decides que mesmo podendo colocá-los em um conﬂito direto, será mais fácil e rápido lidar com a situação como um desafio. Ela diz que, para passar pelas sombras, cada um deles precisará de um teste resistido de Vontade contra as sombras para resistir à sua aura mágica e Furtividade para passar.
-
-Bandu pode realizar uma rolagem de Conhecimentos para tentar afastar os tentáculos usando seus poderes. Além disso, ela diz que os tentáculos podem oferecer oposição ativa contra cada tentativa e que a rolagem de Vontade será considerada um ataque. Os três cerram os dentes e começam a andar pelo túnel...
+> Fräkeline, Esopo e Bandu, seguindo as pistas obtidas por Fräk a respeito dos Bruxos de Moondor, viajam até as profundezas de Dignidade, um planeta esquecido nos confins do universo, “onde nada digno habita”. O local é uma grande fortaleza, aparentemente abandonada, mas cheia de armadilhas e seres perigosos.
+> 
+> Eles descem ao último piso do sistema de galerias e o encontram cheio de fletes de escuridão que se contorcem como serpentes, absorvendo a luz por onde passam. Bandu faz uma rolagem de sabedoria e Amanda lhe diz que são espíritos mágicos famintos — não entidades separadas, mas manifestações puras da fome, prontas para devorar qualquer coisa com o que entram em contato. Ele joga uma pedra no corredor e observa enquanto os pequenos tentáculos reduzem-na a cinzas.
+> 
+> “Acho que falo por todos quando digo ‘ai’”, diz Michel.
+> 
+> Ele pergunta sobre a possibilidade de banir o monstro.
+> 
+> Amanda balança a cabeça. “Você está no lugar de origem dessas coisas, elas estão por todo canto. Mesmo com centenas de anos sem alimento, eles continuam ali. Você pode, no entanto, usar seus poderes mentais para tentar afastá-los enquanto atravessam.”
+> 
+> Maira diz, “Estou disposto a encará-los. Vamos lá”.
+> 
+> Amanda decides que mesmo podendo colocá-los em um conﬂito direto, será mais fácil e rápido lidar com a situação como um desafio. Ela diz que, para passar pelas sombras, cada um deles precisará de um teste resistido de Vontade contra as sombras para resistir à sua aura mágica e Furtividade para passar. Bandu pode realizar uma rolagem de Conhecimentos para tentar afastar os tentáculos usando seus poderes. Além disso, ela diz que os tentáculos podem oferecer oposição ativa contra cada tentativa e que a rolagem de Vontade será considerada um ataque. Os três cerram os dentes e começam a andar pelo túnel...
 
 #### Lidando com Aspectos
 
@@ -3163,9 +3159,7 @@ Você também pode se deparar com jogadores que se perdem na abrangência dos as
 Durante o jogo, procure por oportunidades de forçar os aspectos dos PJs nos seguintes momentos:
 
 +  Sempre que um mero sucesso num teste de perícia parecer sem graça;
-
 +  Sempre que o jogador possuir apenas um ou nenhum ponto de destino;
-
 +  Sempre que alguém tentar fazer algo e você tiver uma ideia envolvendo um aspecto para aquilo não dar certo.
 
 Lembre-se que há basicamente dois tipos de invocação no jogo: baseadas em decisões, quando alguma complicação ocorre como resultado da ação de um personagem; e baseadas em eventos, quando alguma complicação ocorre simplesmente porque o personagem está no lugar errado e na hora errada.
@@ -3194,7 +3188,7 @@ Deixe que o jogador tenha o trabalho de gerar a complicação e então premie co
 
 Também relembre os jogadores de que podem forçar aspectos sobre os PdNs, se souberem algum de seus aspectos. Dê apenas uma sugestão incompleta como acima quando um PdN estiver prestes a tomar uma decisão e peça que os jogadores preencham os detalhes. “Então, você sabe que o Duque Orsin possui ***Confiança Excessiva... ***Você acha que ele sairá ileso do torneio de justa? Está disposto a pagar um ponto de destino para ver isso acontecer?” Seu objetivo principal deve ser recrutar os jogadores como parceiros para criar drama, ao invés de fazer tudo sozinho.
 
-## CRIANDO A OPOSIÇÃO
+## Criando A Oposição
 
 Um dos trabalhos mais importantes do Narrador é criar os PdNs que se oporão aos PJs e tentarão impedi-los de cumprir com seus objetivos durante os cenários. A história só acontece quando os PJ se deparam com seus adversários e decidem o que fazer com relação a isso – até onde estão dispostos a ir, que preço estão dispostos a pagar e como mudam de acordo com a experiência.
 
@@ -3218,49 +3212,37 @@ Por si só, PdNs sem importância geralmente não são feitos para gerarem muito
 
 Para um PdN sem importância, são necessárias apenas duas ou três perícias baseadas no seu papel na cena. O segurança pode ter Lutar e Atirar, enquanto o secretário possui apenas Conhecimentos. Eles nunca recebem mais do que um ou dois aspectos, pois não são importantes o suficiente. Eles possuem apenas uma ou duas caixas de estresse (se tiverem alguma), mas absorver tanto ataques físicos quanto mentais. Em outras palavras, não são adversários à altura dos PJs.
 
-Eles aparecem em três níveis: **Regular**, **Razoável **e **Bom**.
+Eles aparecem em três níveis: **Regular**, **Razoável** e **Bom**.
 
 ##### Regular
 
-+  **Competência: **Recrutas, brutamontes, soldados de patente baixa e assim por diante. Se houver dúvida, um PdN sem importância deve ser Regular.
-
-+  **Propósito: **A maioria serve apenas para mostrar o quão incríveis são os PJs.
-
-+  **Aspectos: **Um ou dois.
-
-+  **Perícias: **Uma ou duas em nível Regular (+1).
-
-+  **Estresse: **Sem caixas de estresse – uma tensão de dano é suficiente para derrubá-los.
++  **Competência:** Recrutas, brutamontes, soldados de patente baixa e assim por diante. Se houver dúvida, um PdN sem importância deve ser Regular.
++  **Propósito:** A maioria serve apenas para mostrar o quão incríveis são os PJs.
++  **Aspectos:** Um ou dois.
++  **Perícias:** Uma ou duas em nível Regular (+1).
++  **Estresse:** Sem caixas de estresse – uma tensão de dano é suficiente para derrubá-los.
 
 ##### Razoável
 
-+  **Competência: **Profissionais treinados como soldados e guardas de elite ou outros cujo papel na cena reﬂita sua experiência, como um nobre de língua afiada ou um ladrão talentoso.
-
-+  **Propósito: **Drenar alguns dos recursos dos personagens (um ou dois pontos de destino, caixas de estresse, talvez uma consequência suave).
-
-+  **Aspectos: **Um ou dois.
-
-+  **Perícias: **Uma Razoável (+2) e uma ou duas Regulares (+1).
-
-+  **Estresse: **Uma caixa de estresse – um ataque de duas tensões é o bastante para derrubá-los.
++  **Competência:** Profissionais treinados como soldados e guardas de elite ou outros cujo papel na cena reﬂita sua experiência, como um nobre de língua afiada ou um ladrão talentoso.
++  **Propósito:** Drenar alguns dos recursos dos personagens (um ou dois pontos de destino, caixas de estresse, talvez uma consequência suave).
++  **Aspectos:** Um ou dois.
++  **Perícias:** Uma Razoável (+2) e uma ou duas Regulares (+1).
++  **Estresse:** Uma caixa de estresse – um ataque de duas tensões é o bastante para derrubá-los.
 
 ##### Bom
 
-+  **Competência: **Oposição pesada, especialmente quando numerosa.
-
-+  **Propósito: **Drenar os recursos dos personagens – como o acima, mas com mais peso. Apresente-os em maior quantidade antes de um encontro mais importante.
-
-+  **Aspectos: **Um ou dois.
-
-+  **Perícias: **Uma Boa (+3), Uma Razoável (+2) e uma ou duas Regulares (+1).
-
-+  **Estresse: **duas caixas de estresse – três tensões de dano para tirá-los do de conﬂito.
++  **Competência:** Oposição pesada, especialmente quando numerosa.
++  **Propósito:** Drenar os recursos dos personagens – como o acima, mas com mais peso. Apresente-os em maior quantidade antes de um encontro mais importante.
++  **Aspectos:** Um ou dois.
++  **Perícias:** Uma Boa (+3), Uma Razoável (+2) e uma ou duas Regulares (+1).
++  **Estresse:** duas caixas de estresse – três tensões de dano para tirá-los do de conﬂito.
 
 ##### Bandos
 
 Sempre que possível, PdNs sem importância formarão grupos ou **bandos**. Isso não apenas aumenta suas chances de sobrevivência, como também facilita o vida do Narrador. Para todos os fins, um bando pode ser tratado como uma única unidade - ao invés de rolar os dados individualmente para cada um dos três capangas, role apenas uma vez para o bando inteiro.
 
-Veja a seção *Trabalho em Equipe *no capítulo anterior para ver como bandos podem concentrar seus esforços para ser mais eficientes.
+Veja a seção *Trabalho em Equipe* no capítulo anterior para ver como bandos podem concentrar seus esforços para ser mais eficientes.
 
 ##### Dano e Excedentes
 
@@ -3268,43 +3250,43 @@ Quando um bando recebe dano, tensões que excedam o suficiente para retirar de a
 
 Quando um bando recebe estresse suficiente para reduzir o grupo a um único PdN, tente fazer aquele PdN se unir a outro bando na cena, se fizer sentido (se não, faça-o fugir. PdNs sem importância são bons nisso).
 
-Esopo e Fräkeline são atacados por meia dúzia de bandidos apenas por terem passado no beco errado.
-
-Esses criminosos são considerados PdNs sem importância, com as perícias Percepção e Lutar em nível Razoável (+2).
-
-Normalmente o nível Bom (+3) que Fräk possui em Percepção lhe permite agir primeiro, mas Amanda acha que os gângsteres estão em vantagem para cercar os PJs, permitindo que ajam primeiro na rodada. Em um grupo de seis, o nível de Percepção Razoável sobe para Fantástico (+6).
-
-Amanda os divide em dois bandos de três: um para Esopo e outro para Fräkeline. Ambos atacam com níveis Bom (+3) (Luta com nível Regular (+1) e +2 pelos ajudantes), mas nenhum dos grupos acerta o ataque.
-
-Fräkeline é a próxima. Maira diz, “Num piscar de olhos, o chicote de Fräk estala na cara desses otários!” Ela consegue um resultado Ótimo (+4) em sua jogada de Luta. O primeiro capanga defende com resultado Bom (+3) (+0 no dado, perícia Média +1 e +2 pela ajuda dos comparsas), então Fräk causa apenas uma tensão de dano nos capangas – o suficiente para tirar um deles do conﬂito. Ainda existem dois no bando, mas eles receberão apenas +1 pelo único capanga restante ao atacar novamente.
-
-No turno de Léo, Esopo causa duas tensões contra o bando que está encarando, o suficiente para acabar com dois deles e reduzir o grupo a um único PdN.
+> Esopo e Fräkeline são atacados por meia dúzia de bandidos apenas por terem passado no beco errado.
+> 
+> Esses criminosos são considerados PdNs sem importância, com as perícias Percepção e Lutar em nível Razoável (+2).
+> 
+> Normalmente o nível Bom (+3) que Fräk possui em Percepção lhe permite agir primeiro, mas Amanda acha que os gângsteres estão em vantagem para cercar os PJs, permitindo que ajam primeiro na rodada. Em um grupo de seis, o nível de Percepção Razoável sobe para Fantástico (+6).
+> 
+> Amanda os divide em dois bandos de três: um para Esopo e outro para Fräkeline. Ambos atacam com níveis Bom (+3) (Luta com nível Regular (+1) e +2 pelos ajudantes), mas nenhum dos grupos acerta o ataque.
+> 
+> Fräkeline é a próxima. Maira diz, “Num piscar de olhos, o chicote de Fräk estala na cara desses otários!” Ela consegue um resultado Ótimo (+4) em sua jogada de Luta. O primeiro capanga defende com resultado Bom (+3) (+0 no dado, perícia Média +1 e +2 pela ajuda dos comparsas), então Fräk causa apenas uma tensão de dano nos capangas – o suficiente para tirar um deles do conﬂito. Ainda existem dois no bando, mas eles receberão apenas +1 pelo único capanga restante ao atacar novamente.
+> 
+> No turno de Léo, Esopo causa duas tensões contra o bando que está encarando, o suficiente para acabar com dois deles e reduzir o grupo a um único PdN.
 
 ##### PdNs Sem Importância Como Obstáculos:
 
 Uma maneira ainda mais fácil de lidar com PdNs é trata-los como obstáculos: crie uma dificuldade para o PJ realizar uma ação de superar para se livrar de um PdN e resolva a questão em apenas uma jogada. Você não precisa escrever nada sobre ele, apenas determinar uma dificuldade, como mostrado em *Ações e Resoluções *e assumir que o PJ consegue passar por ele se bem-sucedido no teste.
 
 Se a situação é um pouco mais complicada que isso, torne-a um desafio. Esse truque é útil para quando você quer que um grupo de PdNs sem importância atue mais como uma característica da cena do que como indivíduos.
-Bandu quer convencer um grupo de cientistas que continuar suas pesquisas sobre a Dimensão Vazia condenará todos à perdição e pode até destruir o universo.
 
-Amanda não quer que ele convença cada pesquisador individualmente, então tratará isso como um desafio.
-Os passos do desafio são: determinar os simpatizantes (Conhecimentos), convencê-los a se voltar contra os outros (Enganar) e submetê-los através de um discurso das desgraças por vir (Provocar). Ela escolhe uma dificuldade passiva Ótima (+4) para o desafio.
+> Bandu quer convencer um grupo de cientistas que continuar suas pesquisas sobre a Dimensão Vazia condenará todos à perdição e pode até destruir o universo. Amanda não quer que ele convença cada pesquisador individualmente, então tratará isso como um desafio.
+> 
+> Os passos do desafio são: determinar os simpatizantes (Conhecimentos), convencê-los a se voltar contra os outros (Enganar) e submetê-los através de um discurso das desgraças por vir (Provocar). Ela escolhe uma dificuldade passiva Ótima (+4) para o desafio.
 
 **PdN Primeiro, Nome Depois**
 
-PdNs sem importância não precisam *permanecer *anônimos. Se os PJs decidirem conhecer melhor o taverneiro, o pastor, o chefe de segurança ou qualquer outra pessoa, vá em frente e torne-o uma pessoa real – mas isso não significa que você precisa torná-lo mecanicamente complexo. Se *quiser*, claro, eleve-o a um PdN de suporte. Caso contrário, porém, dar um nome e uma motivação àquele cortesão não quer dizer que ele não será derrotado com um simples golpe.
+PdNs sem importância não precisam *permanecer* anônimos. Se os PJs decidirem conhecer melhor o taverneiro, o pastor, o chefe de segurança ou qualquer outra pessoa, vá em frente e torne-o uma pessoa real – mas isso não significa que você precisa torná-lo mecanicamente complexo. Se *quiser*, claro, eleve-o a um PdN de suporte. Caso contrário, porém, dar um nome e uma motivação àquele cortesão não quer dizer que ele não será derrotado com um simples golpe.
 
-Bartender (Regular)
-**Aspectos: *****Meu bar é meu templo pessoal***
-**Perícias: **Contatos Regular (+1)
-
-Capanga Treinado (Razoável)
-**Aspectos: *****Malandro das Ruas, Criminoso Violento***
-**Perícias: **Lutar Razoável (+2), Atletismo e Vigor Regular (+1)
-
-Pesquisador Dimensional (Bom)
-**Aspectos: *****Comportamento Arrogante, Devoto do Desconhecido***
-**Perícias: **Conhecimentos Bom (+3), Enganar Razoável (+2), Vontade e Empatia Regulares (+1)
+> + Bartender (Regular)
+>   + **Aspectos:** ***Meu bar é meu templo pessoal***
+>   + **Perícias:** Contatos Regular (+1)
+ 
+> + Capanga Treinado (Razoável)
+>   + **Aspectos:** ***Malandro das Ruas, Criminoso Violento***
+>   + **Perícias:** Lutar Razoável (+2), Atletismo e Vigor Regular (+1)
+ 
+> + Pesquisador Dimensional (Bom)
+>   + **Aspectos:** ***Comportamento Arrogante, Devoto do Desconhecido***
+>   + **Perícias:** Conhecimentos Bom (+3), Enganar Razoável (+2), Vontade e Empatia Regulares (+1)
 
 ##### PdNs de Suporte
 
@@ -3316,28 +3298,29 @@ PdNs de suporte são criados como PdNs sem importância, com a diferença de rec
 
 As perícias de um PdN de apoio devem seguir uma distribuição em coluna. Como você vai definir quatro ou cinco perícias, trate apenas como uma coluna. Se o seu PdN possui uma perícia de nível Ótimo, preencha com uma perícia em cada nível positivo abaixo disso – uma Boa, uma Razoável e uma Regular.
 
-+  **Nível de Perícia: **A perícia mais elevada de um PdN de suporte pode superar o melhor nível de perícia de um PJ em um ou dois, mas apenas se seu papel no jogo for criar oposição pesada – PdNs de suporte aliados aos PJs devem semelhantes de perícia. Outra forma de lidar com isso em histórias de aventura é fazer o “tenente” melhor em combate que o vilão principal, contrastando a força bruta à genialidade do vilão.
-
-+  **Concessões: **PdNs de suporte não devem lutar até o último suspiro, se for possível. Ao invés disso eles abandonam o conﬂito, especialmente no início da história e principalmente se a concessão for algo do tipo “eles fogem”. Rendições desse tipo servem a vários propósitos. Primeiramente, implicam encontros futuros mais significativos com aqueles PdNs. Como a rendição é acompanhada de recompensa em pontos de destino, sua ameaça se torna maior para o próximo conﬂito.
++  **Nível de Perícia:** A perícia mais elevada de um PdN de suporte pode superar o melhor nível de perícia de um PJ em um ou dois, mas apenas se seu papel no jogo for criar oposição pesada – PdNs de suporte aliados aos PJs devem semelhantes de perícia. Outra forma de lidar com isso em histórias de aventura é fazer o “tenente” melhor em combate que o vilão principal, contrastando a força bruta à genialidade do vilão.
++  **Concessões:** PdNs de suporte não devem lutar até o último suspiro, se for possível. Ao invés disso eles abandonam o conﬂito, especialmente no início da história e principalmente se a concessão for algo do tipo “eles fogem”. Rendições desse tipo servem a vários propósitos. Primeiramente, implicam encontros futuros mais significativos com aqueles PdNs. Como a rendição é acompanhada de recompensa em pontos de destino, sua ameaça se torna maior para o próximo conﬂito.
 
 Além do mais, é praticamente garantida a satisfação dos jogadores quando o PdN ressurgir. “Então, Esopo, nos encontramos novamente. Mas dessa vez não facilitarei as coisas para você”.
 
 Finalmente, é importante mostrar aos jogadores que, quando as coisas não estiverem indo bem, abandonar um conﬂito é a melhor resolução. Um PJ que concede aqui e ali aumenta os riscos e introduz novas complicações, deixando o enredo cada vez mais envolvente e dramático.
 
-Topi Gegenschein, O Explorador
-**Aspectos: *****Criminoso Aposentado, Velho Demais Pra Isso, Esopo É Quase Meu Filho***
-**Perícias: **Atirar Ótimo (+4), Lutar Bom (+3), Vontade Razoável (+2) e Atletismo Regular (+1)
-**Façanhas: Experiente em Campo de Batalha. **Pode usar Lutar para criar vantagem em situações táticas de grande escala.
-
-Sauri, a Invisível, Ladra Profissional
-**Aspectos: *****Vingança Acima de Tudo, Aceito Qualquer Serviço***
-**Perícias: **Roubo Excepcional (+5), Furtividade Ótimo (+4), Conhecimentos Bom (+3), Lutar Razoável (+2), Vigor Regular (+1) (três caixas de estresse)
-**Façanha: Infiltrado. +**2 em Furtividade quando em ambiente urbano.
-
-Shagas, o Testilhão
-**Aspectos: *****Minha Vida é Brigar e Comer, Minha Confiança Está na Minha Arma***
-**Perícias: **Lutar Fantástico (+6), Vigor Excepcional (+5) (quatro caixas de estresse, 1 consequência suave extra para conﬂitos físicos), Atletismo Ótimo (+4)
-**Façanhas: **Não possui
+> + Topi Gegenschein, O Explorador
+>   + **Aspectos:** ***Criminoso Aposentado, Velho Demais Pra Isso, Esopo É Quase Meu Filho***
+>   + **Perícias:** Atirar Ótimo (+4), Lutar Bom (+3), Vontade Razoável (+2) e Atletismo Regular (+1)
+>   + **Façanhas:**
+>     + *Experiente em Campo de Batalha.* Pode usar Lutar para criar vantagem em situações táticas de grande escala.
+ 
+> + Sauri, a Invisível, Ladra Profissional
+>   + **Aspectos:** ***Vingança Acima de Tudo, Aceito Qualquer Serviço***
+>   + **Perícias:** Roubo Excepcional (+5), Furtividade Ótimo (+4), Conhecimentos Bom (+3), Lutar Razoável (+2), Vigor Regular (+1) (três caixas de estresse)
+>   + **Façanha:**
+>     + *Infiltrado.* +2 em Furtividade quando em ambiente urbano.
+ 
+> + Shagas, o Testilhão
+>   + **Aspectos:** ***Minha Vida é Brigar e Comer, Minha Confiança Está na Minha Arma***
+>   + **Perícias:** Lutar Fantástico (+6), Vigor Excepcional (+5) (quatro caixas de estresse, 1 consequência suave extra para conﬂitos físicos), Atletismo Ótimo (+4)
+>   + **Façanhas:** Não possui
 
 ##### PdNs Principais
 
@@ -3356,23 +3339,31 @@ Assim, se o maior nível de perícia dos PJs é Ótimo (+4), seu PdN principal m
 
 Da mesma forma, um PdN particularmente significativo deve possuir mais de cinco aspectos para realçar sua importância na história.
 
-Zoidai Vasa,
-Rainha do Crime da Nebulosa Cadente
-**Aspectos: *****Rainha do Crime da Nebulosa Cadente Sigo os Passos de Minha Falecida Mestra Confo Apenas Em Criminosos O Tempo Está Ao Meu Lado Fräkeline Será Minha Sucessora Bourosoros, Meu Eterno Cruzador***
-***Espacial Meu Império É O Único***
-**Perícias: **Enganar e Lutar Fantásticos (+6)
-Atirar e Roubo Excepcionais (+5)
-Recursos e Vontade Ótimos (+4)
-Contato e Percepção Bons (+3)
-Ofícios e Furtividade Razoáveis (+2)
-Conhecimentos e Vigor Regulares (+1)
-**Estresse: **3 caixas físicas e 4 mentais
-**Façanhas: Só Um Gênio Reconhece Outro: **Use Enganar ao invés de Empatia para criar vantagem em situações sociais.
-**Mestra do Engano:. **+2 em Enganar para criar vantagem em conﬂito físico.
-**Contragolpe: **Se bem-sucedido com estilo em uma ação de defesa usando Lutar, você pode escolher
-inﬂigir 2 de danos em lugar de receber um impulso.
+> ***Zoidai Vasa,Rainha do Crime da Nebulosa Cadente***
+> 
+> + **Aspectos:** 
+>   + ***Rainha do Crime da Nebulosa Cadente***
+>   + ***Sigo os Passos de Minha Falecida Mestra***
+>   + ***Confio Apenas Em Criminosos*** 
+>   + ***O Tempo Está Ao Meu Lado***
+>   + ***Fräkeline Será Minha Sucessora***
+>   + ***Bourosoros, Meu Eterno Cruzador Espacial*** 
+>   + ***Meu Império É O Único***
+> + **Perícias:**
+>   + Enganar e Lutar Fantásticos (+6)
+>   + Atirar e Roubo Excepcionais (+5)
+>   + Recursos e Vontade Ótimos (+4)
+>   + Contato e Percepção Bons (+3)
+>   + Ofícios e Furtividade Razoáveis (+2)
+>   + Conhecimentos e Vigor Regulares (+1)
+> + **Estresse:**
+>   + 3 caixas físicas e 4 mentais
+> + **Façanhas:**
+>   + *Só Um Gênio Reconhece Outro:* Use Enganar ao invés de Empatia para criar vantagem em situações sociais.
+>   + *Mestra do Engano:* +2 em Enganar para criar vantagem em conﬂito físico.
+>   + *Contragolpe:* Se bem-sucedido com estilo em uma ação de defesa usando Lutar, você pode escolher inﬂigir 2 de danos em lugar de receber um impulso.
 
-## INTERPRETANDO A OPOSIÇÃO
+## Interpretando A Oposição
 
 Aqui seguem algumas dicas de como usar os personagens da oposição em suas partidas.
 
@@ -3383,14 +3374,12 @@ Lembre-se de buscar um ponto de equilíbrio entre dizimar os PJs e deixá-los ca
 Criar uma oposição equilibrada é mais uma arte que uma ciência, mas veja algumas estratégias que funcionam bem.
 
 +  Não supere os PJs em número a não ser que os PdNs possuam perícias em níveis mais baixos.
-
 +  Se forem se agrupar contra um oponente maior, certifique-se que esse oponente tenha sua maior perícia dois níveis acima da melhor perícia que qualquer PJ possa usar em conﬂito.
-
 +  Limite-se a um PdN principal por cena, a menos que seja um conﬂito decisivo para o fechamento de um arco. Lembre-se, PdNs de suporte podem possuir perícias tão elevadas quanto for preciso.
-
 +  A maior parte da oposição que os PJs encontram em uma sessão devem ser PdNs sem importância, com um ou dois PdNs de suporte e PdNs principais ao longo do caminho.
-
 +  PdNs sem importância e de suporte significam conﬂitos mais curtos pois desistem ou perdem rapidamente; PdNs principais implicam conﬂitos mais longos.
+
+> Claro que, se desejar, você também pode promover um de seus PdNs de suporte para um principal usando esse método. Isso é ótimo para quando um PdN de suporte se torna gradativamente ou repentinamente mais importante na história – normalmente por causa dos PJs – mesmo que seus planos para ele fosse outros
 
 ### Criando Vantagem para PdNs
 
@@ -3408,11 +3397,9 @@ Sua oposição se tornará mais interessante se eles tentarem chegar aos PJs em 
 
 Por exemplo, alguém perseguindo Esopo provavelmente não quer enfrentá-lo fisicamente, porque Luta e Atletismo são suas maiores habilidades. No entanto, ele não está tão bem preparado contra tentativas de Enganar ou para lidar com ataques mentais mágicos. Bandu, por outro lado, se sente mais ameaçado pelos grandalhões, do tipo brutamontes, que podem atacálo antes que ele possa realizar seus truques psíquicos.
 
-Claro que, se desejar, você também pode promover um de seus PdNs de suporte para um principal usando esse método. Isso é ótimo para quando um PdN de suporte se torna gradativamente ou repentinamente mais importante na história – normalmente por causa dos PJs – mesmo que seus planos para ele fosse outros
+# 9 - Cenas, Sessões E Cenário
 
-# 9 - CENAS, SESSÕES E CENÁRIO
-
-## CERTO, E AGORA?
+## Certo, E Agora?
 
 Você e seu grupo já criaram os personagens, estabeleceram coisas sobre o mundo e conversaram sobre o jogo que estão prestes a iniciar. Agora você tem uma pilha de aspectos e PdNs transbordando potencial dramático e esperando ganhar vida.
 
@@ -3420,7 +3407,14 @@ O que fazer com tudo isso?
 
 Agora é hora de entrar na parte mais divertida do jogo: criar e jogar cenários.
 
-## O QUE É UM CENÁRIO?
+## O Que É Um Cenário?
+
+> **Criando Um Cenário, Passo A Passo**
+> 
+> +  Crie os problemas
+> +  Crie perguntas relacionadas à história
+> +  Estabeleça a oposição
+> +  Organize a primeira cena
 
 Como mencionado em *Estruturando o Jogo*, um cenário é uma unidade de tempo de jogo geralmente com duração de três ou quatro sessões e é formado por uma certa quantidade de cenas. O fim de um cenário deve desencadear um marco significativo, permitindo que os seus PJs se aprimorem.
 
@@ -3432,16 +3426,7 @@ Os melhores cenários não possuem um final "certo". Talvez os PJs não resolvam
 
 Assim que o problema for resolvido (ou não puder ser mais resolvido), o cenário termina. A sessão seguinte dará início a um novo cenário, que pode estar diretamente relacionado ao cenário anterior ou apresentar um problema inédito.
 
-**CRIANDO UM CENÁRIO, PASSO A PASSO**
-+  Crie os problemas
-
-+  Crie perguntas relacionadas à história
-
-+  Estabeleça a oposição
-
-+  Organize a primeira cena
-
-## CRIE PROBLEMAS
+## Crie Problemas
 
 Criar um cenário começa com buscar um problema para os PJs resolverem. Um bom problema é **relevante para os PJs, não pode ser resolvido sem seu envolvimento pessoal e não pode ser ignorado sem que haja consequências terríveis**.
 
@@ -3455,11 +3440,11 @@ Por causa de todos esses aspectos, você já possui uma tonelada de histórias p
 
 Podemos imaginar um problema relacionado a um aspecto como se fosse um ato de forçar de grande escala baseado em um evento. Organizar as coisas dá um pouco mais de trabalho, mas a estrutura é similar – possuir um aspecto sugere algo problemático para um ou todos PJs. Mas, diferentes de um ato de forçar, é algo que não podem resolver ou lidar naquele exato momento.
 
-**VOCÊ NEM SEMPRE PRECISA DESTRUIR O MUNDO**
-
-Como verá nos exemplos, nem todas as nossas urgências envolvem necessariamente o destino do mundo ou mesmo de grande parte dele. Problemas interpessoais podem possuir tanto impacto em um grupo de PJs quanto ter que impedir o vilão da semana – ganhar o respeito de alguém ou resolver uma questão pendente entre dois personagens pode ganhar foco em um cenário tanto quanto um grande plano maléfico de um vilão especial.
-
-Se você deseja uma história clássica de ação, veja se pode criar dois problemas para o seu cenário – um que foque em algo externo (como o plano do vilão) e outro que lide com questões pessoais dos personagens. Este último servirá como um drama secundário em seu cenário e cria um tempo para que os personagens se desenvolvam enquanto lidam com outros problemas.
+> **Você Nem Sempre Precisa Destruir O Mundo**
+> 
+> Como verá nos exemplos, nem todas as nossas urgências envolvem necessariamente o destino do mundo ou mesmo de grande parte dele. Problemas interpessoais podem possuir tanto impacto em um grupo de PJs quanto ter que impedir o vilão da semana – ganhar o respeito de alguém ou resolver uma questão pendente entre dois personagens pode ganhar foco em um cenário tanto quanto um grande plano maléfico de um vilão especial.
+> 
+> Se você deseja uma história clássica de ação, veja se pode criar dois problemas para o seu cenário – um que foque em algo externo (como o plano do vilão) e outro que lide com questões pessoais dos personagens. Este último servirá como um drama secundário em seu cenário e cria um tempo para que os personagens se desenvolvam enquanto lidam com outros problemas.
 
 ### Problemas e Aspectos de Personagem
 
@@ -3468,45 +3453,38 @@ Se você deseja uma história clássica de ação, veja se pode criar dois probl
 O segundo espaço em branco é o que torna isso mais difícil do que forçar um aspecto baseado num evento – você precisa pensar em todas as implicações do aspecto. Aqui vão algumas questões que podem ajudar.
 
 +  Quem pode ter um problema com o personagem por causa desse aspecto?
-
 +  O aspecto indica alguma ameaça àquele personagem?
-
 +  O aspecto descreve alguma conexão ou relacionamento que poderiam causar problemas ao personagem?
-
 +  O aspecto se refere a algo na história do personagem que poderia voltar para persegui-lo?
-
 +  O aspecto descreve algo ou alguém importante para o personagem que você pode pôr em perigo?
 
 Você pode seguir em frente desde que o que for colocado na terceira lacuna preencha os critérios do início desta seção.
 
-Fräkeline possui o aspecto *Famosa Ladra Robótica *que sugere que sua reputação seja conhecida por muitos. Por causa disso, um sósia começou a cometer crimes em seu nome, provavelmente fazendo com que cidadãos irritados passem a persegui-la em várias cidades, ou até mesmo que haja assassinos na sua cola.
-
-Esopo tem o aspecto *O Explorador Sabe Meus Segredos*, o que significa que ele se sente na obrigação de manter o Explorador por perto, em segurança no alcance de suas antenas. Por causa disso, Esopo precisa ajudá-lo a se livrar de alguns velhos companheiros de crime que estão atrás de seu dinheiro.
-
-Bandu possui *O Império Quer Minha Cabeça*, o que significa que soldados do Império estão constantemente atrás dele. Isso resulta numa série de tentativas de assassinato e captura começam, planejadas por facínoras em todos os cantos do universo.
+> Fräkeline possui o aspecto *Famosa Ladra Robótica* que sugere que sua reputação seja conhecida por muitos. Por causa disso, um sósia começou a cometer crimes em seu nome, provavelmente fazendo com que cidadãos irritados passem a persegui-la em várias cidades, ou até mesmo que haja assassinos na sua cola.
+> 
+> Esopo tem o aspecto *O Explorador Sabe Meus Segredos*, o que significa que ele se sente na obrigação de manter o Explorador por perto, em segurança no alcance de suas antenas. Por causa disso, Esopo precisa ajudá-lo a se livrar de alguns velhos companheiros de crime que estão atrás de seu dinheiro.
+> 
+> Bandu possui *O Império Quer Minha Cabeça*, o que significa que soldados do Império estão constantemente atrás dele. Isso resulta numa série de tentativas de assassinato e captura começam, planejadas por facínoras em todos os cantos do universo.
 
 ### Problemas e os Aspectos de Jogo
 
 Os problemas criados a partir das questões do jogo terão um alcance maior que os problemas baseados nos personagens, afetando todos os seus PJs e possivelmente um número considerável de PdNs também. Eles são menos pessoais, mas isso não os torna menos interessantes.
 
 +  Como \_\_\_ é uma questão do cenário, isso implica em \_\_\_. Portanto, \_\_\_ provavelmente criaria um grande problema para os PJs. Pergunte-se:
-
 +  Que desafos essa questão representa aos PJs?
-
 +  Quem está guiando as coisas por trás dessa questão e que tipo de estrago ele pode ter que fazer para que seu plano seja concretizado?
-
 +  Quem mais se importa em lidar com a questão e como sua “solução” pode ser ruim para os PJs?
-
 +  Qual seria um bom passo para resolver a questão e o que dificulta que isso seja executado?
 
-**DÊ-LHE UM ROSTO**
-Embora nem todos os problemas do cenário precisem ser causados diretamente um PdN que serve a um "vilão supremo" que os PJs precisam derrotar, é mais fácil se for assim. Você no mínimo deve ser capaz de apontar um PdN que se beneficia consideravelmente daquele problema não ser resolvido da forma que os PJs gostariam.
-
-Como o *Clã do Dedo *é uma questão do cenário, isso implica no seu poder por toda a região do jogo. Portanto um golpe de estado planejado por membros do Clã na cidade em que os PJs estão provavelmente será um grande problema para eles.
-
-Como *A Bruxaria Retornará *é uma questão do cenário, isso implica nos Bruxos de Moondor estarem constantemente tentando cumprir suas antigas profecias e adquirindo novos servos. Portanto uma série de rituais buscando despertar um poder antigo e perigoso que repousa na escuridão do espaço causará problemas para os PJs.
-
-Como os *Bruxos de Moondor *possuem Problemas de Alinhamento, conﬂitos em diversos planetas estão a ponto de acontecer. Uma guerra espacial colocará a vida de inocentes em risco, criando um grande problema para os PJs.
+> **Dê-Lhe Um Rosto**
+> 
+> Embora nem todos os problemas do cenário precisem ser causados diretamente um PdN que serve a um "vilão supremo" que os PJs precisam derrotar, é mais fácil se for assim. Você no mínimo deve ser capaz de apontar um PdN que se beneficia consideravelmente daquele problema não ser resolvido da forma que os PJs gostariam.
+> 
+> Como o *Clã do Dedo* é uma questão do cenário, isso implica no seu poder por toda a região do jogo. Portanto um golpe de estado planejado por membros do Clã na cidade em que os PJs estão provavelmente será um grande problema para eles.
+> 
+> Como *A Bruxaria Retornará* é uma questão do cenário, isso implica nos Bruxos de Moondor estarem constantemente tentando cumprir suas antigas profecias e adquirindo novos servos. Portanto uma série de rituais buscando despertar um poder antigo e perigoso que repousa na escuridão do espaço causará problemas para os PJs.
+> 
+> Como os *Bruxos de Moondor* possuem Problemas de Alinhamento, conﬂitos em diversos planetas estão a ponto de acontecer. Uma guerra espacial colocará a vida de inocentes em risco, criando um grande problema para os PJs.
 
 ### Problemas e Aspecto Pareados
 
@@ -3520,44 +3498,39 @@ Há duas formas básicas de parear aspectos: conectar aspectos de dois personage
 
 Pergunte-se:
 
-+  Os aspectos colocam os personagens em desacordo ou sugere alguma
-tensão entre eles?
-
++  Os aspectos colocam os personagens em desacordo ou sugere alguma tensão entre eles?
 +  Existe algum tipo específico de problema ou dificuldade ao qual os dois estejam propensos por causa de tais aspectos?
-
 +  Será que um dos personagens tem uma relação ou conexão que poderia tornar-se um problema para outros?
-
 +  Será que os aspectos apontam elementos da história dos personagens que possam se cruzar com fatos recentes?
-
 +  Existe alguma forma da vantagem de um PJ se tornar o infortúnio de outro, por causa dos aspectos?
 
-Porque Bandu possui *O Império Quer Minha Cabeça *e Esopo é um *Mercenário Lagosta*, isso sugere que Esopo pode ser contratado para eliminar seu próprio colega de equipe.
-
-Como Fräkeline possui *Se É Valioso, Poderia Ser Meu *e Esopo possui *Não Entendo Absolutamente Nada*, isso sugere que eles são provavelmente os piores parceiros possíveis para um roubo enquanto disfarçados. Portanto, um contrato para entrar no Baile Real de Lachesis 4 sem serem notados e chegar até as joias reais provavelmente será um grande problema.
-
-Como Bandu é um *Mentalista Andarilho *e Fräkeline possui *Falo Comigo Mesma No Passado*, isso sugere que, num momento de confronto, Bandu pode acabar entendendo a verdade sobre as viagens no tempo de Fräk/Zoidai. E como essa informação não pode se tornar pública, faz sentido que Zoidai faça o possível para eliminá-lo.
+> Porque Bandu possui *O Império Quer Minha Cabeça* e Esopo é um *Mercenário Lagosta*, isso sugere que Esopo pode ser contratado para eliminar seu próprio colega de equipe.
+> 
+> Como Fräkeline possui *Se É Valioso, Poderia Ser Meu* e Esopo possui *Não Entendo Absolutamente Nada*, isso sugere que eles são provavelmente os piores parceiros possíveis para um roubo enquanto disfarçados. Portanto, um contrato para entrar no Baile Real de Lachesis 4 sem serem notados e chegar até as joias reais provavelmente será um grande problema.
+> 
+> Como Bandu é um *Mentalista Andarilho* e Fräkeline possui *Falo Comigo Mesma No Passado*, isso sugere que, num momento de confronto, Bandu pode acabar entendendo a verdade sobre as viagens no tempo de Fräk/Zoidai. E como essa informação não pode se tornar pública, faz sentido que Zoidai faça o possível para eliminá-lo.
 
 #### Aspecto de Personagem e Questão
 
-+  Como você possui o aspecto \_\_\_ e \_\_\_ é uma questão do cenário, isso sugere que \_\_\_. Portanto \_\_\_ pode ser um grande problema para você. Pergunte-se:
++  Como você possui o aspecto \_\_\_ e \_\_\_ é uma questão do cenário, isso sugere que \_\_\_. Portanto \_\_\_ pode ser um grande problema para você. 
+
+Pergunte-se:
 
 +  Será que uma questão sugere uma ameaça no relacionamento entre os PJs?
-
 +  Será o próximo passo para lidar com uma questão é algo que afeta um personagem em particular por causa de seus aspectos?
-
 +  Será que alguém ligado à questão tem um motivo em especial para ter o PJ como alvo por causa do aspecto?
 
-**QUANTOS PROBLEMAS SÃO NECESSÁRIOS?**
+> **Quantos Problemas São Necessários?**
+> 
+> Para um jogo simples, um ou dois problemas são suficientes. Você verá abaixo que mesmo um único problema pode criar material suficiente para duas ou três sessões. Não pense que você precisa conectar cada PJ a cada cenário - ao invés disso, alterne o foco entre os personagens para que todos tenham seu momento, e a partir disso jogue-os dentro da trama principal que.
 
-Para um jogo simples, um ou dois problemas são suficientes. Você verá abaixo que mesmo um único problema pode criar material suficiente para duas ou três sessões. Não pense que você precisa conectar cada PJ a cada cenário - ao invés disso, alterne o foco entre os personagens para que todos tenham seu momento, e a partir disso jogue-os dentro da trama principal que.
+> Como Fräkeline possui *Falo Comigo Mesma No Passado* e o *Império Mareesiano* é um problema, isso sugere que o Império pode ter alguma inﬂuência sobre Fräkeline, chantageando-a. Portanto o Império a contrata para um trabalho extremamente perigoso e moralmente duvidoso ameaçando revelar seu segredo e torná-la uma inimiga pública pela galáxia, o que pode ser um grande problema para ela.
+> 
+> Como Bandu possui *Funciono Sob Pressão*, e o *Império Mareesiano* é um problema, isso sugere que Bandu possui algo que a Imperatriz deseja. Ele pode ser forçado a aceitar utilizar seus poderes mentais contra inimigos do Império. Isso pode acabar voltando a raiva de terceiros para si e trazer problemas relacionados.
+> 
+> Como Esopo possui *Não Entendo Absolutamente Nada* e *A Bruxaria Retornará!*, Esopo pode se envolver com os Bruxos de Moondor, eventualmente ajudando-os na drenagem de seu mar de origem, o que provavelmente será uma grande dor de cabeça para ele e seus compatriotas.
 
-Como Fräkeline possui *Falo Comigo Mesma No Passado *e o *Império Mareesiano *é um problema, isso sugere que o Império pode ter alguma inﬂuência sobre Fräkeline, chantageando-a. Portanto o Império a contrata para um trabalho extremamente perigoso e moralmente duvidoso ameaçando revelar seu segredo e torná-la uma inimiga pública pela galáxia, o que pode ser um grande problema para ela.
-
-Como Bandu possui *Funciono Sob Pressão*, e o *Império Mareesiano *é um problema, isso sugere que Bandu possui algo que a Imperatriz deseja. Ele pode ser forçado a aceitar utilizar seus poderes mentais contra inimigos do Império. Isso pode acabar voltando a raiva de terceiros para si e trazer problemas relacionados.
-
-Como Esopo possui *Não Entendo Absolutamente Nada *e ***A Bruxaria Retornará!***, Esopo pode se envolver com os Bruxos de Moondor, eventualmente ajudando-os na drenagem de seu mar de origem, o que provavelmente será uma grande dor de cabeça para ele e seus compatriotas.
-
-## PERGUNTAS NARRATIVAS
+## Perguntas Narrativas
 
 Agora que há um problema realmente significativo, podemos encorpar a situação um pouco e descobrir qual é a verdadeira questão que o cenário quer resolver – em outras palavras, quais são as questões pertinentes no cerne do problema?
 
@@ -3571,21 +3544,21 @@ Cada problema criado possuirá uma pergunta bem óbvia: “Os PJs podem resolver
 
 Para criar essas perguntas, você provavelmente terá que reﬂetir sobre o problema que criou, ao menos um pouco, e descobrir detalhes como “quem, o que, como, onde, quando, por que”. Esse é o objetivo do processo.
 
-**Uma Conspiração Galáctica: Problema e Perguntas**
-
-Fräkeline possui *Se É Valioso, Poderia Ser Meu *e Bandu tem *O Império Quer Minha Cabeça*, o que sugere que o Império pode usar Fräk como isca para chegar até Bandu. Uma espiã disfarçada conta a Bandu sobre uma possível relação entre sua origem e uma relíquia do Museu que o Império deseja. Ao mesmo tempo, um contrato com um bom pagamento chega até Fräk, solicitando o roubo de um tesouro no Museu.
-
-Duas perguntas óbvias sobre a história vêm à mente: *Será que Fräkeline consegue o tesouro? Será que Bandu é tentado pela informação? *Mas Amanda quer deixar essas respostas para o final, então pensa em outras questões.
-
-Primeiramente, ela não sabe se eles concordam plenamente com a situação, então ela começa com: *Fräkeline vai aceitar o trabalho? Será que Bandu correrá atrás dessa pista?*
-
-Em seguida ela precisa imaginar porque eles não vão direto ao problema. Ela decide que Fräk possui um rival anônimo na busca pelo tesouro do Museu (vamos chamá-lo de “O Cetro de Coronilla”) e um empregador misterioso que prometeu outra boa quantia atraente de créditos se o serviço for completado.
-
-Bandu, por sua vez, precisa descobrir como chegará à informação que deseja sem se tornar alvo do Império, e provavelmente tentará descobrir precisamente quem está atrás dessa relíquia. Isso, então, gera mais três perguntas: *Será que Fräkeline pode encontrar o seu concorrente antes que ele a encontre?*
-
-*Poderá Bandu encontrar um aliado no Museu para defendê-lo? Poderá Bandu descobrir quem está armando para ele, sem sofrer maiores consequências?*
-
-Então, como ela quer alguma tensão entre os dois, ela acrescenta mais uma pergunta referente à relação entre os personagens: Será que Fräkeline dará as costas a Bandu por causa de seus próprios interesses?
+> **Uma Conspiração Galáctica: Problema e Perguntas**
+> 
+> Fräkeline possui *Se É Valioso, Poderia Ser Meu* e Bandu tem *O Império Quer Minha Cabeça*, o que sugere que o Império pode usar Fräk como isca para chegar até Bandu. Uma espiã disfarçada conta a Bandu sobre uma possível relação entre sua origem e uma relíquia do Museu que o Império deseja. Ao mesmo tempo, um contrato com um bom pagamento chega até Fräk, solicitando o roubo de um tesouro no Museu.
+> 
+> Duas perguntas óbvias sobre a história vêm à mente: *Será que Fräkeline consegue o tesouro? Será que Bandu é tentado pela informação? *Mas Amanda quer deixar essas respostas para o final, então pensa em outras questões.
+> 
+> Primeiramente, ela não sabe se eles concordam plenamente com a situação, então ela começa com: *Fräkeline vai aceitar o trabalho? Será que Bandu correrá atrás dessa pista?*
+> 
+> Em seguida ela precisa imaginar porque eles não vão direto ao problema. Ela decide que Fräk possui um rival anônimo na busca pelo tesouro do Museu (vamos chamá-lo de “O Cetro de Coronilla”) e um empregador misterioso que prometeu outra boa quantia atraente de créditos se o serviço for completado.
+> 
+> Bandu, por sua vez, precisa descobrir como chegará à informação que deseja sem se tornar alvo do Império, e provavelmente tentará descobrir precisamente quem está atrás dessa relíquia. Isso, então, gera mais três perguntas: *Será que Fräkeline pode encontrar o seu concorrente antes que ele a encontre?*
+> 
+> *Poderá Bandu encontrar um aliado no Museu para defendê-lo? Poderá Bandu descobrir quem está armando para ele, sem sofrer maiores consequências?*
+> 
+> Então, como ela quer alguma tensão entre os dois, ela acrescenta mais uma pergunta referente à relação entre os personagens: Será que Fräkeline dará as costas a Bandu por causa de seus próprios interesses?
 
 Note que cada uma dessas questões tem o potencial para moldar significativamente o enredo do cenário. Logo de cara, se Bandu decidir ignorar o aviso, você terá uma situação bastante diferente da que aconteceria se ele investigasse. Se a busca de Bandu for uma armadilha do Império, sua captura pode se tornar uma questão principal. Se Fräk decidir ajudar Bandu ao invés de perseguir o Cetro, então eles terão um outro problema para lidar, diferente do que foi pensado para Fräkeline.
 
@@ -3599,7 +3572,7 @@ Podemos também guardar a identidade do rival como algo que possa ser revelado a
 
 Há também algum espaço para estender o material de um cenário para outro futuro. Talvez a identidade do oponente de Fräk não seja revelada nessa sessão – tudo bem, pois isso é um detalhe que sempre poderá aparecer mais à frente.
 
-**ESTABELECENDO A OPOSIÇÃO**
+**Estabelecendo A Oposição**
 
 Você pode já ter pensado em alguns PdNs ou um grupo deles que são responsáveis pelo que está havendo, mas se não tiver, é preciso começar a montar o elenco de personagens-chave para responder suas perguntas narrativas. Também é preciso acertar suas motivações e objetivos, por que se
 opõem aos objetivos dos PJs e o que procuram.
@@ -3607,50 +3580,43 @@ opõem aos objetivos dos PJs e o que procuram.
 No mínimo, você deve responder a algumas perguntas para cada PdN importante em seu cenário:
 
 +  O que esse PdN *precisa*? Como os PJs o ajudam a conseguir isso ou atrapalham seus objetivos?
-
 +  Por que o PdN não pode conseguir o que precisa de forma não problemática? (Em outras palavras, porque isso precisa ser um problema?)
-
 +  Por que ele não pode ser ignorado?
 
 Sempre que puder, tente unificar os PdNs, pois assim não terá muitos personagens para acompanhar. Se um de seus PdNs serve a apenas um propósito em seu cenário, considere se livrar dele e unir o seu papel ao de outro PdN. Isso não apenas reduz sua carga de trabalho, mas também permite que desenvolva um pouco mais a personalidade de cada PdN, tornando-o mais vívido em suas motivações.
 
 Para cada PdN que possuir, veja se precisa transformá-lo em um PdN principal ou de suporte. Estruture-o de acordo com as dicas dadas em *Estruturando o Jogo*.
 
-Se você acabar com muitas perguntas histórias (mais de oito, por exemplo), tenha em mente que você não precisa necessariamente responder a todas em um único cenário – você pode trazer à tona as questões que ficarem sem resposta como abertura para os cenários seguintes. Na verdade, é exatamente assim que você cria bons arcos (p. 232) – você possui diversas perguntas e leva dois ou três cenários para responder a todas elas.
+> Se você acabar com muitas perguntas histórias (mais de oito, por exemplo), tenha em mente que você não precisa necessariamente responder a todas em um único cenário – você pode trazer à tona as questões que ficarem sem resposta como abertura para os cenários seguintes. Na verdade, é exatamente assim que você cria bons arcos (p. 232) – você possui diversas perguntas e leva dois ou três cenários para responder a todas elas.
 
-**Uma Conspiração Galáctica: Oposição**
+> **Uma Conspiração Galáctica: Oposição**
+> 
+> Amanda observa as perguntas narrativas e pensa nos PdNs que precisa para respondê-las. Ela cria um lista de suspeitos:
+> 
+> +  O empregador misterioso de Fräkeline (não aparece)
+> +  O curador-chefe do Museu (suporte)
+> +  O rival de Fräk pelo Cetro (suporte)
+> +  Uma advogada que não faz parte da conspiração (suporte)
+> +  Um advogado corrupto associado ao Império (suporte)
+> +  O chefe da guarda, secretamente filiado ao Império, que elaborou a conspiração para capturar Bandu (principal)
+> 
+> São seis PdNs, quatro de suporte, um principal e um que não estará presente no cenário – Amanda ainda não quer criar os detalhes de quem contratou Fräk. Ela também não quer ter que controlar cinco PdNs, então estuda as possibilidades de fusão.
+> 
+> Uma possibilidade que lhe vem à mente é transformar o concorrente de Fräkeline e a advogada neutra no mesmo personagem, que ela chama de Anya. Anya pode não estar envolvida *nessa *conspiração, mas ela certamente tem motivos mais profundos. O que está acontecendo então? Amanda decide que a motivação de Anya é benéfica; ela deseja pegar o Cetro de Coronilla para mantê-lo longe das mãos corruptas do Império Mareesiano. Ela não sabe nada sobre Fräk e irá confundi-la com uma agente imperial até que as coisas sejam esclarecidas.
+> 
+> Então ela decide que o chefe da guarda do Museu e o arquiteto da conspiração são a mesma pessoa – ele não confia em ninguém que não seja do Império, então faz o possível para conseguir capturar seus inimigos. Amanda gosta dessa ideia porque seu poder político faz dele um oponente formidável e lhe dá um lacaio, um advogado corrupto. Mas qual é sua motivação para arranjar problemas com Bandu?
+> 
+> Ela decide, ainda, que seu motivo não é pessoal, mas ele está começando algumas atividades que terão efeito na galáxia, e sabe que entregar Bandu ao Império lhe trará bastante poder e prestígio, acelerando seus planos.
+> 
+> Quanto ao advogado corrupto, a primeira coisa que vem à mente é um bajulador patético, chorão, que está na palma da mão de seu chefe. Mas ela quer adicionar mais alguns detalhes para dar profundidade, então decide que o chefe da guarda tem algum material para chantageá-lo, o que ajuda a assegurar sua lealdade. Ela ainda não sabe qual é a informação, mas espera que PJs curiosos a ajudarão a criar os detalhes mais tarde.
+> 
+> Ela nomeia o chefe de Stamatios Wolfram e o advogado corrupto de Festus. Ela agora tem os PdNs que precisava e criará suas fichas.
 
-Amanda observa as perguntas narrativas e pensa nos PdNs que precisa para respondê-las. Ela cria um lista de suspeitos:
+> **Vantagens Podem Salvar Seu Trabalho**
+> 
+> Ao elaborar os PdNs para o cenário, você não precisa ter nada permanentemente definido quando chegar à mesa – se houver algo que ainda não sabe, sempre será possível estabelecer esses fatos criando Aspectos para os PdNs com ideias vindas das vantagens criadas pelos jogadores. Veja mais conselhos sobre como improvisar esse tipo de coisa durante o jogo na p. 222.
 
-+  O empregador misterioso de Fräkeline (não aparece)
-
-+  O curador-chefe do Museu (suporte)
-
-+  O rival de Fräk pelo Cetro (suporte)
-
-+  Uma advogada que não faz parte da conspiração (suporte)
-
-+  Um advogado corrupto associado ao Império (suporte)
-
-+  O chefe da guarda, secretamente filiado ao Império, que elaborou a conspiração para capturar Bandu (principal)
-
-São seis PdNs, quatro de suporte, um principal e um que não estará presente no cenário – Amanda ainda não quer criar os detalhes de quem contratou Fräk. Ela também não quer ter que controlar cinco PdNs, então estuda as possibilidades de fusão.
-
-Uma possibilidade que lhe vem à mente é transformar o concorrente de Fräkeline e a advogada neutra no mesmo personagem, que ela chama de Anya. Anya pode não estar envolvida *nessa *conspiração, mas ela certamente tem motivos mais profundos. O que está acontecendo então? Amanda decide que a motivação de Anya é benéfica; ela deseja pegar o Cetro de Coronilla para mantê-lo longe das mãos corruptas do Império Mareesiano. Ela não sabe nada sobre Fräk e irá confundi-la com uma agente imperial até que as coisas sejam esclarecidas.
-
-Então ela decide que o chefe da guarda do Museu e o arquiteto da conspiração são a mesma pessoa – ele não confia em ninguém que não seja do Império, então faz o possível para conseguir capturar seus inimigos. Amanda gosta dessa ideia porque seu poder político faz dele um oponente formidável e lhe dá um lacaio, um advogado corrupto. Mas qual é sua motivação para arranjar problemas com Bandu?
-
-Ela decide, ainda, que seu motivo não é pessoal, mas ele está começando algumas atividades que terão efeito na galáxia, e sabe que entregar Bandu ao Império lhe trará bastante poder e prestígio, acelerando seus planos.
-
-Quanto ao advogado corrupto, a primeira coisa que vem à mente é um bajulador patético, chorão, que está na palma da mão de seu chefe. Mas ela quer adicionar mais alguns detalhes para dar profundidade, então decide que o chefe da guarda tem algum material para chantageá-lo, o que ajuda a assegurar sua lealdade. Ela ainda não sabe qual é a informação, mas espera que PJs curiosos a ajudarão a criar os detalhes mais tarde.
-
-Ela nomeia o chefe de Stamatios Wolfram e o advogado corrupto de Festus. Ela agora tem os PdNs que precisava e criará suas fichas.
-
-**VANTAGENS PODEM SALVAR SEU TRABALHO**
-
-Ao elaborar os PdNs para o cenário, você não precisa ter nada permanentemente definido quando chegar à mesa – se houver algo que ainda não sabe, sempre será possível estabelecer esses fatos criando Aspectos para os PdNs com ideias vindas das vantagens criadas pelos jogadores. Veja mais conselhos sobre como improvisar esse tipo de coisa durante o jogo na p. 222.
-
-## ORGANIZANDO A PRIMEIRA CENA
+## Organizando A Primeira Cena
 
 Comece a cena sendo o menos sutil possível – pegue uma das perguntas narrativas, faça algo que coloque a questão em jogo e acerte seus jogadores com ela o mais forte possível. Você não precisa responder nada logo de cara (embora não haja nada de errado em fazer isso), mas você deveria mostrar aos jogadores que a pergunta precisa de resposta.
 
@@ -3658,43 +3624,43 @@ Dessa forma, você estará definindo o ritmo do jogo, garantindo que os jogadore
 
 Se você está em uma campanha em andamento, talvez precise das primeiras cenas para resolver as pontas soltas deixadas na sessão anterior. Tudo bem gastar algum tempo nisso, pois ajuda a manter o senso de continuidade que existe de uma sessão para outra. No entanto, logo que houver uma pausa no andamento, atinja-os com a cena inicial de forma rápida e impactante.
 
-**Uma Conspiração Galáctica: Cena de Abertura**
-
-Amanda pensa sobre as questões de seu cenário e começa a elaborar a cena inicial. Algumas coisas óbvias vêm à sua mente:
-
-+  Fräkeline recebe o contrato e os detalhes sobre o trabalho de um empregador misterioso, solicitando mais um acompanhante, e deve decidir se quer ou não assinar.
-
-+  Bandu deve decidir se confia na informação e partir para saber mais sobre seu passado.
-
-Amanda decide iniciar com a primeira cena, pois pensa que se Fräk rejeitar o contrato e descobrir que Bandu vai já ia para lá, isso pode criar uma cena divertida na qual ela tenta pedir uma segunda chance ao empregador misterioso. Mesmo que Fräk se mantenha firme em sua decisão, isso determinará se terão ou não que lidar algum problema no caminho para lá, enquanto os lacaios do empregador misterioso os perturbam no caminho.
-
-Isso não significa que ela vai deixar a cena de Bandu de lado – só vai guardá-la para depois da primeira cena.
+> **Uma Conspiração Galáctica: Cena de Abertura**
+> 
+> Amanda pensa sobre as questões de seu cenário e começa a elaborar a cena inicial. Algumas coisas óbvias vêm à sua mente:
+> 
+> +  Fräkeline recebe o contrato e os detalhes sobre o trabalho de um empregador misterioso, solicitando mais um acompanhante, e deve decidir se quer ou não assinar.
+> 
+> +  Bandu deve decidir se confia na informação e partir para saber mais sobre seu passado.
+> 
+> Amanda decide iniciar com a primeira cena, pois pensa que se Fräk rejeitar o contrato e descobrir que Bandu vai já ia para lá, isso pode criar uma cena divertida na qual ela tenta pedir uma segunda chance ao empregador misterioso. Mesmo que Fräk se mantenha firme em sua decisão, isso determinará se terão ou não que lidar algum problema no caminho para lá, enquanto os lacaios do empregador misterioso os perturbam no caminho.
+> 
+> Isso não significa que ela vai deixar a cena de Bandu de lado – só vai guardá-la para depois da primeira cena.
 
 ### Truque do Narrador Ninja Para o Início da Sessão
 
 Conversar com os jogadores para contribuírem com algo para a primeira cena é uma ótima forma de fazê-los investir no que pode vir a acontecer com seus personagens. Se houver pontos ﬂexíveis sobre a cena de abertura, peça aos jogadores para preencherem as lacunas que ainda existirem. Jogadores inteligentes podem tentar usar isso como uma oportunidade para forçar aspectos e conseguir pontos de destino extra – é o estilo de jogo que chamamos de 'incrível'!
 
-Vamos dar uma olhada nas cenas acima. A trama não especifica onde estão os PJs quando são confrontados com suas escolhas. Então Amanda pode começar a sessão perguntando a Michel “Onde Bandu está exatamente quando a moça o aborda?”
-
-Agora, mesmo que Michel responda apenas “em uma feira de rua” ou “um bar”, você já solicitou sua participação, que ajudou a definir a cena. Mas Michel é um cara incrível, então ele diz “Ah, provavelmente em um banho público, relaxando depois de um dia de investigação”.
-
-“Perfeito!” diz Amanda, e pega um ponto de destino “Ela lhe conta a respeito da relíquia, e diz que ouviu boatos que guardas imperiais sabem que você está ali, e como o *Império quer sua cabeça *é melhor você fugir.”
-
-Michel sorri e pega o ponto de destino “Sim, faz sentido".
+> Vamos dar uma olhada nas cenas acima. A trama não especifica onde estão os PJs quando são confrontados com suas escolhas. Então Amanda pode começar a sessão perguntando a Michel “Onde Bandu está exatamente quando a moça o aborda?”
+> 
+> Agora, mesmo que Michel responda apenas “em uma feira de rua” ou “um bar”, você já solicitou sua participação, que ajudou a definir a cena. Mas Michel é um cara incrível, então ele diz “Ah, provavelmente em um banho público, relaxando depois de um dia de investigação”.
+> 
+> “Perfeito!” diz Amanda, e pega um ponto de destino “Ela lhe conta a respeito da relíquia, e diz que ouviu boatos que guardas imperiais sabem que você está ali, e como o *Império quer sua cabeça *é melhor você fugir.”
+> 
+> Michel sorri e pega o ponto de destino “Sim, faz sentido".
 
 Claro você também pode considerar seus ganchos de cenário como “pré-forçados”, e distribuir alguns pontos de destino no começo da sessão para indicar aos PJs algum problema com o qual terão de lidar imediatamente. Isso ajuda jogadores com recarga menor e pode alavancar o gasto de pontos de destino logo de cara. Apenas tenha a certeza de que eu grupo concorda em ser posto nessa situação – alguns jogadores não se sentem confortáveis com a perda de controle.
 
-Amanda quer começar dando alguns pontos de destino aos jogadores.
+> Amanda quer começar dando alguns pontos de destino aos jogadores.
+> 
+> “Bandu, já é ruim quando o Império quer te pegar, mas quando você é acuado pela guarda local, sob a pressão, você avista uma nave de caravana para o Museu a alguns metros de você. Decidido a escapar, você corre para dentro da fila e desaparece dentro da nave (2 pontos de destino por *O Império Quer Minha Cabeça* e *Funciono Sob Pressão*).”
+> 
+> “Esopo, sei que você pensa que *Bater Sempre Funciona*, então como você vai explicar o que aconteceu quando você tentou consertar o sistema de navegação? (1 ponto de destino por Bater).”
+> 
+> “Fräkeline, quem fez esse contrato lhe conhece bem. Ele incluiu um chip de créditos rastreável no pacote. O problema é que você pode ser encontrada e presa se não assinar o contrato – e ninguém vai acreditar se você disser que o ganhou (2 pontos de destino por *Famosa Ladra Robótica* e *Se É Valioso, Poderia Ser Meu*).
 
-“Bandu, já é ruim quando o Império quer te pegar, mas quando você é acuado pela guarda local, sob a pressão, você avista uma nave de caravana para o Museu a alguns metros de você. Decidido a escapar, você corre para dentro da fila e desaparece dentro da nave (2 pontos de destino por *O Império Quer Minha Cabeça *e *Funciono Sob Pressão*).”
+## O Que É Uma Cena?
 
-“Esopo, sei que você pensa que *Bater Sempre Funciona*, então como você vai explicar o que aconteceu quando você tentou consertar o sistema de navegação? (1 ponto de destino por Bater).”
-
-“Fräkeline, quem fez esse contrato lhe conhece bem. Ele incluiu um chip de créditos rastreável no pacote. O problema é que você pode ser encontrada e presa se não assinar o contrato – e ninguém vai acreditar se você disser que o ganhou (2 pontos de destino por *Famosa Ladra Robótica *e *Se É Valioso, Poderia Ser Meu*).
-
-## O QUE É UMA CENA?
-
-Uma **cena **é uma unidade de tempo de jogo que dura de alguns minutos a meia hora ou mais, durante a qual os jogadores tentam alcançar um objetivo ou realizar algo significativo no cenário. O conjunto de cenas jogadas formam uma sessão de jogo e, por extensão, também vão formando partes dos cenários, arcos e campanhas.
+Uma **cena** é uma unidade de tempo de jogo que dura de alguns minutos a meia hora ou mais, durante a qual os jogadores tentam alcançar um objetivo ou realizar algo significativo no cenário. O conjunto de cenas jogadas formam uma sessão de jogo e, por extensão, também vão formando partes dos cenários, arcos e campanhas.
 
 Assim, você pode olhar para as cenas como a unidade básica de tempo do jogo, além de provavelmente já ter uma boa ideia de como elas são. Não é muito diferente de uma cena em um filme, série de TV ou livro – os personagens principais estão fazendo coisas o tempo todo, normalmente todos no mesmo espaço. Uma vez que a ação siga um novo objetivo, mude de local relacionado àquele objetivo ou salta no tempo, você está na próxima cena.
 
@@ -3705,7 +3671,6 @@ Como Narrador, um dos trabalhos mais importantes é administrar o início e o fi
 Ao iniciar uma cena, deixe duas coisas claras:
 
 +  Qual o propósito da cena?
-
 +  Que coisas interessantes estão prestes a ocorrer?
 
 Responder a primeira pergunta é bastante importante, pois quanto mais específico for o propósito de sua cena, mais fácil será para saber quando ela tem que finalizar. Uma boa cena gira em torno de resolver um conﬂito específico ou atingir um alvo específico – uma vez que os PJs forem bem-sucedidos ou falharem no que quer que estejam tentando, a cena acaba. Se a sua cena não possuir um propósito claro, você corre o risco de torná-la mais longa que o necessário e acabar com o ritmo da sessão.
@@ -3716,31 +3681,31 @@ Na maioria das vezes, os próprios jogadores lhe dirão qual o propósito da cen
 
 Outras vezes você terá que criar um propósito para a cena, como o início de um novo cenário ou a cena logo depois de um momento de suspense. Independentemente de como faça isso, tente voltar as perguntas sobre a história que criou mais cedo e introduzir uma situação que contribua diretamente para responder alguma delas. Dessa forma, sempre que for começar uma cena, estará movendo a história adiante.
 
-Amanda terminou a sessão anterior com um suspense: o empregador misterioso de Fräkeline é um agente dos Bruxos de Mondoor, e o Cetro de Coronilla é uma joia necessária para o ritual que trará a bruxaria de volta. Além disso, Bandu é capturado pela guarda do Museu, que o acusa de ter roubado o Cetro, curiosamente a mesma relíquia que Fräk havia sido enviada para roubar.
+> Amanda terminou a sessão anterior com um suspense: o empregador misterioso de Fräkeline é um agente dos Bruxos de Mondoor, e o Cetro de Coronilla é uma joia necessária para o ritual que trará a bruxaria de volta. Além disso, Bandu é capturado pela guarda do Museu, que o acusa de ter roubado o Cetro, curiosamente a mesma relíquia que Fräk havia sido enviada para roubar.
+> 
+> Agora Amanda pensa sobre como vai iniciar a próxima sessão. Toda a situação da última sessão assustou os jogadores, então ela definitivamente vai focar nisso. Anya retornará, confusa sobre o papel de Fräk no roubo. A cena será um uma revelação, mostrando que ambas estão do mesmo lado.
 
-Agora Amanda pensa sobre como vai iniciar a próxima sessão. Toda a situação da última sessão assustou os jogadores, então ela definitivamente vai focar nisso. Anya retornará, confusa sobre o papel de Fräk no roubo. A cena será um uma revelação, mostrando que ambas estão do mesmo lado.
-
-Há outra questão importantíssima – uma cena deve começar *logo antes *de algo interessante acontecer. Filmes e séries são especialmente bons nisso – normalmente, você não assiste determinada cena por mais de três segundos antes que algo interessante aconteça para mudar a situação e abalar as coisas. “Cortar” direto para um momento antes do início da ação ajuda a manter o ritmo e chamar a atenção dos jogadores. Não é preciso detalhar cada momento da caminhada dos PJs da estalagem até o esconderijo do ladrão – isso é perder tempo de jogo onde nada interessante acontece. Ao invés disso, você pode começar a cena com os PJs na porta do esconderijo, frente a uma série de intricadas fechaduras na porta do ladrão.
+Há outra questão importantíssima – uma cena deve começar *logo antes* de algo interessante acontecer. Filmes e séries são especialmente bons nisso – normalmente, você não assiste determinada cena por mais de três segundos antes que algo interessante aconteça para mudar a situação e abalar as coisas. “Cortar” direto para um momento antes do início da ação ajuda a manter o ritmo e chamar a atenção dos jogadores. Não é preciso detalhar cada momento da caminhada dos PJs da estalagem até o esconderijo do ladrão – isso é perder tempo de jogo onde nada interessante acontece. Ao invés disso, você pode começar a cena com os PJs na porta do esconderijo, frente a uma série de intricadas fechaduras na porta do ladrão.
 
 Se você sentir dificuldades nesta questão, pense em algo que possa complicar o propósito deles ou criar um problema. Você também pode usar o truque ninja que falamos logo antes e fazer perguntas aos jogadores para ajudá-lo a elaborar o que acontecerá de interessante a seguir. Se você possuir um propósito claro em cada cena e começar quando algo significativo estiver para acontecer, é pouco provável que algo saia errado.
 
-Amanda inicia a cena com Fräkeline e Esopo voltando para seu alojamento tarde da noite, conversando distraidamente sobre os eventos recentes. Léo sugere que eles não devem ir para lá – não após o roubo. Ele imagina que todos, desde os Bruxos de Moondor ao Império Mareesiano estão procurando por Fräkeline, então eles estão em algum tipo de esconderijo seguro.
-
-Então são surpreendidos por três estranhos armados que os emboscam assim que chegam próximo à porta.
-
-“Uou!” Maira pergunta “Como eles sabem que estamos aqui?”
-
-“Difícil dizer”, Amanda fala, fornecendo um ponto de destino para Maira e Léo. “*Este é um Centro de Comércio, Antro de Vilania*”.
-
-“Justo”, Léo diz e ambos aceitam forçar o aspecto.
-
-“Fräk, antes que consiga entrar para o local um dos indivíduos segura uma espada contra sua garganta. O capuz cai aos poucos e revela Anya! Ela parece brava quando diz “Onde está o Cetro, escória imperial?”.
+> Amanda inicia a cena com Fräkeline e Esopo voltando para seu alojamento tarde da noite, conversando distraidamente sobre os eventos recentes. Léo sugere que eles não devem ir para lá – não após o roubo. Ele imagina que todos, desde os Bruxos de Moondor ao Império Mareesiano estão procurando por Fräkeline, então eles estão em algum tipo de esconderijo seguro.
+> 
+> Então são surpreendidos por três estranhos armados que os emboscam assim que chegam próximo à porta.
+> 
+> “Uou!” Maira pergunta “Como eles sabem que estamos aqui?”
+> 
+> “Difícil dizer”, Amanda fala, fornecendo um ponto de destino para Maira e Léo. “*Este é um Centro de Comércio, Antro de Vilania*”.
+> 
+> “Justo”, Léo diz e ambos aceitam forçar o aspecto.
+> 
+> “Fräk, antes que consiga entrar para o local um dos indivíduos segura uma espada contra sua garganta. O capuz cai aos poucos e revela Anya! Ela parece brava quando diz “Onde está o Cetro, escória imperial?”.
 
 ### Finalizando Cenas
 
 Você pode finalizar as cenas da mesma forma que as iniciou, mas em um processo contrário: no momento em que notar que a cena alcançou o seu propósito, passe adiante e chame o fim da cena imediatamente após as ações interessantes terminarem.
 
-Esta é uma abordagem bastante eficiente porque ajuda a manter o interesse na *próxima *cena. Mais uma vez, você vê isso o tempo todo em bons filmes – uma cena termina com parte da ação resolvida, mas também com algum assunto inacabado; é bem aí que cortam para a próxima cena.
+Esta é uma abordagem bastante eficiente porque ajuda a manter o interesse na *próxima* cena. Mais uma vez, você vê isso o tempo todo em bons filmes – uma cena termina com parte da ação resolvida, mas também com algum assunto inacabado; é bem aí que cortam para a próxima cena.
 
 Muitas de suas cenas acabarão da mesma forma. Os PJs podem vencer um conﬂito ou alcançar um objetivo, mas sempre haverá algo a ser feito a seguir – conversar sobre a resolução, descobrir o que vão fazer em seguida, etc.
 
@@ -3755,35 +3720,32 @@ Sempre que estiver tentando criar ideias para o que deve acontecer na próxima c
 Em outras palavras, pergunte-se se sua cena está fazendo ao menos uma das seguintes coisas:
 
 +  Dando aos PJs a chance de mostrarem no que eles são realmente bons, seja contra pessoas despreparadas ou contra uma boa quantidade de adversários dignos.
-
 +  Dando aos PJs a chance de fazer algo que possa ser descrito em uma frase simples. “Tentando descobrir informações” é muito vago; “Invadir o gabinete do prefeito” é mais específico. Não precisa ser uma ação física – “convencer o informante a falar” também é uma ação válida.
-
 +  Introduzindo uma escolha difícil ou complicação para os PJs. Sua melhor ferramenta para fazer isso é forçar os aspectos dos PJs, mas se a situação é problemática por si só, talvez não seja necessário.
 
-O primeiro impulso de Fräkeline é entender o que Anya está falando – mas Amanda sabe que os impulsos de Esopo são... um pouco mais violentos.
-
-“Eu atiro com minha lança cascavéis!”, Léo grita.
-
-“Mas... nós nem começamos a conversar”, diz Maira. “Mesmo assim! Para que conversar quando *Bater Sempre*
-*Funciona*?"
-
-Léo abre a mão e Amanda cede um ponto de destino por forçar o aspecto.
+> O primeiro impulso de Fräkeline é entender o que Anya está falando – mas Amanda sabe que os impulsos de Esopo são... um pouco mais violentos.
+> 
+> “Eu atiro com minha lança cascavéis!”, Léo grita.
+> 
+> “Mas... nós nem começamos a conversar”, diz Maira. “Mesmo assim! Para que conversar quando *Bater Sempre Funciona*?"
+> 
+> Léo abre a mão e Amanda cede um ponto de destino por forçar o aspecto.
 
 ### Use os Aspectos
 
 Outro bom jeito de elaborar cenas interessantes de ação é usar os aspectos dos jogadores para criar uma complicação ou evento baseados neles. Isso é especialmente adequado para aqueles aspectos dos PJs que você não incluiu no problema do cenário, porque isso muda um pouco o foco para eles, mesmo que a história principal não foque nos PJs tanto assim.
 
-A cena se inicia com um grande julgamento. Bandu está preso, parado em pé diante dos oficiais do Museu do Consenso. Enquanto eles o cobrem de perguntas, eventualmente um dos estudiosos presentes no salão lança um insulto ou uma palavra de desânimo (o que rende um ponto de destino por seu *Me Ofendo Por Pouco*). A coisa toda parece uma reunião de parlamentares. Fräk e Esopo estão escondidos na ventilação, assistindo tudo a uma distância segura.
+> A cena se inicia com um grande julgamento. Bandu está preso, parado em pé diante dos oficiais do Museu do Consenso. Enquanto eles o cobrem de perguntas, eventualmente um dos estudiosos presentes no salão lança um insulto ou uma palavra de desânimo (o que rende um ponto de destino por seu *Me Ofendo Por Pouco*). A coisa toda parece uma reunião de parlamentares. Fräk e Esopo estão escondidos na ventilação, assistindo tudo a uma distância segura.
+> 
+> Amanda se vira para os dois e pergunta, “Vocês vão deixar seu companheiro nessa situação?”
+> 
+> “Não importa. *Eu Não Entendo Absolutamente Nada*!” grita Léo, narrando como Esopo quebra o teto e cai no centro do salão, na mira dos guardas.
+> 
+> “Não posso ficar parada depois dessa... porque eu sei que o *Esopo Precisa Ser Protegido*!”, anuncia Maira, fazendo Fräkeline saltar do telhado no meio da confusão.
+> 
+> Amanda ri, dizendo “Melhor cena!”, e lança dois pontos de destino, um para Maira e outro para Léo.
 
-Amanda se vira para os dois e pergunta, “Vocês vão deixar seu companheiro nessa situação?”
-
-“Não importa. *Eu Não Entendo Absolutamente Nada*!” grita Léo, narrando como Esopo quebra o teto e cai no centro do salão, na mira dos guardas.
-
-“Não posso ficar parada depois dessa... porque eu sei que o *Esopo Precisa Ser Protegido*!”, anuncia Maira, fazendo Fräkeline saltar do telhado no meio da confusão.
-
-Amanda ri, dizendo “Melhor cena!”, e lança dois pontos de destino, um para Maira e outro para Léo.
-
-## O CENÁRIO EM JOGO
+## O Cenário Em Jogo
 
 Agora você já deve estar pronto para começar: você tem um problema que não pode ser ignorado, uma boa variedade de questões sobre a história que ajudarão a resolver os problemas de uma forma ou de outra, um grupo de PdNs e suas motivações e a primeira cena que fará as coisas pegarem fogo.
 
@@ -3797,24 +3759,23 @@ Observe que não recomendamos predeterminar quais locais e cenas estarão envolv
 
 No entanto, nem tudo está perdido – as coisas que você preparou o ajudarão quando os personagens fizerem coisas inesperadas. Suas perguntas narrativas são vagas o suficiente para que possam ser respondidas de diversas maneiras, e você pode rapidamente cortar algo que não é tão relevante e substituir por algo sem ter que perder todo o seu trabalho.
 
-Amanda esperava que a cena com Esopo, Fräk e Anya resultasse num conﬂito rápido, graças a Esopo, seguido de uma conversa onde todos descobrem que estão do mesmo lado. Certo? Não.
-
-O primeiro golpe de Esopo derruba Anya, acabando também seu primeiro contato com a Irmandade do Equilíbrio, uma organização que se opõe ao Império e aos Bruxos. Mudança de planos. Amanda pensa em como continuar a partir dali:
-
-Os acompanhantes de Anya gritam “Vingança!” e lutam até a morte.
-Um dos três assume o papel de Anya e tenta conversar.
-
-Os guerreiros fogem (concedendo o conﬂito) e relatam a morte a seus superiores.
-
-Ela escolhe a terceira opção. Depois de um golpe como esse, ninguém tentaria encarar Esopo. Além disso, Amanda imagina que Maira e Léo irão revistar o corpo, uma boa oportunidade para obterem informações sobre a Irmandade. Também é a chance de trazer Bandu à ação – talvez a Irmandade do Equilíbrio tenha informações que ele queira.
+> Amanda esperava que a cena com Esopo, Fräk e Anya resultasse num conﬂito rápido, graças a Esopo, seguido de uma conversa onde todos descobrem que estão do mesmo lado. Certo? Não.
+> 
+> O primeiro golpe de Esopo derruba Anya, acabando também seu primeiro contato com a Irmandade do Equilíbrio, uma organização que se opõe ao Império e aos Bruxos. Mudança de planos. Amanda pensa em como continuar a partir dali:
+> 
+> + Os acompanhantes de Anya gritam “Vingança!” e lutam até a morte.
+> + Um dos três assume o papel de Anya e tenta conversar.
+> + Os guerreiros fogem (concedendo o conﬂito) e relatam a morte a seus superiores.
+> 
+> Ela escolhe a terceira opção. Depois de um golpe como esse, ninguém tentaria encarar Esopo. Além disso, Amanda imagina que Maira e Léo irão revistar o corpo, uma boa oportunidade para obterem informações sobre a Irmandade. Também é a chance de trazer Bandu à ação – talvez a Irmandade do Equilíbrio tenha informações que ele queira.
 
 Além disso, conhecer as motivações e objetivos de seus PdNs permite ajustar seus comportamentos mais facilmente do que colocá-los em cena esperando a chegada dos PJs. Quando os PJs tomarem uma decisão complicada, torne os PdNs tão dinâmicos quanto eles, fazendo-os tomar decisões súbitas e surpreendentes para atingir seus objetivos.
 
-Amanda ainda está um pouco perdida com essa morte inesperada. Ela planejava fazer de Anya uma personagem importante para o arco da história – talvez não uma PdN poderosa, mas uma bastante importante. Amanda pode ao menos tornar sua morte significativa.
+> Amanda ainda está um pouco perdida com essa morte inesperada. Ela planejava fazer de Anya uma personagem importante para o arco da história – talvez não uma PdN poderosa, mas uma bastante importante. Amanda pode ao menos tornar sua morte significativa.
+> 
+> Ela decide que embora a morte de um membro da Irmandade pudesse passar despercebida para a maioria dos habitantes de Ondrin, Meegooo, o Falasiano, certamente ouviria a respeito. Ele já conhecia Esopo de confrontos anteriores com o Clã do Dedo, e se você não pode vencê-los... recrute-os.
 
-Ela decide que embora a morte de um membro da Irmandade pudesse passar despercebida para a maioria dos habitantes de Ondrin, Meegooo, o Falasiano, certamente ouviria a respeito. Ele já conhecia Esopo de confrontos anteriores com o Clã do Dedo, e se você não pode vencê-los... recrute-os.
-
-## RESOLVENDO O CENÁRIO
+## Resolvendo O Cenário
 
 Um cenário termina quando você consegue cenas suficientes para resolver a maioria das questões sobre a história que você criou quando preparou o cenário. Às vezes será possível fazer isso com uma simples sessão se possuir muito tempo ou poucas questões. Se possuir muitas perguntas para o cenário, talvez precise de várias sessões para resolver tudo.
 
@@ -3822,9 +3783,9 @@ Não sinta a necessidade de responder todas as questões se as coisas se conclu�
 
 O fim de um cenário desencadeia um **marco maior**. Quando isso acontece, você também deve verificar se o mundo do jogo precisa avançar de alguma forma.
 
-# 10 - CRIANDO CAMPANHAS
+# 10 - Criando Campanhas
 
-## O QUE É UM ARCO?
+## O Que É Um Arco?
 
 Quando você senta para jogar Fate, pode ser que jogue apenas uma sessão. Essa é uma forma válida de jogar, mas vamos assumir que você queira jogar um pouco mais. O que precisa, nesse caso, é de um **arco**.
 
@@ -3832,7 +3793,7 @@ Um arco é uma história completa, com seus próprios assuntos, situações, ant
 
 Uma analogia ficcional: um arco é como um livro. Ele conta sua história própria e termina quando ela se conclui; você cria alguma forma de desfecho e segue adiante. Às vezes você decide começar outra história, em outras seu livro é só o primeiro de uma série. É aí que temos uma campanha.
 
-## O QUE É UMA CAMPANHA?
+## O Que É Uma Campanha?
 
 Quando temos múltiplos arcos conectados contados em sequência, e há uma história ou tema maior que atravessa todos eles, chamamos de **campanha**. Campanhas são longas, levando meses ou até anos para serem completadas (se isso chegar a acontecer).
 
@@ -3840,7 +3801,7 @@ Claro que isso não precisa ser tão assustador como parece. Sim, uma campanha �
 
 Os jogadores são propensos a agitar um pouco as coisas e alterar o curso do que você planejou caso crie mais de um arco por vez, o que pode ser inútil e frustrante. Planejar o segundo arco de uma campanha baseado nos eventos do primeiro, no resultado final e no que os jogadores fizeram, porém, pode ser muito gratificante.
 
-## CONSTRUINDO UM ARCO
+## Construindo Um Arco
 
 A maneira mais fácil de construir um arco é não construir um – na página 219, sugerimos que se você possui muitas perguntas narrativas em seu cenário, talvez possa reservar algumas delas para o próximo. Então, no próximo cenário, adicione algumas novas perguntas às que ainda estão sem resposta.
 
@@ -3850,37 +3811,34 @@ Dito isto, sabemos que alguns Narradores preferem ter um senso de estrutura que 
 
 O melhor lugar para procurar por problemas para sua campanha é nos detalhes sobre os lugares e organizações que você já imaginou durante a criação do cenário. Se você ainda não criou algum local ou grupo em particular, agora pode ser uma boa hora para isso, para que assim você tenha material para um arco.
 
-Amanda decide que quer fazer um arco maior para cada PJ.
-
-Para Bandu, seu *O Império Quer a Minha Cabeça *torna tudo mais fácil – ela decide que talvez o Império tenha planos mais sinistros para ele do que matá-lo, talvez envolvendo o estudo de seus poderes mentais para fins nefastos.
-
-Ela precisa se concentrar nas perguntas sobre a história que são mais gerais e pensar um pouco sobre como resolvê-las. Após pensar um pouco, ela escolhe:
-
-+  Será que Bandu se livrar da perseguição do Império? (Isso permite que ela faça cenários individuais com Bandu tentando apagar sua identidade ou algo assim)
-
-+  Será que Bandu irá se aliar aos seus inimigos para atacar o Império? (Isso permite que ela crie cenários individuais sobre cada um de seus rivais)
-
-+  Bandu conseguirá fazer um acordo com seus perseguidores?
-
-+  Qual é o plano final do Império? Será que serão bem-sucedidos? (resposta que termina o arco)
+> Amanda decide que quer fazer um arco maior para cada PJ.
+> 
+> Para Bandu, seu *O Império Quer a Minha Cabeça* torna tudo mais fácil – ela decide que talvez o Império tenha planos mais sinistros para ele do que matá-lo, talvez envolvendo o estudo de seus poderes mentais para fins nefastos.
+> 
+> Ela precisa se concentrar nas perguntas sobre a história que são mais gerais e pensar um pouco sobre como resolvê-las. Após pensar um pouco, ela escolhe:
+> 
+> +  Será que Bandu se livrar da perseguição do Império? (Isso permite que ela faça cenários individuais com Bandu tentando apagar sua identidade ou algo assim)
+> +  Será que Bandu irá se aliar aos seus inimigos para atacar o Império? (Isso permite que ela crie cenários individuais sobre cada um de seus rivais)
+> +  Bandu conseguirá fazer um acordo com seus perseguidores?
+> +  Qual é o plano final do Império? Será que serão bem-sucedidos? (resposta que termina o arco)
 
 Em seguida, faça o mesmo processo para descobrir quais são os PdNs que oferecerão a oposição, tendo em mente que sua inﬂuência é mais abrangente em um arco do que em um cenário.
 
-## CONSTRUINDO CAMPANHAS
+## Construindo Campanhas
 
 Mais uma vez, a maneira mais fácil de fazer isso é não se preocupar – apenas deixe que seus cenários e arcos criem uma história para a campanha. Seres humanos são máquinas de criar padrões e é bastante provável que você consiga captar naturalmente qual deve ser o enredo de sua campanha analisando as perguntas ainda não respondidas dos arcos e cenários.
 
-No entanto, se você gosta de planejar um pouco mais, o conselho é o mesmo que para os arcos, exceto que você estará ampliando um pouco mais as coisas. Escolha *uma *pergunta narrativa para responder, uma que será o ponto culminante depois dos PJs passarem por diversos cenários e arcos.
+No entanto, se você gosta de planejar um pouco mais, o conselho é o mesmo que para os arcos, exceto que você estará ampliando um pouco mais as coisas. Escolha *uma* pergunta narrativa para responder, uma que será o ponto culminante depois dos PJs passarem por diversos cenários e arcos.
 
 Faça então algumas anotações sobre os passos necessários para que seja possível responder a essa pergunta; eles servirão como material para a elaboração de arcos e cenários.
 
 Os melhores aspectos para elaborar um problema no nível campanha são as questões presentes ou iminentes de seu cenário, dado seu alcance.
 
-Amanda sabe que sua campanha vai depender dos personagens resolverem o aspecto *A Bruxaria Retornará!*. Então umas de suas perguntas é “Será que os PJs poderão evitar o retorno da bruxaria espacial?"
+> Amanda sabe que sua campanha vai depender dos personagens resolverem o aspecto *A Bruxaria Retornará!*. Então umas de suas perguntas é “Será que os PJs poderão evitar o retorno da bruxaria espacial?"
+> 
+> Ela sabe que para isso eles primeiro precisarão descobrir os planos dos Bruxos de Moondor. Também precisarão se certificar que nenhum de seus inimigos pessoais ou o Clã do Dedo interfiram na missão de deter a bruxaria. Isso lhe dá uma boa ideia de quais arcos construirão a campanha.
 
-Ela sabe que para isso eles primeiro precisarão descobrir os planos dos Bruxos de Moondor. Também precisarão se certificar que nenhum de seus inimigos pessoais ou o Clã do Dedo interfiram na missão de deter a bruxaria. Isso lhe dá uma boa ideia de quais arcos construirão a campanha.
-
-## EVOLUÇÃO E ALTERAÇÃO
+## Evolução E Alteração
 
 Seus personagens não permanecem imutáveis durante a campanha inteira. Conforme suas histórias avançam, eles também terão a chance de crescer e mudar em resposta aos eventos no jogo. Os conﬂitos que enfrentam e complicações que superam alterarão o modo como são vistos e os levarão a novos desafios.
 
@@ -3888,7 +3846,7 @@ Além de seus personagens, o mundo do jogo também muda. Os personagens resolver
 
 A evolução de personagens em Fate pode ocorrer de duas maneiras: você pode ou mudar uma informação na ficha para algo equivalente, ou acrescentar elementos novos à ficha. Cada oportunidade para fazer essas alterações é chamada de **marco**.
 
-## O QUE É UM MARCO?
+## O Que É Um Marco?
 
 Um marco é um momento durante o jogo onde você tem a chance de mudar ou melhorar o seu personagem. Chamamos isso de marco porque ele acontece em pontos significativos do jogo – o fim de uma sessão, o fim de um cenário ou o fim de um arco.
 
@@ -3905,32 +3863,25 @@ Marcos menores normalmente ocorrem ao final de uma sessão de jogo ou quando uma
 Durante um marco menor, você pode fazer uma das seguintes alterações (apenas uma):
 
 +  Trocar os valores de duas perícias um pelo outro ou substituir uma perícia Regular (+1) por uma que não possua em sua ficha.
-
 +  Alterar uma façanha para outra qualquer.
-
 +  Comprar uma nova façanha, contanto que possua recarga para isso (lembre-se que a recarga não pode ser inferior a 1).
-
 +  Renomear um aspecto de personagem que não o conceito. Além disso, você também pode renomear qualquer consequência moderada que possuir, iniciando assim o processo de recuperação, presumindo que você ainda não o tenha feito.
 
-Esta é uma boa forma de fazer pequenos ajustes, se parecer que algo não ficou tão bom em seu personagem – você não usa tão frequentemente uma façanha como pensava, talvez você resolva a ***Rixa Violenta Com Edmund ***e esse aspecto não é mais apropriado, ou qualquer mudança que mantenha a consistência do personagem perante os acontecimentos do jogo.
+Esta é uma boa forma de fazer pequenos ajustes, se parecer que algo não ficou tão bom em seu personagem – você não usa tão frequentemente uma façanha como pensava, talvez você resolva a ***Rixa Violenta Com Edmund*** e esse aspecto não é mais apropriado, ou qualquer mudança que mantenha a consistência do personagem perante os acontecimentos do jogo.
 
-Na verdade, você deve ser capaz de justificar quase sempre a mudança feita no contexto da história do jogo. Talvez não seja interessante alterar ***Cabeça Quente ***para ***Pacifista***, por exemplo, a não ser que algo inspirador tenha ocorrido na história para uma alteração tão significativa – você conhece um homem santo ou teve uma experiência traumática que o fez desistir da espada ou qualquer coisa assim. Narradores, vocês são os árbitros finais em julgar tais situações, mas não seja um carrasco que sacrifica a diversão de um jogador em benefício da história.
+Na verdade, você deve ser capaz de justificar quase sempre a mudança feita no contexto da história do jogo. Talvez não seja interessante alterar ***Cabeça Quente*** para ***Pacifista***, por exemplo, a não ser que algo inspirador tenha ocorrido na história para uma alteração tão significativa – você conhece um homem santo ou teve uma experiência traumática que o fez desistir da espada ou qualquer coisa assim. Narradores, vocês são os árbitros finais em julgar tais situações, mas não seja um carrasco que sacrifica a diversão de um jogador em benefício da história.
 
-Fräkeline atinge um marco menor. Maira olha sua ficha de personagem, procurando algo para mudar. Uma coisa que nota é que nas últimas sessões, Esopo a tem colocado em perigo, mas sempre se saído (quase) ileso.
-
-Ela olha para Léo e diz, “Quer saber? Acho que Fräk não pensa mais que *Esopo Precisa Ser Protegido*.
-
-Vou mudá-lo para *Não Posso Confiar em Esopo*.”
-
-Michel entra na conversa e diz, “Mas e os planos dos Bruxos que você viu?”
-
-Maira pensa um pouco e responde, “Bom, se eu encontrar provas que ele precisa mesmo de proteção, eu mudo de volta.”
-
-Amanda aprova a mudança e Maira reescreve um dos aspectos de Fräkeline.
-
-Enquanto isso, Esopo também consegue um marco menor.
-
-Léo olha sua ficha e nota que ele gastou mais tempo mentindo para as pessoas do que tentando fazer amigos. Ele pergunta a Amanda se pode alterar os níveis de suas perícias Enganar e Comunicação, ficando com Enganar Bom (+3) e Comunicação Razoável (+2). Ela concorda e ele faz a alteração em sua ficha.
+> Fräkeline atinge um marco menor. Maira olha sua ficha de personagem, procurando algo para mudar. Uma coisa que nota é que nas últimas sessões, Esopo a tem colocado em perigo, mas sempre se saído (quase) ileso.
+> 
+> Ela olha para Léo e diz, “Quer saber? Acho que Fräk não pensa mais que *Esopo Precisa Ser Protegido*. Vou mudá-lo para *Não Posso Confiar em Esopo*.”
+> 
+> Michel entra na conversa e diz, “Mas e os planos dos Bruxos que você viu?”
+> 
+> Maira pensa um pouco e responde, “Bom, se eu encontrar provas que ele precisa mesmo de proteção, eu mudo de volta.”
+> 
+> Amanda aprova a mudança e Maira reescreve um dos aspectos de Fräkeline.
+> 
+> Enquanto isso, Esopo também consegue um marco menor.Léo olha sua ficha e nota que ele gastou mais tempo mentindo para as pessoas do que tentando fazer amigos. Ele pergunta a Amanda se pode alterar os níveis de suas perícias Enganar e Comunicação, ficando com Enganar Bom (+3) e Comunicação Razoável (+2). Ela concorda e ele faz a alteração em sua ficha.
 
 #### Marco Significativo
 
@@ -3939,7 +3890,6 @@ Marcos significantes geralmente ocorrem no final de um cenário ou na conclusão
 Em adição aos benefícios de um marco menor, você também tem direito a ambos os seguintes:
 
 +  Um ponto de perícia adicional, para comprar uma nova perícia em nível Regular (+1) ou aumentar o nível de uma perícia existente.
-
 +  Se você possuir qualquer consequência grave, pode renomear a mesma para iniciar o processo de recuperação, se ainda não o fez.
 
 Quando você gasta seu ponto de perícia, você está dando um passo a mais na escala. Você pode usá-lo para comprar uma nova perícia em nível Regular (+1) ou pode aumentar o nível de uma perícia existente em sua ficha de personagem – digamos de Bom (+3) para Ótimo (+4).
@@ -3956,15 +3906,19 @@ A pirâmide já segue esse padrão, mas quando você adiciona novas perícias, v
 
 Então digamos que você possui uma Boa (+3), duas Razoáveis (+2) e três Regulares (+1). Sua distribuição de perícias ficaria assim:
 
-Vontade Bom (+3)
-Provocar e Comunicação Razoável (+2)
-Enganar, Contatos e Recursos Regular (+1)
+| ***Nível***       | ***Perícia*** | ***Perícia*** | ***Perícia*** |
+|------------------:|---------------|---------------|---------------|
+| **Bom (+3)**      | Vontade       |               |               |
+| **Razoável (+2)** | Provocar      | Comunicação   |               |
+| **Regular (+1)**  | Enganar       | Contatos      |  Recursos     |
 
 Ao alcançar um marco, você melhora uma perícia Razoável (+2) para Boa (+3). Isso vai lhe deixar com duas Boas (+3), uma Razoável (+2) e três Regulares (+1):
 
-Vontade e Comunicação Bom (+3)
-Provocar e Razoável (+2)
-Enganar, Contatos e Recursos Regular (+1)
+| ***Nível***       | ***Perícia*** | ***Perícia*** | ***Perícia*** |
+|------------------:|---------------|---------------|---------------|
+| **Bom (+3)**      | Vontade       | Comunicação   |               |
+| **Razoável (+2)** | Provocar      |               |               |
+| **Regular (+1)**  | Enganar       | Contatos      |  Recursos     |
 
 Vê como não funciona? Agora falta uma segunda perícia em nível Razoável para se enquadrar nas regras.
 
@@ -3974,33 +3928,29 @@ A outra alternativa é guardar o ponto de perícia e esperar até acumular o suf
 
 Então, no caso acima, você pode comprar uma perícia Regular (+1), promover uma de suas perícias Regulares para Razoável (+2) e em seguida melhorar a perícia original para Bom (+3). Isso pode levar até três marcos significantes para ser realizado. Ou você pode esperar, poupar os pontos até possuir três pontos de perícia, comprar uma nova perícia em nível Razoável (+2) e melhorar a perícia que desejar para Bom (+3). Só depende de você decidir se quer comprar perícias novas ou não nesse meio tempo.
 
-Bandu consegue um marco significativo após o fim de um cenário. Ele ganha um ponto de perícia.
-
-Michel olha para sua ficha de personagem e decide que quer aumentar o seu nível em Percepção de Razoável (+2) para Bom (+3). Ele sabe que isso vai contra à regra da pirâmide de perícias, então em vez disso decide comprar Recursos em nível Regular (+1) – os PJs passaram por algumas aventuras lucrativas e ele acredita que é uma boa oportunidade para começar a acumular riquezas.
-
-Se ele esperar mais dois marcos, poderá por mais uma perícia em nível Razoável (+2) e então colocar o nível desejado em Percepção, que é Bom (+3).
-
-Ele também tem a oportunidade de usar um dos benefícios de um marco menor. Ele acredita que esteve em muitas lutas durante o jogo e pensa que *Me Ofendo por Pouco *não é tão apropriado, considerando o número de vezes que ele foi ofendido. Ele altera para *Me Desafie e Haverá Consequências*, para reﬂetir a
-mudança de atitude de seu personagem perante a opinião alheia.
-
+> Bandu consegue um marco significativo após o fim de um cenário. Ele ganha um ponto de perícia.
+> 
+> Michel olha para sua ficha de personagem e decide que quer aumentar o seu nível em Percepção de Razoável (+2) para Bom (+3). Ele sabe que isso vai contra à regra da pirâmide de perícias, então em vez disso decide comprar Recursos em nível Regular (+1) – os PJs passaram por algumas aventuras lucrativas e ele acredita que é uma boa oportunidade para começar a acumular riquezas.
+> 
+> Se ele esperar mais dois marcos, poderá por mais uma perícia em nível Razoável (+2) e então colocar o nível desejado em Percepção, que é Bom (+3).
+> 
+> Ele também tem a oportunidade de usar um dos benefícios de um marco menor. Ele acredita que esteve em muitas lutas durante o jogo e pensa que *Me Ofendo por Pouco* não é tão apropriado, considerando o número de vezes que ele foi ofendido. Ele altera para *Me Desafie e Haverá Consequências*, para reﬂetir a mudança de atitude de seu personagem perante a opinião alheia.
+ 
 Você pode ter notado que quanto mais sobe na escala, mais difícil fica de melhorar suas perícias. Isso é proposital — ninguém conseguirá ser incrível em tudo o tempo todo. Não teria graça.
 
-Narradores, restringir demais o uso das perícias pode ser uma dor de cabeça às vezes. Se você e seus jogadores realmente querem melhorar o nível de certa perícia sem se preocuparem em quebrar regras, sugira ao jogador melhorar a perícia agora e gastar os próximos marcos para “corrigir” a pirâmide de perícias, no lugar de fazê-lo esperar.
+> Narradores, restringir demais o uso das perícias pode ser uma dor de cabeça às vezes. Se você e seus jogadores realmente querem melhorar o nível de certa perícia sem se preocuparem em quebrar regras, sugira ao jogador melhorar a perícia agora e gastar os próximos marcos para “corrigir” a pirâmide de perícias, no lugar de fazê-lo esperar.
 
 #### Marco Maior
 
-Um marco maior deve apenas ocorrer quando algo acontece que abala *de forma significativa *a estrutura do mundo – o fim de um arco (ou algo em torno de três cenários), a morte de um PdN principal ou qualquer outra alteração em grande escala que possa mexer com todo o universo do jogo.
+Um marco maior deve apenas ocorrer quando algo acontece que abala *de forma significativa* a estrutura do mundo – o fim de um arco (ou algo em torno de três cenários), a morte de um PdN principal ou qualquer outra alteração em grande escala que possa mexer com todo o universo do jogo.
 
 A ideia destes marcos é tornar o personagem mais poderoso. Os desafios anteriores não são mais suficientes para ameaçar os personagens e as ameaças futuras precisarão ser mais organizadas, determinadas e difíceis para enfrentá-los.
 
 Alcançar um marco maior confere os benefícios de um marco significativo e um marco menor e todas as opções a seguir:
 
 +  Se você possuir uma consequência extrema, renomeie-a para reﬂetir o fato de você já ter passado por seu efeito mais debilitante. Isso permite a você receber outra consequência extrema no futuro, se for preciso.
-
 +  Receba um ponto adicional de recarga, o que permite a você comprar uma nova façanha imediatamente ou mantê-lo para que receba mais pontos de destino no início de uma sessão.
-
 +  Adicione uma perícia nova acima do limite da pirâmide, se possuir pontos para isso, aumentando assim o limite.
-
 +  Renomeie o conceito de personagem se desejar.
 
 Alcançar um marco maior é algo grandioso. Personagens com mais façanhas possuirão diversas possibilidades de receberem bônus, tornando suas perícias mais efetivas que o normal. Personagens com alto nível em recarga possuirão uma boa fonte de pontos de destino para trabalhar seus aspectos durante as sessões, o que significa não precisa forçar demais os próprios spectos.
@@ -4009,31 +3959,31 @@ Narradores, quando um PJ ultrapassa o limite atual de sua pirâmide, é preciso 
 
 Mas se jogar por bastante tempo, eventualmente terá PJs com perícias em níveis Épicos e Lendários – isso já lhe dá uma noção do tipo de vilões que precisarão aparecer. Acima de tudo, um marco maior deve sinalizar que muitas coisas no mundo de jogo foram alteradas. Algumas mudanças serão reﬂetidas no avanço do mundo, mas dado o número de vezes que os PJs tiveram a chance de alterar seus aspectos em resposta à história, é bem provável que você esteja agora lidando com um grupo que possui prioridades e preocupações bem diferentes do início do jogo.
 
-Fräkeline chega ao fim de um arco e alcança um marco maior. Em jogo, os PJs derrubaram Zoidai Vasa, uma PdN importante do mundo de jogo.
+> Fräkeline chega ao fim de um arco e alcança um marco maior. Em jogo, os PJs derrubaram Zoidai Vasa, uma PdN importante do mundo de jogo.
+> 
+> Maira verifica sua ficha de personagem. Ela recebeu uma consequência extrema no arco passado e deixou um de seus aspectos ser substituído por *Memórias Corrompidas*. Agora ela tem a oportunidade de renomear esse aspecto novamente e o altera para *Memórias Superficiais* – essa experiência deixou cicatrizes, mas está melhor que antes, agora que ela possui um objetivo.
+> 
+> Ela também recebe um ponto adicional de recarga.
+> 
+> Conversando com Amanda, ela pensa que talvez pudesse transformar a experiência de perder e recuperar memórias em uma façanha. Amanda não vê razão alguma para não concordar e Maira decide comprar uma nova façanha, criando “Cérebro Reserva: +2 quando usar Conhecimentos para guardar ou lembrar informações fornecidas previamente.”
+> 
+> Maira escreve a nova façanha na ficha de personagem e reescreve, também, o aspecto.
+> 
+> Bandu, O Oculto também alcança um marco maior. Michel olha para sua ficha de personagem e percebe que pode avançar ainda mais sua maior perícia Conhecimentos, que é Excepcional (+5). Ele faz isso e Amanda faz uma nota que ela precisa criar inimigos à altura de Bandu que agora é mais poderoso, para dar-lhe um desafio no mesmo nível.
+> 
+> Finalmente, Esopo também atinge um marco maior.
+> 
+> Recentemente Esopo se envolveu numa reunião dos Ordenadores espaciais e descobriu que todos os mercenários que ele conhece estão trabalhando com o Clã do Dedo, que recentemente apoiaram Zoidai em seus esforços para conquistar Ondrin. Em resposta a isso, Léo decide alterar seu conceito para *Soldado Ordenador Lagosta*, indicando seu desejo de se distanciar de sua vida ilegal. Amanda diz que seus conhecidos não aceitarão isso de bom grado. Então temos Fräk com memórias reservas, Bandu atingindo um nível de poder ainda não visto e Esopo questionando seu próprio estilo de vida. Amanda faz diversas anotações sobre as implicações disso nos próximos cenários.
 
-Maira verifica sua ficha de personagem. Ela recebeu uma consequência extrema no arco passado e deixou um de seus aspectos ser substituído por *Memórias Corrompidas*. Agora ela tem a oportunidade de renomear esse aspecto novamente e o altera para *Memórias Superficiais *– essa experiência deixou cicatrizes, mas está melhor que antes, agora que ela possui um objetivo.
+> **De Volta À Criação De Personagem**
+> 
+> Um marco maior pode ser visto como o final de uma temporada numa série de TV. Quando a próxima sessão iniciar, muita coisa pode ser diferente em seu jogo – você pode criar novos problemas, muitos personagens terão aspectos modificados, haverá novos traços e características na campanha, etc.
+> 
+> Quando isso acontece, pode ser a hora de sentar, como você fez na criação dos personagens, e revisar as fichas dos PJs, alterando ou ajustando qualquer coisa que possa precisar de revisão - novas configurações de perícias, um novo pacote de façanhas, alterações nos aspectos, etc. Você também pode examinar as questões e problemas em jogo para ter certeza de que ainda são apropriados, revisar aspectos de local, ou o que for preciso para manter o ﬂuxo do jogo.
+> 
+> Contanto que você mantenha os PJs no mesmo nível de recarga e perícias que estavam, reorganizar as fichas pode ser exatamente o que você precisa para ter certeza que todos sabem o que está acontecendo no jogo. E lembrem-se, Narradores: quanto mais chances os jogadores tiverem de investirem ativamente no mundo de jogo, maior será o retorno.
 
-Ela também recebe um ponto adicional de recarga.
-
-Conversando com Amanda, ela pensa que talvez pudesse transformar a experiência de perder e recuperar memórias em uma façanha. Amanda não vê razão alguma para não concordar e Maira decide comprar uma nova façanha, criando “Cérebro Reserva: +2 quando usar Conhecimentos para guardar ou lembrar informações fornecidas previamente.”
-
-Maira escreve a nova façanha na ficha de personagem e reescreve, também, o aspecto.
-
-Bandu, O Oculto também alcança um marco maior. Michel olha para sua ficha de personagem e percebe que pode avançar ainda mais sua maior perícia Conhecimentos, que é Excepcional (+5). Ele faz isso e Amanda faz uma nota que ela precisa criar inimigos à altura de Bandu que agora é mais poderoso, para dar-lhe um desafio no mesmo nível.
-
-Finalmente, Esopo também atinge um marco maior.
-
-Recentemente Esopo se envolveu numa reunião dos Ordenadores espaciais e descobriu que todos os mercenários que ele conhece estão trabalhando com o Clã do Dedo, que recentemente apoiaram Zoidai em seus esforços para conquistar Ondrin. Em resposta a isso, Léo decide alterar seu conceito para *Soldado Ordenador Lagosta*, indicando seu desejo de se distanciar de sua vida ilegal. Amanda diz que seus conhecidos não aceitarão isso de bom grado. Então temos Fräk com memórias reservas, Bandu atingindo um nível de poder ainda não visto e Esopo questionando seu próprio estilo de vida. Amanda faz diversas anotações sobre as implicações disso nos próximos cenários.
-
-**DE VOLTA à CRIAÇÃO DE PERSONAGEM**
-
-Um marco maior pode ser visto como o final de uma temporada numa série de TV. Quando a próxima sessão iniciar, muita coisa pode ser diferente em seu jogo – você pode criar novos problemas, muitos personagens terão aspectos modificados, haverá novos traços e características na campanha, etc.
-
-Quando isso acontece, pode ser a hora de sentar, como você fez na criação dos personagens, e revisar as fichas dos PJs, alterando ou ajustando qualquer coisa que possa precisar de revisão - novas configurações de perícias, um novo pacote de façanhas, alterações nos aspectos, etc. Você também pode examinar as questões e problemas em jogo para ter certeza de que ainda são apropriados, revisar aspectos de local, ou o que for preciso para manter o ﬂuxo do jogo.
-
-Contanto que você mantenha os PJs no mesmo nível de recarga e perícias que estavam, reorganizar as fichas pode ser exatamente o que você precisa para ter certeza que todos sabem o que está acontecendo no jogo. E lembrem-se, Narradores: quanto mais chances os jogadores tiverem de investirem ativamente no mundo de jogo, maior será o retorno.
-
-## EVOLUÇÃO DO MUNDO
+## Evolução Do Mundo
 
 Os personagens não são os únicos que mudam em resposta aos eventos do jogo. Eles deixam suas marcas por onde passam. Problemas que eram críticos no início do jogo são resolvidos ou alterados de alguma forma. Outras coisas que não eram um problema agora ressurgem com uma gravidade maior. Antigos adversários caem no esquecimento e novos surgem.
 
@@ -4044,39 +3994,36 @@ Seguem abaixo algumas orientações referentes a isso.
 ### Para Marcos Menores
 
 +  Você precisa adicionar novos locais ao jogo devido ao que os PJs fizeram? Se for assim, crie alguns PdNs para ajudá-lo a dar mais personalidade ao novo ambiente e adicione algumas questões a serem resolvidas nesse lugar.
++  Os PJs resolveram alguma questão local? Livre-se do aspecto ou talvez altere-o para representar como a questão foi resolvida (***Na Sombra de Um Necromante*** poderia se tornar ***Memórias da Tirania***, por exemplo).
 
-+  Os PJs resolveram alguma questão local? Livre-se do aspecto ou talvez altere-o para representar como a questão foi resolvida (***Na Sombra de Um Necromante ***poderia se tornar ***Memórias da Tirania***, por exemplo).
-
-O grupo alcança um marco menor por ter resgatado o herdeiro do trono de Ondrin dos capangas de Zoidai Vasa, a Rainha do Crime. Foi uma pequena vitória que pode fornecer recompensas interessantes, já que agora eles têm um aliado poderoso, a Família Real de Ondrin.
-
-Amanda pensa um pouco sobre que tipo de alterações poderiam ocorrer devido a vitória do grupo. Ela não precisa adicionar um novo local, mas acha que Zoidai pode guardar algum rancor da família, agora que o filho do duque foi resgatado. Ela decide alterar o aspecto *Sociedade Secreta Com A Rainha do Crime *para *A Um Passo Da Guerra Com Zoidai *para representar a mudança na história, assim como o desejo de guerra do Raiduque de Ondrin.
+> O grupo alcança um marco menor por ter resgatado o herdeiro do trono de Ondrin dos capangas de Zoidai Vasa, a Rainha do Crime. Foi uma pequena vitória que pode fornecer recompensas interessantes, já que agora eles têm um aliado poderoso, a Família Real de Ondrin.
+> 
+> Amanda pensa um pouco sobre que tipo de alterações poderiam ocorrer devido a vitória do grupo. Ela não precisa adicionar um novo local, mas acha que Zoidai pode guardar algum rancor da família, agora que o filho do duque foi resgatado. Ela decide alterar o aspecto *Sociedade Secreta Com A Rainha do Crime* para *A Um Passo Da Guerra Com Zoidai* para representar a mudança na história, assim como o desejo de guerra do Raiduque de Ondrin.
 
 ### Para Marcos Significativos
 
 +  Os PJs resolveram alguma questão que envolvia o mundo inteiro? Se sim, remova (ou altere) o aspecto.
-
 +  Os PJs criaram alterações permanentes em algum local? Se sim, crie outra questão para reﬂetir isso, para melhor ou pior.
 
-Mais tarde, o grupo derrota e expulsa do planeta o pistoleiro Vega Nexos, tenente de Zoidai. A Rainha do Crime ainda é uma ameaça, mas seu poder foi significantemente reduzido; essa é uma grande vitória. Fräk acabou com Vega em um combate direto, e agora ele não é mais um problema; isso resolve a questão Todos Temem Vega Nexos, que pairava sobre o mundo de jogo. Amanda risca a questão, ainda sem saber como substituí-la.
-
-Eles também criaram alterações permanentes em Ondrin.
-
-A região não pertence mais a Zoidai, e embora a maioria da população seja grata por isso, alguns de seus servos continuam a criar problemas. Amanda substitui o aspecto do local, de *Sob o Controle de Zoidai Vasa *para Sorrisos Amedrontados, para expressar a paranoia atual.
+> Mais tarde, o grupo derrota e expulsa do planeta o pistoleiro Vega Nexos, tenente de Zoidai. A Rainha do Crime ainda é uma ameaça, mas seu poder foi significantemente reduzido; essa é uma grande vitória. Fräk acabou com Vega em um combate direto, e agora ele não é mais um problema; isso resolve a questão Todos Temem Vega Nexos, que pairava sobre o mundo de jogo. Amanda risca a questão, ainda sem saber como substituí-la.
+> 
+> Eles também criaram alterações permanentes em Ondrin.
+> 
+> A região não pertence mais a Zoidai, e embora a maioria da população seja grata por isso, alguns de seus servos continuam a criar problemas. Amanda substitui o aspecto do local, de *Sob o Controle de Zoidai Vasa* para *Sorrisos Amedrontados*, para expressar a paranoia atual.
 
 ### Para Marcos Maiores
 
 + Os PJs realizaram alterações permanentes no mundo de jogo? Então, forneça uma nova questão para reﬂetir isso, para o bem ou mal.
 
-Com a derrota épica de Zoidai Vasa pelos PJs, Amanda decide que a criminalidade começará uma luta pelo poder. Ela decide criar o aspecto *Submundo Sem Líder *para reﬂetir isso.
+> Com a derrota épica de Zoidai Vasa pelos PJs, Amanda decide que a criminalidade começará uma luta pelo poder. Ela decide criar o aspecto *Submundo Sem Líder* para reﬂetir isso.
 
-Você não precisa realizar essas alterações de forma precisa ou regularmente como os jogadores –
-seja o mais natural possível.
+Você não precisa realizar essas alterações de forma precisa ou regularmente como os jogadores – seja o mais natural possível.
 
 Em outras palavras, foque em mudar os aspectos com os quais os personagens interagiram diretamente.
 
 Se há aspectos ainda não explorados, mantenha-os na manga caso ache que chegará sua vez. No entanto, você também pode alterá-los para torná-los mais relevantes naquele momento ou simplesmente para passar uma sensação de imersão no mundo aos PJs.
 
-Zoidai Vasa não era o único perigo da região. Os Carbonívoros atacam de tempos em tempos e os governantes de Naraka e Cantor 7 estão em guerra no sistema. Amanda pretende incluir mutantes em breve, então mantém *As Aparências Enganam *como aspecto regional. A variedade de problemas permite que os PJs façam várias decisões interessantes.
+>  Zoidai Vasa não era o único perigo da região. Os Carbonívoros atacam de tempos em tempos e os governantes de Naraka e Cantor 7 estão em guerra no sistema. Amanda pretende incluir mutantes em breve, então mantém *As Aparências Enganam* como aspecto regional. A variedade de problemas permite que os PJs façam várias decisões interessantes.
 
 Lembre-se também que se os PJs resolvem alguma questão iminente, outro deve surgir para tomar seu lugar. Não se preocupe com isso imediatamente – você precisa passar aos jogadores a sensação de que conseguem causar mudanças permanentes no jogo. Porém, se perceber que não há dificuldades suficientes para mover o jogo, está na hora de esquentar as coisas e colocar uma nova questão a ser resolvida, seja no mundo de jogo como um todo ou em um local específico.
 
@@ -4088,22 +4035,20 @@ Da mesma forma, quando há uma mudança significativa em uma questão local ou d
 
 Na maioria das vezes será bem óbvio quando um personagem novo for necessário – quando alguém morre ou é removido permanentemente do jogo ou quando as coisas estão ficando chatas, é hora de mudar um pouco.
 
-Quando os heróis resgatam o herdeiro do trono, a família do Raiduque se encontra em dívida com eles. Para representar isso, Amanda muda alguns de seus aspectos para torná-los mais amigáveis.
-
-Ela acredita também que alguém vai querer assumir o submundo. Ela acha interessante a ideia de tornar o herdeiro do trono, Hali Lachesis, um amante de Zoidai que não está feliz com a derrota e expulsão da rainha criminosa. Ele decide então se tornar o *Rei Tirano da Nebulosa Cadente*. Amanda anota alguns aspectos criados na hora e o transforma no mais novo vilão do cenário, pegando todos de surpresa.
+> Quando os heróis resgatam o herdeiro do trono, a família do Raiduque se encontra em dívida com eles. Para representar isso, Amanda muda alguns de seus aspectos para torná-los mais amigáveis.
+> 
+> Ela acredita também que alguém vai querer assumir o submundo. Ela acha interessante a ideia de tornar o herdeiro do trono, Hali Lachesis, um amante de Zoidai que não está feliz com a derrota e expulsão da rainha criminosa. Ele decide então se tornar o *Rei Tirano da Nebulosa Cadente*. Amanda anota alguns aspectos criados na hora e o transforma no mais novo vilão do cenário, pegando todos de surpresa.
 
 ### PdNs Recorrentes
 
-Há duas formas básicas de reutilizar PdNs. Você pode usá-los para *mostrar o quanto os PJs evoluíram desde que começaram *ou usá-los para *mostrar como o mundo está respondendo à sua evolução*.
+Há duas formas básicas de reutilizar PdNs. Você pode usá-los para *mostrar o quanto os PJs evoluíram desde que começaram* ou usá-los para *mostrar como o mundo está respondendo à sua evolução*.
 
 Na primeira, você não altera o PdN, pois esse é o ponto – a próxima vez que os PJs o encontrarem, eles já o terão ultrapassado ou terão novas preocupações; talvez tenham evoluído rapidamente, deixando o PdN para trás. Pode ser preciso alterar a importância dele no jogo – se ele foi um PdN importante, agora ele pode ter se tornado um PdN de suporte graças à evolução dos PJs.
 
 Na segunda opção, você permite ao PdN avançar igualmente com os PJs – adicionando novas perícias, alterando seus aspectos, criando mais uma ou duas façanhas ou qualquer outra coisa necessária para manter o equilíbrio com os PJs. O tipo de PdN pode perdurar como um inimigo que retorna em diversos arcos, ou ao menos passa uma certa noção de continuidade conforme os PJs ficam mais fortes e inﬂuentes.
 
-Zoidai Vasa evoluiu junto com os PJs. Ela foi uma vilã principal e Amanda quis mantê-la relevante e desafiadora até o momento de sua derrota final. Logo, toda vez que os PJs atingiam um marco, ela aplicava os mesmos efeitos a Zoidai. Ela também efetuou alguns ajustes aqui e ali (alterou aspectos, trocou algumas perícias) como uma resposta ao que os PJs fizeram.
-
-Talar, um dos agentes chefes de Zoidai em Ondrin, também mudou desde o último confronto. Ele era um PdN importante e a luta com ele havia sido planejada como ponto alto da sessão. Os PJs, porém, passaram direto por ele, convencendo-o a deixá-los entrar, o que fez com que ele se tornasse menos relevante depois disso. Ele ficou ressentido e entrou no caminho dos PJs algumas vezes, mas não conseguiu evoluir tão rápido quanto eles.
-
-A última vez que o encontraram, ele levou a maior surra e fugiu com o rabo entre as pernas.
+> Zoidai Vasa evoluiu junto com os PJs. Ela foi uma vilã principal e Amanda quis mantê-la relevante e desafiadora até o momento de sua derrota final. Logo, toda vez que os PJs atingiam um marco, ela aplicava os mesmos efeitos a Zoidai. Ela também efetuou alguns ajustes aqui e ali (alterou aspectos, trocou algumas perícias) como uma resposta ao que os PJs fizeram.
+> 
+> Talar, um dos agentes chefes de Zoidai em Ondrin, também mudou desde o último confronto. Ele era um PdN importante e a luta com ele havia sido planejada como ponto alto da sessão. Os PJs, porém, passaram direto por ele, convencendo-o a deixá-los entrar, o que fez com que ele se tornasse menos relevante depois disso. Ele ficou ressentido e entrou no caminho dos PJs algumas vezes, mas não conseguiu evoluir tão rápido quanto eles. A última vez que o encontraram, ele levou a maior surra e fugiu com o rabo entre as pernas.
 
 
